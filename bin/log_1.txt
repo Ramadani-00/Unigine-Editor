@@ -1,0 +1,525 @@
+12:59:43 Third-Party Notices: https://developer.unigine.com/docs/2.19/third_party
+12:59:43 
+12:59:43 
+12:59:43 ---- Configs ----
+12:59:43 Loading boot config "F:/Data Backup Dani/UNIGINE Projects/smallboat/data/configs/default.boot"...
+12:59:43 Loading user config "F:/Data Backup Dani/UNIGINE Projects/smallboat/data/configs/default.user"...
+12:59:43 Using config file "configs/default.config"
+12:59:43 Using boot config file "configs/default.boot"
+12:59:43 Using user config file "configs/default.user"
+12:59:43 Using controls config file "configs/default.controls"
+12:59:43 Loading "dxgi.dll"...
+12:59:43 
+12:59:43 ---- Engine ----
+12:59:43 Version: 2.19.0.3 Debug Double ver-2.19.1-c8c5226 Jan 30 2025 (2.19.1 SDK)
+12:59:43 Binary: Windows x86_64 Debug WinSDK(10.0.10011.16384) Compiler(MSVC:1940 Toolchain:Unknown Toolset:Unknown VisualStudio:Unknown)
+12:59:43 Features: Direct3D11.1 Direct3D12.0 Vulkan OpenAL VR OpenVR OpenXR Varjo DoubleCoords HalfTexCoords Debug
+12:59:43 
+12:59:43 ---- OS ----
+12:59:43 Windows 11 (build 26200)
+12:59:43 
+12:59:43 ---- CPU ----
+12:59:43 13th Gen Intel(R) Core(TM) i7-13700
+12:59:43 Extensions:  MMX SSE SSE2 SSE3 SSSE3 SSE41 SSE42 AVX AVX2 HTT
+12:59:43 Frequency: 2111MHz
+12:59:43 Cores: 16 Threads : 24
+12:59:43 RAM: 31.7GB
+12:59:43 
+12:59:43 ---- GPU ----
+12:59:43 GPU 0 Active : NVIDIA GeForce RTX 3080 Ti    Memory:12084MB Type:Discrete    Vendor:NVidia   CommonHeaps:true Priority:32 LUID:000000000000d775 DeviceID:00002208 Driver:591.86
+12:59:43 GPU 1        : Intel(R) UHD Graphics 770     Memory:16254MB Type:Integrated  Vendor:Intel    CommonHeaps:true Priority:31 LUID:000000000000efea DeviceID:0000a780 Driver:101.7082
+12:59:43 GPU 2        : Intel(R) UHD Graphics 770     Memory:16254MB Type:Integrated  Vendor:Intel    CommonHeaps:true Priority:29 LUID:000000000001bec3 DeviceID:0000a780 Driver:101.7082
+12:59:43 GPU 3        : Microsoft Basic Render Driver Memory:16254MB Type:Other       Vendor:Unknown  CommonHeaps:true Priority:30 LUID:000000000000f305 DeviceID:0000f305 Driver:Unknown
+12:59:43 GAPI: Direct3D 11.1
+12:59:43 
+12:59:43 
+12:59:43 ---- Application ----
+12:59:43 
+12:59:43 ---- System Proxy ----
+12:59:43 SystemProxy initialization (Time: 75.9ms, Memory: 4.1KB)
+12:59:43 
+12:59:43 ---- VR ----
+12:59:43 VR initialization (Time: 0.0ms, Memory: 1.6KB)
+12:59:43 
+12:59:43 
+12:59:43 ---- Render ----
+12:59:43 Loading "dxgi.dll"...
+12:59:43 Direct3D 11 initialization
+12:59:43 Renderer API: Direct3D 11.0
+12:59:43 Maximum texture size: 16384
+12:59:43 Maximum texture units: 16
+12:59:43 DLSS is not implemented, DLSS is currently avialable only for DX12
+12:59:43 FSR is not implemented, FSR is currently avialable only for DX12
+12:59:43 Render initialization (Time: 262.5ms, Memory: 31.4MB)
+12:59:43 
+12:59:43 
+12:59:43 ---- VR Subsystems ----
+12:59:43 VR Subsystems initialization (Time: 0.0ms, Memory: 17.5KB)
+12:59:43 
+12:59:43 
+12:59:43 ---- Filesystem begin ----
+12:59:43 App path:  F:/Data Backup Dani/UNIGINE Projects/smallboat/bin/
+12:59:43 Data path: F:/Data Backup Dani/UNIGINE Projects/smallboat/data/
+12:59:43 Save path: F:/Data Backup Dani/UNIGINE Projects/smallboat/bin/
+12:59:44 
+12:59:44 Runtimes loaded: 752 (Time: 22.7ms, Memory: 1.3MB)
+12:59:44 Filesystem initialization (Time: 95.6ms, Memory: 8.8MB)
+12:59:44 ---- Filesystem end ----
+12:59:44 
+12:59:44 
+12:59:44 ---- Sound ----
+12:59:44 Loading "openal32.dll"...
+12:59:44 Renderer: OpenAL Soft on Headphones (vivo Buds)
+12:59:44 OpenAL vendor: OpenAL Community
+12:59:44 OpenAL renderer: OpenAL Soft
+12:59:44 OpenAL version: 1.1 ALSOFT 1.22.2
+12:59:44 Found AL_EXT_LINEAR_DISTANCE
+12:59:44 Found AL_EXT_OFFSET
+12:59:44 Found ALC_EXT_EFX
+12:59:44 Found ALC_SOFT_HRTF
+12:59:44 Found EFX Filter
+12:59:44 Found EFX Reverb
+12:59:44 Found EAX Reverb
+12:59:44 Found QUAD16 format
+12:59:44 Found 51CHN16 format
+12:59:44 Found 61CHN16 format
+12:59:44 Found 71CHN16 format
+12:59:44 Device enumeration supported
+12:59:44 Maximum sources: 256
+12:59:44 Maximum effect slots: 16
+12:59:44 Maximum auxiliary sends: 2
+12:59:44 Output sampling frequency: 48000hz
+12:59:44 HRTF not enabled!
+12:59:44 
+12:59:44 Sound: openal
+12:59:44 Sound initialization (Time: 35.1ms, Memory: 6.7KB)
+12:59:44 
+12:59:44 ---- Physics ----
+12:59:44 
+12:59:44 ---- PathFind ----
+12:59:44 
+12:59:44 Loading controls "F:/Data Backup Dani/UNIGINE Projects/smallboat/data/configs/default.controls"...
+12:59:44 Loading config "F:/Data Backup Dani/UNIGINE Projects/smallboat/data/configs/default.config"...
+12:59:44 D3D11Particles::createBuffers (Time: 20.8ms, Memory: 17.2KB)
+12:59:44 
+12:59:44 ---- Materials begin----
+12:59:44 
+12:59:44 ---- Properties begin ----
+12:59:44 
+12:59:44 ---- MeshManager begin ----
+12:59:44 Properties loaded: 39/39 (Time: 5.4ms, Memory: 690.8KB)
+12:59:44 ---- Properties end ----
+12:59:44 
+12:59:44 Initialization meshes (Time: 19.8ms, Memory: 1.1MB)
+12:59:44 Total resources: 286
+12:59:44 ---- MeshManager end ----
+12:59:44 
+12:59:45 Base materials loaded: 469/469
+12:59:45 Materials loaded: 247/247
+12:59:45 Load Materials (Time: 0.9s, Memory: 13.1MB)
+12:59:45 Preload materials loaded: 1504 (Time: 177.1ms, Memory: 7.2MB)
+12:59:45 Shaders compiled: 912 (Time: 140.6ms, Memory: 13.4MB)
+12:59:45 Total materials loaded: 2220 (Time: 1.2s, Memory: 33.8MB)
+12:59:45 ---- Materials end ----
+12:59:45 
+12:59:45 
+12:59:45 ---- Animations ----
+12:59:45 Total objects: 0
+12:59:45 Total tracks: 0
+12:59:45 Total playbacks: 0
+12:59:45 Load Animations (Time: 1.0ms, Memory: 0B)
+12:59:46 
+12:59:46 Engine initialization (Time: 3.0s, Memory: 242.6MB)
+12:59:46 
+12:59:46 
+12:59:46 ---- Plugins ----
+12:59:46 Plugins path: "F:/Data Backup Dani/UNIGINE Projects/smallboat/bin/plugins"
+12:59:46 Plugins initialization (Time: 0.0ms, Memory: 192B)
+12:59:46 
+12:59:46 ---- Interpreter ----
+12:59:46 Version: 2.90
+12:59:46 
+12:59:46 Unigine~# world_load "smallboat"
+12:59:46 Script loading "core/unigine.usc" 4ms
+12:59:46 WARNING:	ObjectMeshStatic(Name:"TagBoath", ID:643581829, IDFromFile:643581829, File:"smallboat.world", Hierarchy:"TagBoath")
+12:59:46 WARNING:	Node::setProperty(): can't find guid "f29a719d37a98eeb4eaadca88647f5a41d9e6af2" property for "TagBoath" node (643581829)
+12:59:46 WARNING:	ObjectMeshStatic(Name:"K_Canberra", ID:1375247768, IDFromFile:1375247768, File:"smallboat.world", Hierarchy:"K_Canberra")
+12:59:46 WARNING:	Node::setProperty(): can't find guid "f29a719d37a98eeb4eaadca88647f5a41d9e6af2" property for "K_Canberra" node (1375247768)
+12:59:46 WARNING:	ObjectMeshStatic(Name:"barrel2", ID:1086980856, IDFromFile:1086980856, File:"smallboat.world", Hierarchy:"barrel2")
+12:59:46 WARNING:	Object::setMaterialGUID(): can't find guid "5d32f217bedecb6a3a50c36e6f181546f38d2528" material for "barrel2" object (1086980856)
+12:59:46 WARNING:	ObjectMeshDynamic(Name:"missile", ID:1393828676, IDFromFile:1393828676, File:"smallboat.world", Hierarchy:"missile")
+12:59:46 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile" node (1393828676)
+12:59:46 WARNING:	ObjectMeshStatic(Name:"missile1", ID:1147512458, IDFromFile:1147512458, File:"smallboat.world", Hierarchy:"missile1")
+12:59:46 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile1" node (1147512458)
+12:59:46 WARNING:	ObjectMeshStatic(Name:"missile2", ID:22780284, IDFromFile:22780284, File:"smallboat.world", Hierarchy:"missile2")
+12:59:46 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile2" node (22780284)
+12:59:46 WARNING:	ObjectMeshStatic(Name:"missile3", ID:23096936, IDFromFile:23096936, File:"smallboat.world", Hierarchy:"missile3")
+12:59:46 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile3" node (23096936)
+12:59:46 WARNING:	ObjectMeshStatic(Name:"missile4", ID:1694313620, IDFromFile:1694313620, File:"smallboat.world", Hierarchy:"missile4")
+12:59:46 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile4" node (1694313620)
+12:59:46 WARNING:	ObjectMeshStatic(Name:"missile5", ID:1888468992, IDFromFile:1888468992, File:"smallboat.world", Hierarchy:"missile5")
+12:59:46 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile5" node (1888468992)
+12:59:46 WARNING:	ObjectMeshStatic(Name:"missile6", ID:1640977580, IDFromFile:1640977580, File:"smallboat.world", Hierarchy:"missile6")
+12:59:46 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile6" node (1640977580)
+12:59:46 WARNING:	ObjectMeshStatic(Name:"missile7", ID:381179544, IDFromFile:381179544, File:"smallboat.world", Hierarchy:"missile7")
+12:59:46 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile7" node (381179544)
+12:59:46 WARNING:	ObjectMeshStatic(Name:"missile8", ID:2109239748, IDFromFile:2109239748, File:"smallboat.world", Hierarchy:"missile8")
+12:59:46 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile8" node (2109239748)
+12:59:46 WARNING:	ObjectMeshStatic(Name:"NB412S_1", ID:331047240, IDFromFile:331047240, File:"smallboat.world", Hierarchy:"NB412S_1")
+12:59:46 WARNING:	Node::setProperty(): can't find guid "6dd818e554fc77ddf651871c449511e33432ccae" property for "NB412S_1" node (331047240)
+12:59:46 WARNING:	ObjectMeshStatic(Name:"MK46", ID:323967873, IDFromFile:323967873, File:"smallboat.world", Hierarchy:"MK46")
+12:59:46 WARNING:	Node::setProperty(): can't find guid "f441cb609a7fc07426a453069e84559475069369" property for "MK46" node (323967873)
+12:59:46 WARNING:	ObjectMeshStatic(Name:"MK46_1", ID:483408651, IDFromFile:483408651, File:"smallboat.world", Hierarchy:"MK46_1")
+12:59:46 WARNING:	Node::setProperty(): can't find guid "f441cb609a7fc07426a453069e84559475069369" property for "MK46_1" node (483408651)
+12:59:46 WARNING:	ObjectMeshStatic(Name:"MK46_2", ID:1086422349, IDFromFile:1086422349, File:"smallboat.world", Hierarchy:"MK46_2")
+12:59:46 WARNING:	Node::setProperty(): can't find guid "f441cb609a7fc07426a453069e84559475069369" property for "MK46_2" node (1086422349)
+12:59:46 WARNING:	ObjectMeshStatic(Name:"MK46_3", ID:203678111, IDFromFile:203678111, File:"smallboat.world", Hierarchy:"MK46_3")
+12:59:46 WARNING:	Node::setProperty(): can't find guid "f441cb609a7fc07426a453069e84559475069369" property for "MK46_3" node (203678111)
+12:59:46 WARNING:	ObjectMeshStatic(Name:"MK46_4", ID:1513683073, IDFromFile:1513683073, File:"smallboat.world", Hierarchy:"MK46_4")
+12:59:46 WARNING:	Node::setProperty(): can't find guid "f441cb609a7fc07426a453069e84559475069369" property for "MK46_4" node (1513683073)
+12:59:46 WARNING:	ObjectMeshStatic(Name:"MK46_5", ID:1645401715, IDFromFile:1645401715, File:"smallboat.world", Hierarchy:"MK46_5")
+12:59:46 WARNING:	Node::setProperty(): can't find guid "f441cb609a7fc07426a453069e84559475069369" property for "MK46_5" node (1645401715)
+12:59:46 WARNING:	ObjectParticles(Name:"ObjectParticles_1", ID:1645366044, IDFromFile:1645366044, File:"smallboat.world", Hierarchy:"ObjectParticles_1")
+12:59:46 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_1" object (1645366044)
+12:59:46 WARNING:	ObjectParticles(Name:"ObjectParticles_2", ID:176279214, IDFromFile:176279214, File:"smallboat.world", Hierarchy:"ObjectParticles_2")
+12:59:46 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_2" object (176279214)
+12:59:46 WARNING:	ObjectParticles(Name:"ObjectParticles_1", ID:1807484400, IDFromFile:1807484400, File:"smallboat.world", Hierarchy:"ObjectParticles_1")
+12:59:46 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_1" object (1807484400)
+12:59:46 WARNING:	ObjectParticles(Name:"ObjectParticles_2", ID:1427264674, IDFromFile:1427264674, File:"smallboat.world", Hierarchy:"ObjectParticles_2")
+12:59:46 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_2" object (1427264674)
+12:59:46 WARNING:	ObjectParticles(Name:"ObjectParticles_1", ID:1807536497, IDFromFile:1807536497, File:"smallboat.world", Hierarchy:"ObjectParticles_1")
+12:59:46 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_1" object (1807536497)
+12:59:46 WARNING:	ObjectParticles(Name:"ObjectParticles_2", ID:972228811, IDFromFile:972228811, File:"smallboat.world", Hierarchy:"ObjectParticles_2")
+12:59:46 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_2" object (972228811)
+12:59:46 WARNING:	ObjectParticles(Name:"ObjectParticles_1", ID:1834399846, IDFromFile:1834399846, File:"smallboat.world", Hierarchy:"ObjectParticles_1")
+12:59:46 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_1" object (1834399846)
+12:59:46 WARNING:	ObjectParticles(Name:"ObjectParticles_2", ID:539266184, IDFromFile:539266184, File:"smallboat.world", Hierarchy:"ObjectParticles_2")
+12:59:46 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_2" object (539266184)
+12:59:46 WARNING:	ObjectParticles(Name:"ObjectParticles_1", ID:238786000, IDFromFile:238786000, File:"smallboat.world", Hierarchy:"ObjectParticles_1")
+12:59:46 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_1" object (238786000)
+12:59:46 WARNING:	ObjectParticles(Name:"ObjectParticles_2", ID:201117570, IDFromFile:201117570, File:"smallboat.world", Hierarchy:"ObjectParticles_2")
+12:59:46 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_2" object (201117570)
+12:59:46 WARNING:	ObjectParticles(Name:"ObjectParticles_1", ID:500429685, IDFromFile:500429685, File:"smallboat.world", Hierarchy:"ObjectParticles_1")
+12:59:46 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_1" object (500429685)
+12:59:46 WARNING:	ObjectParticles(Name:"ObjectParticles_2", ID:1750199663, IDFromFile:1750199663, File:"smallboat.world", Hierarchy:"ObjectParticles_2")
+12:59:46 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_2" object (1750199663)
+12:59:46 World loading "smallboat.world" (Time: 169.3ms, Memory: 39.9MB)
+12:59:46 TCP Server Aktif di Port 12345 (Menunggu Delphi...)
+12:59:53 Unigine~# background_update 1
+13:01:11 Renderer: OpenAL Soft on SPDIF Interface (Realtek USB2.0 Audio)
+13:01:11 OpenAL vendor: OpenAL Community
+13:01:11 OpenAL renderer: OpenAL Soft
+13:01:11 OpenAL version: 1.1 ALSOFT 1.22.2
+13:01:11 Found AL_EXT_LINEAR_DISTANCE
+13:01:11 Found AL_EXT_OFFSET
+13:01:11 Found ALC_EXT_EFX
+13:01:11 Found ALC_SOFT_HRTF
+13:01:11 Found EFX Filter
+13:01:11 Found EFX Reverb
+13:01:11 Found EAX Reverb
+13:01:11 Found QUAD16 format
+13:01:11 Found 51CHN16 format
+13:01:11 Found 61CHN16 format
+13:01:11 Found 71CHN16 format
+13:01:11 Device enumeration supported
+13:01:11 Maximum sources: 256
+13:01:11 Maximum effect slots: 16
+13:01:11 Maximum auxiliary sends: 2
+13:01:11 Output sampling frequency: 48000hz
+13:01:11 HRTF not enabled!
+13:01:11 
+15:03:41 Renderer: OpenAL Soft on Headphones (vivo Buds)
+15:03:41 OpenAL vendor: OpenAL Community
+15:03:41 OpenAL renderer: OpenAL Soft
+15:03:41 OpenAL version: 1.1 ALSOFT 1.22.2
+15:03:41 Found AL_EXT_LINEAR_DISTANCE
+15:03:41 Found AL_EXT_OFFSET
+15:03:41 Found ALC_EXT_EFX
+15:03:41 Found ALC_SOFT_HRTF
+15:03:41 Found EFX Filter
+15:03:41 Found EFX Reverb
+15:03:41 Found EAX Reverb
+15:03:41 Found QUAD16 format
+15:03:41 Found 51CHN16 format
+15:03:41 Found 61CHN16 format
+15:03:41 Found 71CHN16 format
+15:03:41 Device enumeration supported
+15:03:41 Maximum sources: 256
+15:03:41 Maximum effect slots: 16
+15:03:41 Maximum auxiliary sends: 2
+15:03:41 Output sampling frequency: 48000hz
+15:03:41 HRTF not enabled!
+15:03:41 
+15:04:11 Unigine~# clear
+15:04:15 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:4
+15:04:15 [SYSTEM] KRI_RE_MARTADINATA Connected from Delphi Combo Box.
+15:04:15 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:8
+15:04:15 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:4
+15:04:16 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:8
+15:04:16 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:12
+15:04:18 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:8
+15:04:19 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:12
+15:04:21 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:8
+15:04:21 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:4
+15:04:21 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:0
+15:04:22 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:1
+15:04:22 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:2
+15:04:22 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:4
+15:04:22 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:6
+15:04:22 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:7
+15:04:22 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:9
+15:04:22 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:10
+15:04:22 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:12
+15:04:22 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:13
+15:04:23 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:15
+15:04:23 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:17
+15:04:25 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:18
+15:04:25 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:21
+15:04:25 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:23
+15:04:25 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:24
+15:04:25 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:26
+15:04:25 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:28
+15:04:26 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:29
+15:04:26 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:31
+15:04:26 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:32
+15:04:26 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:34
+15:04:26 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:35
+15:04:27 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:37
+15:04:27 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:39
+15:04:27 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:40
+15:04:27 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:42
+15:04:27 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:43
+15:04:28 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:45
+15:04:28 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:46
+15:04:28 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:48
+15:04:28 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:50
+15:04:28 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:51
+15:04:28 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:53
+15:04:28 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:54
+15:04:28 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:56
+15:04:28 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:57
+15:04:28 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:59
+15:04:28 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:61
+15:04:34 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:61
+15:04:34 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:61
+15:04:35 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:59
+15:04:35 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:57
+15:04:35 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:56
+15:04:35 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:54
+15:04:35 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:53
+15:04:35 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:51
+15:04:35 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:50
+15:04:35 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:48
+15:04:35 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:46
+15:04:35 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:45
+15:04:36 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:43
+15:04:36 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:42
+15:04:36 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:40
+15:04:36 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:39
+15:04:36 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:37
+15:04:36 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:35
+15:04:36 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:34
+15:04:36 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:32
+15:04:36 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:31
+15:04:36 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:29
+15:04:36 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:28
+15:04:36 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:26
+15:04:36 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:24
+15:04:36 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:23
+15:04:36 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:21
+15:04:36 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:20
+15:04:36 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:18
+15:04:36 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:17
+15:04:36 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:15
+15:04:36 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:13
+15:04:36 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:12
+15:04:36 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:10
+15:04:36 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:9
+15:04:37 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:7
+15:04:37 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:7
+15:04:37 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:7
+15:04:38 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:3
+15:04:38 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:-1
+15:04:38 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:-5
+15:04:39 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:-1
+15:04:39 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:3
+15:04:39 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:7
+15:04:39 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:11
+15:04:39 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:7
+15:04:39 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:3
+15:04:40 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:-1
+15:04:40 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:-5
+15:04:41 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:-3
+15:04:41 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:-1
+15:04:41 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:1
+15:04:41 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:3
+15:04:42 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:3
+15:04:42 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:-1
+15:04:42 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:-5
+15:04:43 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:-4
+15:04:43 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:1
+15:04:43 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:6
+15:04:43 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:10
+15:04:43 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:15
+15:04:43 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:20
+15:04:43 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:23
+15:04:43 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:28
+15:04:43 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:32
+15:04:43 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:35
+15:04:43 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:39
+15:04:44 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:43
+15:04:44 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:46
+15:04:44 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:48
+15:04:44 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:51
+15:04:44 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:53
+15:04:44 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:53
+15:04:44 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:53
+15:04:44 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:49
+15:04:44 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:45
+15:04:44 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:41
+15:04:44 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:37
+15:04:44 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:33
+15:04:44 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:29
+15:04:44 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:25
+15:04:45 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:21
+15:04:45 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:17
+15:04:45 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:13
+15:04:46 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:9
+15:04:46 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:5
+15:04:46 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:1
+15:04:46 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:-3
+15:04:47 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:-7
+15:04:48 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:-3
+15:04:48 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:1
+15:04:55 Unigine~# clear
+15:04:58 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|EXOCET_TEMBAK:1
+15:04:58 [IGNITION] Exocet Tabung 1 warming up via Delphi Command...
+15:04:59 [EXOCET] MM40 Block 3: Tabung 1 Launched successfully!
+15:05:00 [EXOCET] Safe distance reached! Activating booster and guidance radar lock.
+15:05:05 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|EXOCET_TEMBAK:2
+15:05:05 [IGNITION] Exocet Tabung 2 warming up via Delphi Command...
+15:05:06 [EXOCET] MM40 Block 3: Tabung 2 Launched successfully!
+15:05:07 [EXOCET] Safe distance reached! Activating booster and guidance radar lock.
+15:05:18 [SHIP] KRIGolok terkena Hit ke-1
+15:05:18 [SHIP] Komponen 'ShipRemoteControl' dinonaktifkan! Kapal langsung lumpuh.
+15:05:18 [SHIP] Kapal meledak! Asap menyala, menunda proses tenggelam selama 3 detik...
+15:05:21 [SHIP] Waktu jeda selesai! Kapal mulai tenggelam sekarang.
+15:05:25 [SHIP] KRIGolok terkena Hit ke-2
+15:05:58 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|TORPEDO_TEMBAK:3
+15:05:58 [TORPEDO] Tube 3 Opening Door... Current Y Angle: 0.1
+15:06:00 [TORPEDO] Whitehead A244/S Ejected from Tube 3 successfully!
+15:06:20 [CAMERA] Berhasil pindah fokus ke kamera: kamerafatahillah
+15:06:22 [CAMERA] Berhasil pindah fokus ke kamera: KameraAlugoro
+15:06:52 [CAMERA] Berhasil pindah fokus ke kamera: KameraMartadinata
+15:07:28 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|HELI_TOGGLE_NAIK:AS365N3
+15:07:30 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|HELI_TAKEOFF:AS365N3
+15:07:30 [NETWORK SYSTEM] Helicopter AS365N3 Take-Off completed successfully.
+15:07:33 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|HELI_LANDING:AS365N3
+15:07:33 [RADAR HELI] Mengunci target pendaratan di: KRI_RE_MARTADINATA -> Helipad_3
+15:07:39 [SYSTEM] Helicopter AS365N3 landed smoothly on deck: KRI_RE_MARTADINATA
+15:07:45 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|HELI_TOGGLE_TURUN:AS365N3
+15:07:46 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|HELI_TAKEOFF:AS365N3
+15:07:46 [NETWORK SYSTEM] Helicopter AS365N3 Take-Off completed successfully.
+15:07:49 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|HELI_LANDING:AS365N3
+15:07:49 [RADAR HELI] Mengunci target pendaratan di: KRI_RE_MARTADINATA -> Helipad_3
+15:07:49 [SYSTEM] Helicopter AS365N3 landed smoothly on deck: KRI_RE_MARTADINATA
+15:08:31 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|SET_ARTILERI_YAW:75
+15:08:31 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|SET_ARTILERI_PITCH:13
+15:08:36 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|ARTILERI_TEMBAK
+15:08:36 [ARTILLERY 76mm] Boom! KRI_RE_MARTADINATA fired shell manual. Yaw: 75.0, Pitch: 13.0. Audio instances: 1
+15:08:36 [COMBAT SYSTEM] Peluru 76mm menabrak objek: Leonardo_76mm_Base
+15:08:38 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|ARTILERI_TEMBAK
+15:08:38 [ARTILLERY 76mm] Boom! KRI_RE_MARTADINATA fired shell manual. Yaw: 75.0, Pitch: 13.0. Audio instances: 1
+15:08:38 [COMBAT SYSTEM] Peluru 76mm menabrak objek: Leonardo_76mm_Base
+15:08:41 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|ARTILERI_TEMBAK
+15:08:41 [ARTILLERY 76mm] Boom! KRI_RE_MARTADINATA fired shell manual. Yaw: 75.0, Pitch: 13.0. Audio instances: 1
+15:08:41 [COMBAT SYSTEM] Peluru 76mm menabrak objek: Leonardo_76mm_Base
+15:08:43 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|ARTILERI_TEMBAK
+15:08:43 [ARTILLERY 76mm] Boom! KRI_RE_MARTADINATA fired shell manual. Yaw: 75.0, Pitch: 13.0. Audio instances: 1
+15:08:43 [COMBAT SYSTEM] Peluru 76mm menabrak objek: Leonardo_76mm_Base
+15:08:45 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|ARTILERI_TEMBAK
+15:08:45 [ARTILLERY 76mm] Boom! KRI_RE_MARTADINATA fired shell manual. Yaw: 75.0, Pitch: 13.0. Audio instances: 1
+15:08:45 [COMBAT SYSTEM] Peluru 76mm menabrak objek: Leonardo_76mm_Base
+15:08:50 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|MODE_35MM_BURST
+15:08:54 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|AUTO_TRACK_ON
+15:08:57 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_START
+15:08:57 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 1
+15:08:58 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 2
+15:08:58 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_STOP
+15:08:58 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_START
+15:08:58 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 3
+15:08:58 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 4
+15:08:58 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 5
+15:08:58 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 6
+15:08:59 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_STOP
+15:08:59 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 7
+15:09:01 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_START
+15:09:01 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 2
+15:09:01 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 2
+15:09:01 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 3
+15:09:01 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 4
+15:09:01 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_STOP
+15:09:13 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|AUTO_TRACK_ON
+15:09:14 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_START
+15:09:14 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 1
+15:09:14 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 2
+15:09:14 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_STOP
+15:09:15 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_START
+15:09:15 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 3
+15:09:15 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 4
+15:09:15 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_STOP
+15:09:15 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_START
+15:09:15 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 5
+15:09:15 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 6
+15:09:16 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_STOP
+15:09:16 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_START
+15:09:16 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 7
+15:09:16 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 8
+15:09:16 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_STOP
+15:09:16 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_START
+15:09:16 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 9
+15:09:16 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 10
+15:09:16 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_STOP
+15:09:17 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_START
+15:09:17 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 11
+15:09:17 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 12
+15:09:17 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_STOP
+15:09:17 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_START
+15:09:17 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 13
+15:09:17 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 14
+15:09:17 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_STOP
+15:09:17 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_START
+15:09:17 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 13
+15:09:17 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 14
+15:09:17 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_STOP
+15:09:18 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_START
+15:09:18 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 15
+15:09:18 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 16
+15:09:18 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_STOP
+15:09:18 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_START
+15:09:18 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 16
+15:09:18 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 16
+15:09:18 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_STOP
+15:09:18 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_START
+15:09:18 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 17
+15:09:18 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 18
+15:09:18 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 19
+15:09:18 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 19
+15:09:18 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 19
+15:09:18 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 20
+15:09:18 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_STOP
+15:09:18 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_START
+15:09:18 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 21
+15:09:19 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 22
+15:09:19 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 22
+15:09:19 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_STOP
+15:09:19 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_START
+15:09:19 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 22
+15:09:19 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 23
+15:09:19 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_STOP
+15:09:19 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_START
+15:09:19 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 23
+15:09:19 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 23
+15:09:19 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_STOP
+15:09:42 Close "openal32.dll"
+15:09:42 Fast shutdown 13.2ms

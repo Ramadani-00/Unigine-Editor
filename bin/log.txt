@@ -1,0 +1,313 @@
+15:10:44 Third-Party Notices: https://developer.unigine.com/docs/2.19/third_party
+15:10:44 
+15:10:44 
+15:10:44 ---- Configs ----
+15:10:44 Loading boot config "F:/Data Backup Dani/UNIGINE Projects/smallboat/data/configs/default.boot"...
+15:10:44 Loading user config "F:/Data Backup Dani/UNIGINE Projects/smallboat/data/configs/default.user"...
+15:10:44 Using config file "configs/default.config"
+15:10:44 Using boot config file "configs/default.boot"
+15:10:44 Using user config file "configs/default.user"
+15:10:44 Using controls config file "configs/default.controls"
+15:10:44 Loading "dxgi.dll"...
+15:10:44 
+15:10:44 ---- Engine ----
+15:10:44 Version: 2.19.0.3 Debug Double ver-2.19.1-c8c5226 Jan 30 2025 (2.19.1 SDK)
+15:10:44 Binary: Windows x86_64 Debug WinSDK(10.0.10011.16384) Compiler(MSVC:1940 Toolchain:Unknown Toolset:Unknown VisualStudio:Unknown)
+15:10:44 Features: Direct3D11.1 Direct3D12.0 Vulkan OpenAL VR OpenVR OpenXR Varjo DoubleCoords HalfTexCoords Debug
+15:10:44 
+15:10:44 ---- OS ----
+15:10:44 Windows 11 (build 26200)
+15:10:44 
+15:10:44 ---- CPU ----
+15:10:44 13th Gen Intel(R) Core(TM) i7-13700
+15:10:44 Extensions:  MMX SSE SSE2 SSE3 SSSE3 SSE41 SSE42 AVX AVX2 HTT
+15:10:44 Frequency: 2111MHz
+15:10:44 Cores: 16 Threads : 24
+15:10:44 RAM: 31.7GB
+15:10:44 
+15:10:44 ---- GPU ----
+15:10:44 GPU 0 Active : NVIDIA GeForce RTX 3080 Ti    Memory:12084MB Type:Discrete    Vendor:NVidia   CommonHeaps:true Priority:32 LUID:000000000000d775 DeviceID:00002208 Driver:591.86
+15:10:44 GPU 1        : Intel(R) UHD Graphics 770     Memory:16254MB Type:Integrated  Vendor:Intel    CommonHeaps:true Priority:31 LUID:000000000000efea DeviceID:0000a780 Driver:101.7082
+15:10:44 GPU 2        : Intel(R) UHD Graphics 770     Memory:16254MB Type:Integrated  Vendor:Intel    CommonHeaps:true Priority:29 LUID:000000000001bec3 DeviceID:0000a780 Driver:101.7082
+15:10:44 GPU 3        : Microsoft Basic Render Driver Memory:16254MB Type:Other       Vendor:Unknown  CommonHeaps:true Priority:30 LUID:000000000000f305 DeviceID:0000f305 Driver:Unknown
+15:10:44 GAPI: Direct3D 11.1
+15:10:44 
+15:10:44 
+15:10:44 ---- Application ----
+15:10:44 
+15:10:44 ---- System Proxy ----
+15:10:44 SystemProxy initialization (Time: 76.5ms, Memory: 4.1KB)
+15:10:44 
+15:10:44 ---- VR ----
+15:10:44 VR initialization (Time: 0.0ms, Memory: 1.6KB)
+15:10:44 
+15:10:44 
+15:10:44 ---- Render ----
+15:10:44 Loading "dxgi.dll"...
+15:10:44 Direct3D 11 initialization
+15:10:44 Renderer API: Direct3D 11.0
+15:10:44 Maximum texture size: 16384
+15:10:44 Maximum texture units: 16
+15:10:45 DLSS is not implemented, DLSS is currently avialable only for DX12
+15:10:45 FSR is not implemented, FSR is currently avialable only for DX12
+15:10:45 Render initialization (Time: 357.4ms, Memory: 31.4MB)
+15:10:45 
+15:10:45 
+15:10:45 ---- VR Subsystems ----
+15:10:45 VR Subsystems initialization (Time: 0.0ms, Memory: 17.5KB)
+15:10:45 
+15:10:45 
+15:10:45 ---- Filesystem begin ----
+15:10:45 App path:  F:/Data Backup Dani/UNIGINE Projects/smallboat/bin/
+15:10:45 Data path: F:/Data Backup Dani/UNIGINE Projects/smallboat/data/
+15:10:45 Save path: F:/Data Backup Dani/UNIGINE Projects/smallboat/bin/
+15:10:45 
+15:10:45 Runtimes loaded: 752 (Time: 22.2ms, Memory: 1.3MB)
+15:10:45 Filesystem initialization (Time: 93.1ms, Memory: 8.8MB)
+15:10:45 ---- Filesystem end ----
+15:10:45 
+15:10:45 
+15:10:45 ---- Sound ----
+15:10:45 Loading "openal32.dll"...
+15:10:45 Renderer: OpenAL Soft on Headphones (vivo Buds)
+15:10:45 OpenAL vendor: OpenAL Community
+15:10:45 OpenAL renderer: OpenAL Soft
+15:10:45 OpenAL version: 1.1 ALSOFT 1.22.2
+15:10:45 Found AL_EXT_LINEAR_DISTANCE
+15:10:45 Found AL_EXT_OFFSET
+15:10:45 Found ALC_EXT_EFX
+15:10:45 Found ALC_SOFT_HRTF
+15:10:45 Found EFX Filter
+15:10:45 Found EFX Reverb
+15:10:45 Found EAX Reverb
+15:10:45 Found QUAD16 format
+15:10:45 Found 51CHN16 format
+15:10:45 Found 61CHN16 format
+15:10:45 Found 71CHN16 format
+15:10:45 Device enumeration supported
+15:10:45 Maximum sources: 256
+15:10:45 Maximum effect slots: 16
+15:10:45 Maximum auxiliary sends: 2
+15:10:45 Output sampling frequency: 48000hz
+15:10:45 HRTF not enabled!
+15:10:45 
+15:10:45 Sound: openal
+15:10:45 Sound initialization (Time: 36.4ms, Memory: 6.7KB)
+15:10:45 
+15:10:45 ---- Physics ----
+15:10:45 
+15:10:45 ---- PathFind ----
+15:10:45 
+15:10:45 Loading controls "F:/Data Backup Dani/UNIGINE Projects/smallboat/data/configs/default.controls"...
+15:10:45 Loading config "F:/Data Backup Dani/UNIGINE Projects/smallboat/data/configs/default.config"...
+15:10:45 D3D11Particles::createBuffers (Time: 21.7ms, Memory: 17.2KB)
+15:10:45 
+15:10:45 ---- Materials begin----
+15:10:45 
+15:10:45 ---- MeshManager begin ----
+15:10:45 
+15:10:45 ---- Properties begin ----
+15:10:45 Properties loaded: 39/39 (Time: 5.5ms, Memory: 586.7KB)
+15:10:45 ---- Properties end ----
+15:10:45 
+15:10:45 Initialization meshes (Time: 19.5ms, Memory: 1.1MB)
+15:10:45 Total resources: 286
+15:10:45 ---- MeshManager end ----
+15:10:45 
+15:10:46 Base materials loaded: 469/469
+15:10:46 Materials loaded: 247/247
+15:10:46 Load Materials (Time: 892.1ms, Memory: 13.1MB)
+15:10:46 Preload materials loaded: 1504 (Time: 181.0ms, Memory: 7.2MB)
+15:10:46 Shaders compiled: 912 (Time: 123.8ms, Memory: 13.4MB)
+15:10:46 Total materials loaded: 2220 (Time: 1.2s, Memory: 33.8MB)
+15:10:46 ---- Materials end ----
+15:10:46 
+15:10:46 
+15:10:46 ---- Animations ----
+15:10:46 Total objects: 0
+15:10:46 Total tracks: 0
+15:10:46 Total playbacks: 0
+15:10:46 Load Animations (Time: 1.0ms, Memory: 0B)
+15:10:46 
+15:10:46 Engine initialization (Time: 2.9s, Memory: 242.6MB)
+15:10:46 
+15:10:46 
+15:10:46 ---- Plugins ----
+15:10:46 Plugins path: "F:/Data Backup Dani/UNIGINE Projects/smallboat/bin/plugins"
+15:10:46 Plugins initialization (Time: 0.0ms, Memory: 192B)
+15:10:46 
+15:10:46 ---- Interpreter ----
+15:10:46 Version: 2.90
+15:10:46 
+15:10:46 Unigine~# world_load "smallboat"
+15:10:47 Script loading "core/unigine.usc" 4ms
+15:10:47 WARNING:	ObjectMeshStatic(Name:"TagBoath", ID:643581829, IDFromFile:643581829, File:"smallboat.world", Hierarchy:"TagBoath")
+15:10:47 WARNING:	Node::setProperty(): can't find guid "f29a719d37a98eeb4eaadca88647f5a41d9e6af2" property for "TagBoath" node (643581829)
+15:10:47 WARNING:	ObjectMeshStatic(Name:"K_Canberra", ID:1375247768, IDFromFile:1375247768, File:"smallboat.world", Hierarchy:"K_Canberra")
+15:10:47 WARNING:	Node::setProperty(): can't find guid "f29a719d37a98eeb4eaadca88647f5a41d9e6af2" property for "K_Canberra" node (1375247768)
+15:10:47 WARNING:	ObjectMeshStatic(Name:"barrel2", ID:1086980856, IDFromFile:1086980856, File:"smallboat.world", Hierarchy:"barrel2")
+15:10:47 WARNING:	Object::setMaterialGUID(): can't find guid "5d32f217bedecb6a3a50c36e6f181546f38d2528" material for "barrel2" object (1086980856)
+15:10:47 WARNING:	ObjectMeshDynamic(Name:"missile", ID:1393828676, IDFromFile:1393828676, File:"smallboat.world", Hierarchy:"missile")
+15:10:47 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile" node (1393828676)
+15:10:47 WARNING:	ObjectMeshStatic(Name:"missile1", ID:1147512458, IDFromFile:1147512458, File:"smallboat.world", Hierarchy:"missile1")
+15:10:47 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile1" node (1147512458)
+15:10:47 WARNING:	ObjectMeshStatic(Name:"missile2", ID:22780284, IDFromFile:22780284, File:"smallboat.world", Hierarchy:"missile2")
+15:10:47 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile2" node (22780284)
+15:10:47 WARNING:	ObjectMeshStatic(Name:"missile3", ID:23096936, IDFromFile:23096936, File:"smallboat.world", Hierarchy:"missile3")
+15:10:47 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile3" node (23096936)
+15:10:47 WARNING:	ObjectMeshStatic(Name:"missile4", ID:1694313620, IDFromFile:1694313620, File:"smallboat.world", Hierarchy:"missile4")
+15:10:47 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile4" node (1694313620)
+15:10:47 WARNING:	ObjectMeshStatic(Name:"missile5", ID:1888468992, IDFromFile:1888468992, File:"smallboat.world", Hierarchy:"missile5")
+15:10:47 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile5" node (1888468992)
+15:10:47 WARNING:	ObjectMeshStatic(Name:"missile6", ID:1640977580, IDFromFile:1640977580, File:"smallboat.world", Hierarchy:"missile6")
+15:10:47 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile6" node (1640977580)
+15:10:47 WARNING:	ObjectMeshStatic(Name:"missile7", ID:381179544, IDFromFile:381179544, File:"smallboat.world", Hierarchy:"missile7")
+15:10:47 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile7" node (381179544)
+15:10:47 WARNING:	ObjectMeshStatic(Name:"missile8", ID:2109239748, IDFromFile:2109239748, File:"smallboat.world", Hierarchy:"missile8")
+15:10:47 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile8" node (2109239748)
+15:10:47 WARNING:	ObjectMeshStatic(Name:"NB412S_1", ID:331047240, IDFromFile:331047240, File:"smallboat.world", Hierarchy:"NB412S_1")
+15:10:47 WARNING:	Node::setProperty(): can't find guid "6dd818e554fc77ddf651871c449511e33432ccae" property for "NB412S_1" node (331047240)
+15:10:47 WARNING:	ObjectMeshStatic(Name:"MK46", ID:323967873, IDFromFile:323967873, File:"smallboat.world", Hierarchy:"MK46")
+15:10:47 WARNING:	Node::setProperty(): can't find guid "f441cb609a7fc07426a453069e84559475069369" property for "MK46" node (323967873)
+15:10:47 WARNING:	ObjectMeshStatic(Name:"MK46_1", ID:483408651, IDFromFile:483408651, File:"smallboat.world", Hierarchy:"MK46_1")
+15:10:47 WARNING:	Node::setProperty(): can't find guid "f441cb609a7fc07426a453069e84559475069369" property for "MK46_1" node (483408651)
+15:10:47 WARNING:	ObjectMeshStatic(Name:"MK46_2", ID:1086422349, IDFromFile:1086422349, File:"smallboat.world", Hierarchy:"MK46_2")
+15:10:47 WARNING:	Node::setProperty(): can't find guid "f441cb609a7fc07426a453069e84559475069369" property for "MK46_2" node (1086422349)
+15:10:47 WARNING:	ObjectMeshStatic(Name:"MK46_3", ID:203678111, IDFromFile:203678111, File:"smallboat.world", Hierarchy:"MK46_3")
+15:10:47 WARNING:	Node::setProperty(): can't find guid "f441cb609a7fc07426a453069e84559475069369" property for "MK46_3" node (203678111)
+15:10:47 WARNING:	ObjectMeshStatic(Name:"MK46_4", ID:1513683073, IDFromFile:1513683073, File:"smallboat.world", Hierarchy:"MK46_4")
+15:10:47 WARNING:	Node::setProperty(): can't find guid "f441cb609a7fc07426a453069e84559475069369" property for "MK46_4" node (1513683073)
+15:10:47 WARNING:	ObjectMeshStatic(Name:"MK46_5", ID:1645401715, IDFromFile:1645401715, File:"smallboat.world", Hierarchy:"MK46_5")
+15:10:47 WARNING:	Node::setProperty(): can't find guid "f441cb609a7fc07426a453069e84559475069369" property for "MK46_5" node (1645401715)
+15:10:47 WARNING:	ObjectParticles(Name:"ObjectParticles_1", ID:1645366044, IDFromFile:1645366044, File:"smallboat.world", Hierarchy:"ObjectParticles_1")
+15:10:47 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_1" object (1645366044)
+15:10:47 WARNING:	ObjectParticles(Name:"ObjectParticles_2", ID:176279214, IDFromFile:176279214, File:"smallboat.world", Hierarchy:"ObjectParticles_2")
+15:10:47 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_2" object (176279214)
+15:10:47 WARNING:	ObjectParticles(Name:"ObjectParticles_1", ID:1807484400, IDFromFile:1807484400, File:"smallboat.world", Hierarchy:"ObjectParticles_1")
+15:10:47 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_1" object (1807484400)
+15:10:47 WARNING:	ObjectParticles(Name:"ObjectParticles_2", ID:1427264674, IDFromFile:1427264674, File:"smallboat.world", Hierarchy:"ObjectParticles_2")
+15:10:47 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_2" object (1427264674)
+15:10:47 WARNING:	ObjectParticles(Name:"ObjectParticles_1", ID:1807536497, IDFromFile:1807536497, File:"smallboat.world", Hierarchy:"ObjectParticles_1")
+15:10:47 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_1" object (1807536497)
+15:10:47 WARNING:	ObjectParticles(Name:"ObjectParticles_2", ID:972228811, IDFromFile:972228811, File:"smallboat.world", Hierarchy:"ObjectParticles_2")
+15:10:47 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_2" object (972228811)
+15:10:47 WARNING:	ObjectParticles(Name:"ObjectParticles_1", ID:1834399846, IDFromFile:1834399846, File:"smallboat.world", Hierarchy:"ObjectParticles_1")
+15:10:47 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_1" object (1834399846)
+15:10:47 WARNING:	ObjectParticles(Name:"ObjectParticles_2", ID:539266184, IDFromFile:539266184, File:"smallboat.world", Hierarchy:"ObjectParticles_2")
+15:10:47 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_2" object (539266184)
+15:10:47 WARNING:	ObjectParticles(Name:"ObjectParticles_1", ID:238786000, IDFromFile:238786000, File:"smallboat.world", Hierarchy:"ObjectParticles_1")
+15:10:47 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_1" object (238786000)
+15:10:47 WARNING:	ObjectParticles(Name:"ObjectParticles_2", ID:201117570, IDFromFile:201117570, File:"smallboat.world", Hierarchy:"ObjectParticles_2")
+15:10:47 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_2" object (201117570)
+15:10:47 WARNING:	ObjectParticles(Name:"ObjectParticles_1", ID:500429685, IDFromFile:500429685, File:"smallboat.world", Hierarchy:"ObjectParticles_1")
+15:10:47 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_1" object (500429685)
+15:10:47 WARNING:	ObjectParticles(Name:"ObjectParticles_2", ID:1750199663, IDFromFile:1750199663, File:"smallboat.world", Hierarchy:"ObjectParticles_2")
+15:10:47 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_2" object (1750199663)
+15:10:47 World loading "smallboat.world" (Time: 174.0ms, Memory: 39.9MB)
+15:10:47 TCP Server Aktif di Port 12345 (Menunggu Delphi...)
+15:10:54 Unigine~# background_update 1
+15:10:57 Unigine~# clear
+15:11:17 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:4
+15:11:17 [SYSTEM] KRI_RE_MARTADINATA Connected from Delphi Combo Box.
+15:11:23 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|MODE_35MM_BURST
+15:11:25 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|AUTO_TRACK_ON
+15:11:27 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_START
+15:11:27 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 1
+15:11:27 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 2
+15:11:27 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 3
+15:11:27 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 4
+15:11:27 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_STOP
+15:11:30 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_START
+15:11:30 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 2
+15:11:30 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 2
+15:11:30 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 3
+15:11:30 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 4
+15:11:30 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 5
+15:11:30 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 6
+15:11:30 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 7
+15:11:30 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 8
+15:11:31 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 9
+15:11:31 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_STOP
+15:11:32 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_START
+15:11:32 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 10
+15:11:32 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 11
+15:11:32 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 12
+15:11:32 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 13
+15:11:32 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 14
+15:11:32 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 15
+15:11:32 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 16
+15:11:32 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 17
+15:11:32 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_STOP
+15:11:35 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_START
+15:11:35 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 6
+15:11:35 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 5
+15:11:35 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 6
+15:11:35 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_STOP
+15:11:36 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_START
+15:11:36 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 4
+15:11:36 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 5
+15:11:37 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 6
+15:11:37 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_STOP
+15:11:39 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_START
+15:11:39 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 1
+15:11:39 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 2
+15:11:39 [CIWS MILITARY] 35mm Fired. Mode: BURST. Audio Stack Count: 3
+15:11:39 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|CIWS_TEMBAK_STOP
+15:11:43 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|ARTILERI_TEMBAK
+15:11:43 [ARTILLERY 76mm] Boom! KRI_RE_MARTADINATA fired shell manual. Yaw: 0.0, Pitch: 0.0. Audio instances: 1
+15:11:43 [COMBAT SYSTEM] Peluru 76mm menabrak objek: Leonardo_76mm_Base
+15:11:50 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|SET_ARTILERI_YAW:75
+15:11:50 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|SET_ARTILERI_PITCH:13
+15:11:52 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|ARTILERI_TEMBAK
+15:11:52 [ARTILLERY 76mm] Boom! KRI_RE_MARTADINATA fired shell manual. Yaw: 75.0, Pitch: 13.0. Audio instances: 1
+15:11:52 [COMBAT SYSTEM] Peluru 76mm menabrak objek: Leonardo_76mm_Base
+15:11:55 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|ARTILERI_TEMBAK
+15:11:55 [ARTILLERY 76mm] Boom! KRI_RE_MARTADINATA fired shell manual. Yaw: 75.0, Pitch: 13.0. Audio instances: 1
+15:11:55 [COMBAT SYSTEM] Peluru 76mm menabrak objek: Leonardo_76mm_Base
+15:11:58 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|ARTILERI_TEMBAK
+15:11:58 [ARTILLERY 76mm] Boom! KRI_RE_MARTADINATA fired shell manual. Yaw: 75.0, Pitch: 13.0. Audio instances: 1
+15:11:58 [COMBAT SYSTEM] Peluru 76mm menabrak objek: Leonardo_76mm_Base
+15:12:04 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|HELI_TOGGLE_NAIK:AS365N3
+15:12:05 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|HELI_TAKEOFF:AS365N3
+15:12:05 [NETWORK SYSTEM] Helicopter AS365N3 Take-Off completed successfully.
+15:12:05 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|HELI_LANDING:AS365N3
+15:12:05 [RADAR HELI] Mengunci target pendaratan di: KRI_RE_MARTADINATA -> Helipad_3
+15:12:06 [SYSTEM] Helicopter AS365N3 landed smoothly on deck: KRI_RE_MARTADINATA
+15:12:09 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|HELI_TAKEOFF:AS365N3
+15:12:09 [NETWORK SYSTEM] Helicopter AS365N3 Take-Off completed successfully.
+15:12:12 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|HELI_TOGGLE_NAIK:AS365N3
+15:12:15 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|HELI_LANDING:AS365N3
+15:12:15 [RADAR HELI] Mengunci target pendaratan di: KRI_RE_MARTADINATA -> Helipad_3
+15:12:19 [SYSTEM] Helicopter AS365N3 landed smoothly on deck: KRI_RE_MARTADINATA
+15:12:26 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|THROTTLE:0
+15:13:51 [TCP Masuk dari 127.0.0.1]: KRI_RE_MARTADINATA|TORPEDO_TEMBAK:1
+15:13:51 [TORPEDO] Tube 1 Opening Door... Current Y Angle: -0.3
+15:13:53 [TORPEDO] Whitehead A244/S Ejected from Tube 1 successfully!
+15:14:14 [SHIP] KRI_ALUGORO terkena Hit ke-1
+15:14:14 [SHIP] Komponen 'ShipRemoteControl' dinonaktifkan! Kapal langsung lumpuh.
+15:14:14 [SHIP] Kapal meledak! Asap menyala, menunda proses tenggelam selama 3 detik...
+15:14:17 [SHIP] Waktu jeda selesai! Kapal mulai tenggelam sekarang.
+15:14:57 Renderer: OpenAL Soft on SPDIF Interface (Realtek USB2.0 Audio)
+15:14:57 OpenAL vendor: OpenAL Community
+15:14:57 OpenAL renderer: OpenAL Soft
+15:14:57 OpenAL version: 1.1 ALSOFT 1.22.2
+15:14:57 Found AL_EXT_LINEAR_DISTANCE
+15:14:57 Found AL_EXT_OFFSET
+15:14:57 Found ALC_EXT_EFX
+15:14:57 Found ALC_SOFT_HRTF
+15:14:57 Found EFX Filter
+15:14:57 Found EFX Reverb
+15:14:57 Found EAX Reverb
+15:14:57 Found QUAD16 format
+15:14:57 Found 51CHN16 format
+15:14:57 Found 61CHN16 format
+15:14:57 Found 71CHN16 format
+15:14:57 Device enumeration supported
+15:14:57 Maximum sources: 256
+15:14:57 Maximum effect slots: 16
+15:14:57 Maximum auxiliary sends: 2
+15:14:57 Output sampling frequency: 48000hz
+15:14:57 HRTF not enabled!
+15:14:57 
+15:29:25 Close "openal32.dll"
+15:29:25 Fast shutdown 23.2ms

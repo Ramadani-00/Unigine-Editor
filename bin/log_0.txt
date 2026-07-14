@@ -1,0 +1,107 @@
+15:10:41 Third-Party Notices: https://developer.unigine.com/docs/2.19/third_party
+15:10:41 
+15:10:41 
+15:10:41 ---- Configs ----
+15:10:41 Loading boot config "F:/Data Backup Dani/UNIGINE Projects/smallboat/data/configs/default.boot"...
+15:10:41 Loading user config "F:/Data Backup Dani/UNIGINE Projects/smallboat/data/configs/default.user"...
+15:10:41 Using config file "configs/default.config"
+15:10:41 Using boot config file "configs/default.boot"
+15:10:41 Using user config file "configs/default.user"
+15:10:41 Using controls config file "configs/default.controls"
+15:10:41 
+15:10:41 ---- Engine ----
+15:10:41 Version: 2.19.0.3 Debug Double ver-2.19.1-c8c5226 Jan 30 2025 (2.19.1 SDK)
+15:10:41 Binary: Windows x86_64 Debug WinSDK(10.0.10011.16384) Compiler(MSVC:1940 Toolchain:Unknown Toolset:Unknown VisualStudio:Unknown)
+15:10:41 Features: Direct3D11.1 Direct3D12.0 Vulkan OpenAL VR OpenVR OpenXR Varjo DoubleCoords HalfTexCoords Debug
+15:10:41 
+15:10:41 ---- OS ----
+15:10:41 Windows 11 (build 26200)
+15:10:41 
+15:10:41 ---- CPU ----
+15:10:41 13th Gen Intel(R) Core(TM) i7-13700
+15:10:41 Extensions:  MMX SSE SSE2 SSE3 SSSE3 SSE41 SSE42 AVX AVX2 HTT
+15:10:41 Frequency: 2111MHz
+15:10:41 Cores: 16 Threads : 24
+15:10:41 RAM: 31.7GB
+15:10:41 
+15:10:41 ---- GPU ----
+15:10:41 GPU 0 Active : Null Memory:    0MB Type:Other       Vendor:Unknown  CommonHeaps:false Priority: 0 LUID:0000000000000000 DeviceID:00000000 Driver:Null
+15:10:41 GAPI: NULL
+15:10:41 
+15:10:41 
+15:10:41 ---- Application ----
+15:10:41 
+15:10:41 ---- System Proxy ----
+15:10:41 SystemProxy initialization (Time: 0.0ms, Memory: 96B)
+15:10:41 
+15:10:41 ---- VR ----
+15:10:41 VR initialization (Time: 0.0ms, Memory: 656B)
+15:10:41 
+15:10:41 
+15:10:41 ---- Render ----
+15:10:41 NULL
+15:10:41 DLSS is not implemented, DLSS is currently avialable only for DX12
+15:10:41 FSR is not implemented, FSR is currently avialable only for DX12
+15:10:41 Render initialization (Time: 1.2ms, Memory: 30.2MB)
+15:10:41 
+15:10:41 
+15:10:41 ---- VR Subsystems ----
+15:10:41 VR Subsystems initialization (Time: 0.0ms, Memory: 17.5KB)
+15:10:41 
+15:10:41 
+15:10:41 ---- Filesystem begin ----
+15:10:41 App path:  F:/Data Backup Dani/UNIGINE Projects/smallboat/bin/
+15:10:41 Data path: F:/Data Backup Dani/UNIGINE Projects/smallboat/data/
+15:10:41 Save path: F:/Data Backup Dani/UNIGINE Projects/smallboat/bin/
+15:10:41 
+15:10:41 Runtimes loaded: 752 (Time: 26.9ms, Memory: 1.3MB)
+15:10:41 Filesystem initialization (Time: 82.0ms, Memory: 7.5MB)
+15:10:41 ---- Filesystem end ----
+15:10:41 
+15:10:41 
+15:10:41 ---- Sound ----
+15:10:41 Sound: null
+15:10:41 Sound initialization (Time: 0.0ms, Memory: 384B)
+15:10:41 
+15:10:41 ---- Physics ----
+15:10:41 
+15:10:41 ---- PathFind ----
+15:10:41 
+15:10:41 Loading controls "F:/Data Backup Dani/UNIGINE Projects/smallboat/data/configs/default.controls"...
+15:10:41 Loading config "F:/Data Backup Dani/UNIGINE Projects/smallboat/data/configs/default.config"...
+15:10:42 
+15:10:42 ---- Materials begin----
+15:10:42 
+15:10:42 ---- MeshManager begin ----
+15:10:42 
+15:10:42 ---- Properties begin ----
+15:10:42 Properties loaded: 39/39 (Time: 5.9ms, Memory: 614.2KB)
+15:10:42 ---- Properties end ----
+15:10:42 
+15:10:42 Initialization meshes (Time: 20.7ms, Memory: 1.2MB)
+15:10:42 Total resources: 286
+15:10:42 ---- MeshManager end ----
+15:10:42 
+15:10:42 Base materials loaded: 469/469
+15:10:42 Materials loaded: 247/247
+15:10:42 Load Materials (Time: 856.2ms, Memory: 13.2MB)
+15:10:43 Preload materials loaded: 1504 (Time: 173.4ms, Memory: 7.1MB)
+15:10:43 Shaders compiled: 4 (Time: 26.5ms, Memory: 0B)
+15:10:43 Total materials loaded: 2220 (Time: 1.1s, Memory: 20.4MB)
+15:10:43 ---- Materials end ----
+15:10:43 
+15:10:43 
+15:10:43 ---- Animations ----
+15:10:43 Total objects: 0
+15:10:43 Total tracks: 0
+15:10:43 Total playbacks: 0
+15:10:43 Load Animations (Time: 1.1ms, Memory: 0B)
+15:10:43 
+15:10:43 Engine initialization (Time: 1.8s, Memory: 227.9MB)
+15:10:43 
+15:10:43 
+15:10:43 ---- Plugins ----
+15:10:43 Plugins path: "F:/Data Backup Dani/UNIGINE Projects/smallboat/bin/plugins"
+15:10:43 Plugins initialization (Time: 0.1ms, Memory: 0B)
+15:10:43 
+15:10:43 Fast shutdown 1.0ms

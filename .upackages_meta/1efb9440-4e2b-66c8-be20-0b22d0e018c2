@@ -1,0 +1,1960 @@
+{
+	"version": 1,
+	"store_id": "1efb9440-4e2b-66c8-be20-0b22d0e018c2",
+	"addon_name": "vfx",
+	"tabs": [
+		{
+			"title": "Description",
+			"fields": [
+				{
+					"title": "Title",
+					"text": "VFX"
+				},
+				{
+					"title": "Categories",
+					"text": "VFX"
+				},
+				{
+					"title": "Source Code",
+					"text": "No Code"
+				},
+				{
+					"title": "Supported Versions",
+					"text": "2.19.1"
+				},
+				{
+					"title": "Release Date",
+					"text": "2024-12-13T18:18:46+07:00"
+				},
+				{
+					"title": "Platform",
+					"text": "cross"
+				},
+				{
+					"title": "Description",
+					"text": "<p>A set of ready-to-use special effects (fire, precipitations, splashes, etc.).</p><p><ul><li>Fire</li><li>Explosions</li><li>Artillery shots</li><li>Rain drops</li><li>Snow flakes</li><li>Water splashes</li><li>Welding</li></ul></p><p>See data/vfx/nodes for ready-to-use nodes.</p><p>The world containing special effects is located in the <em>data/vfx/</em> directory. The node references of special effects are available in the <em>data/vfx/nodes</em> directory.</p>"
+				},
+				{
+					"title": "Package Description",
+					"text": "A set of ready-to-use special effects (fire, precipitations, splashes, etc.)."
+				},
+				{
+					"title": "Tags",
+					"text": "fire"
+				},
+				{
+					"title": "Version Number",
+					"text": "2.19.1"
+				}
+			]
+		}
+	],
+	"assets": [
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_smoke_explosion_splinters_big.mat",
+			"guid": "1933c4238332df6022031c2a678554b87375faf3",
+			"size": 451,
+			"hashsum_file": "735e070ec9e38b510de99c2edb50c0b1080deb1673ef325e06cc64423cf477ca",
+			"hashsum_meta": "67273a2ea060c754d9632c063b072139d4df7d8217cc0b6d3e2ee7dab849ea1b"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/fire_small_5_loop_mv.png",
+			"guid": "0e980222c0529b190fddc9a41a0d88b34d113676",
+			"size": 3159461,
+			"hashsum_file": "e482f4bed0a6e61fbb5fe1073c62b5c9594e41ecde93b0254969ecfdd15cb156",
+			"hashsum_meta": "e245d273044db1d8569bdb25c67537cca79e300d204f16b1fb65a907ce20264c"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/fire_top_n.png",
+			"guid": "188e68946fc93ae3d74862e6aaf99d0db5f41b08",
+			"size": 593534,
+			"hashsum_file": "c3fc0578e5bbc0c0f6bdb0e7d2a3d4d33b8cd959ea878ea9c3cf7168378d049f",
+			"hashsum_meta": "26e1030c43b35bfbc1672df65df9db3b75bae8aa1a3ea10e004bcc755ae36266"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_fire_4.cpp",
+			"guid": "a2e7e6c000da35f2d44111bff5a7f69a080cbf62",
+			"size": 382,
+			"hashsum_file": "ef0d15ae521cab579dfb3ee4b963b0089f4d90b7b3da633cddf517d9a6f2d7eb",
+			"hashsum_meta": "4ecd416dd151413e510f33f8d4e6376610283d96323fbff29b2339711784607d"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_water_shot_ripple.mat",
+			"guid": "187fcae6010ffab42fe753140d87c491b66f8dcd",
+			"size": 1950,
+			"hashsum_file": "b32e7018bc5e43af832926289956b3f9f187d00251479702159770498690c106",
+			"hashsum_meta": "7c8332ccfea5804d6450031179ad3d6b3bc7632b2b5889ffba1ead554449fce5"
+		},
+		{
+			"path": "/data/UnigineVFX/bake_lighting/shadows/d16320eb9488414e71fd585597cb4db088e6054f.dds",
+			"guid": "d16320eb9488414e71fd585597cb4db088e6054f",
+			"size": 524436,
+			"hashsum_file": "968836e71dede9640fc3fa498d672bd12d373d0d3758d3f25d0124f48c6a7400",
+			"hashsum_meta": "6b00ff0863584e9c6d614f85e371be7fb6d728191a61a99ec4bc5a5b2441f89e"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_tank.cpp",
+			"guid": "fc000e5866e3afc93120c66362327bafb753dfe1",
+			"size": 2113,
+			"hashsum_file": "8bee977ad1eab179db9ffe541a954d3f9210cfc49f4f483f9bd8a8465cf47bb9",
+			"hashsum_meta": "48943528561aa314a3746a55ac41532704652c0d992b68ac8319b6c2de6e9c45"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/particles_attenuation_dr.tga",
+			"guid": "72c3f4302a2f4ea870876ddffb818359cb1fab8b",
+			"size": 262188,
+			"hashsum_file": "bfb843464efb403302851f991c9a3b3c2c3e855e786a4f2547d8456e0e6f6fe4",
+			"hashsum_meta": "7be16edb27e9022237a79fc9765bba722362c046a551e35603c022966fba5e3f"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_snow_flakes.cpp",
+			"guid": "6234b435e5168bdcc87a8ac52e1c40092adb6be3",
+			"size": 356,
+			"hashsum_file": "8cb78f2bb4a5d43daf1567dfbb0f715be05eaa1cad8e631601bff90867c8a6eb",
+			"hashsum_meta": "4fadf264522669626e06acfb5c7f7ef4735d6cd9608ecd84de894f555497ad5f"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_smoke_explosion_splinters_small.mat",
+			"guid": "918868f0feed31c0fc15c3060d54f62bfc59053c",
+			"size": 419,
+			"hashsum_file": "6d04024edc17e158030a496b0b8d38f9eda5564502d60b9a04503130221724bf",
+			"hashsum_meta": "31335203c352e0a4b9b7d1abb01790425e0f583e7575fef3b966871c35c5ae44"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/meshes/vfx_jet.mesh",
+			"guid": "bfeee3ce007c7d345b8613aebef63727e27373da",
+			"size": 1745114,
+			"hashsum_file": "507437253691fb640bfa774cb32cee0c78f3320bf0d18dfcaf376b0e9faec01e",
+			"hashsum_meta": "11199ebbe50045ef78c8da6e8fe5a8008b5a59d9822a0adc64f3d32253a88516"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/dust_puff_1_alb.tif",
+			"guid": "c20713a6d3d516cd1f5bc9c81b05e287132c3e3a",
+			"size": 22187692,
+			"hashsum_file": "50ec456a2dffdf63e43c1c12af0f19194154d3cb228721987a0a23b98f3d427f",
+			"hashsum_meta": "6f416840d9f82849c1b149f712d84f294902f6c90c0526725b57a97b91e546d2"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/vfx_fires_6.node",
+			"guid": "c9f6372e2ab5cfd0d1587bbce03d42b543009ed0",
+			"size": 61042,
+			"hashsum_file": "6c31f0d99a34d045bdec3fa34d5e1534b2a6fe48828a27e15ab2e2b2f44a868f",
+			"hashsum_meta": "a019bdfe3cef1a1f760ab0f6bb969d2c90c400d11df5c5f1f1151e3d93a6f245"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_explosion_3.world",
+			"guid": "4481295a900a00c9f16476abb19a84b48e887860",
+			"size": 56796,
+			"hashsum_file": "3ce9908d0ba6574cb18959a97b09bbe43d43f75e4f82fb903e86c2bd215a73c8",
+			"hashsum_meta": "673304dc0bc631559d6a90d773afd865e1f6a951e6514db333c862bfac90e045"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_fire_missile_1.mat",
+			"guid": "6fee82d57f0d6dc76324cf4870dd5faf156bfcb8",
+			"size": 1046,
+			"hashsum_file": "46fb57de49bec385b823a1a2949c0f3c23f70fd26c233dd3e760abe92c9b8ddc",
+			"hashsum_meta": "a1ab52bf101a24ab598a3031470e7afcb25299279b42968f26ae957e98b17ad9"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_fire_glow_d.tga",
+			"guid": "e5f46221066622f334aadb7d6765de0584fd1d19",
+			"size": 39874,
+			"hashsum_file": "d3a1db3050bba2025ab4a69ab5bd8b5c541ec556f9b854cf927168bfb2ce43ad",
+			"hashsum_meta": "eb85c12340f3b931503c4e8817aadbb74e640cf821c154670a22931fb0abc946"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_tank_wispy_white_dust.mat",
+			"guid": "fd3c0fc1e245845be806ce4ece6100eee97c19c6",
+			"size": 2422,
+			"hashsum_file": "0184c6bfab25037ddd9b67348b00efc67f9c9172596b1c681f5235543fed4412",
+			"hashsum_meta": "52fbea26aafb060772323806485b12acf61c7b85c2058abc977d6f09b8f3d355"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_smoke_explosion.mat",
+			"guid": "3e74e643a854e1ead7bf6ea0afe70beff37ef248",
+			"size": 583,
+			"hashsum_file": "b3a30ec00591f8bb6de4a4c83199acf41c30522d870f6f6c1b765908dc5a2af2",
+			"hashsum_meta": "5a029f3dc832428eb7f9db030af3d4bc22fa9b495c01b2bf9cc280e3491bc3c1"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_fire_explosion_top.mat",
+			"guid": "486db9307e036db63696e41b139950948f070065",
+			"size": 987,
+			"hashsum_file": "3dc04b2e77f312d1f650373e28296836169a65ebcc4f2f61d610fcf94f462fb0",
+			"hashsum_meta": "63f65c433c853a45a47dca482f6394833d2ec5d5e2ddd3b87ac29cd3df9acba5"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/smoke_billow_light3_d.tga",
+			"guid": "0fbf365c87c95e0b8c341beed87332750dd02150",
+			"size": 8388652,
+			"hashsum_file": "7f3f2ec569528ccdcda00cabed1b5e879d68652055f5610e2328e02839b8a870",
+			"hashsum_meta": "e317f02888cf32e85ab6edf564752a879d0c03f720512411bc98727ee45fe383"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_smoke_billow_light2.mat",
+			"guid": "ac7ec46e3d6eaaf945daf6f84e97f8aa30d6cc9e",
+			"size": 702,
+			"hashsum_file": "8f517fb82756745dfcf471d543a238f21573bef6eacdc80a865d95382fb4c1a0",
+			"hashsum_meta": "54a856cd7cccda0636c1698bbe5a762f13fb3a7cc0969f61d321090c7d17f5ed"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/vfx_artillery_shot_alb.tif",
+			"guid": "7829aa4b91b97b2e916c88b53717029073af74af",
+			"size": 2902020,
+			"hashsum_file": "8e57641543c00636fd8a03f4238b8a2d657d5045a66d27c0e3a93977cad00594",
+			"hashsum_meta": "7feff02056f48fc37edaee3be2c7c7746812242e50e1e5d14279b57306912d08"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_smoke_billow_missile_1.mat",
+			"guid": "275ba9a067bf85946dbb1ea0abab1db8a6b607a9",
+			"size": 2305,
+			"hashsum_file": "d82170195782fbf2d2664df1bd947402f9bb38817e628285f8b17268c5bc8fa2",
+			"hashsum_meta": "c85706253fae0bba57a83a9d2d21d0593c4d691967bdefcebdfcc404f73b782d"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_fire_6.world",
+			"guid": "52adb035cd5a0b5c0ffa85105f5c74c00556d4c4",
+			"size": 56718,
+			"hashsum_file": "da0b719ecbb73a65d0eda88b15762547e88dba982bc460f569991c068fe3fb83",
+			"hashsum_meta": "7ca1289449f4616ac57b8ba9b74b33a5aad1a0f48d02d00ed4f474cd9f29b836"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_fire_ground.mat",
+			"guid": "6aae25b3e20729216311c1e0e720323c13be5baa",
+			"size": 1020,
+			"hashsum_file": "14755a36ee6bb970c637c2a0e651258319635a4b1769e56670ca3aceb778eaf2",
+			"hashsum_meta": "f720703c7821acf40ee8c08b85598f5c7d26529c3a7a3c10266695abdee6b1bc"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_water_explosion.cpp",
+			"guid": "7582fd9e8479eb7e66ced1d42552d16705ff7e84",
+			"size": 356,
+			"hashsum_file": "8cb78f2bb4a5d43daf1567dfbb0f715be05eaa1cad8e631601bff90867c8a6eb",
+			"hashsum_meta": "d5c68472e18bab0e50a8a1f1f2ade67d6fc331828c34d378e22f854f014d0955"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/fire_low_d.png",
+			"guid": "ca79e9bb6b072f8430251603bb4238edeb2fff38",
+			"size": 1100229,
+			"hashsum_file": "3bcd1d8e3f8179f97561abc8401a4fe5f0be7c6c7eb851cc2c8e86aefc711bfb",
+			"hashsum_meta": "83702386e06ae82296dcaeaee7053c1c7bbee7d197720af7f3ec8af6dc46c54a"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/smoke_mist_v1_d.tga",
+			"guid": "4825bf70a83832001b2de60463421cd0f07e5aee",
+			"size": 16777260,
+			"hashsum_file": "6ed0b617a3ec39fef5a50abf028de5b3d75e88defac27dff047a254c49658235",
+			"hashsum_meta": "2f8b2999c7041284eefdcea159a46dbdffa54410e7ae34b81825f958d5a79f45"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/sand_falling_n.tif",
+			"guid": "2030e781f6c11aec5603595baa17befefc8ada45",
+			"size": 727120,
+			"hashsum_file": "a9396b4dd198e8034335734a2089ffceabc0606515d701081496f334fd46cf73",
+			"hashsum_meta": "ef0078c52dabf2819b53ec305ceee4106e76c4cd15009ad1eb2eba0860cead61"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/meshes/vfx_rocket.mesh",
+			"guid": "21935647191617f870617bb7701a8d50061b5346",
+			"size": 30524,
+			"hashsum_file": "86bf951fdf5b0a0b0158c2a77509681b64fbb918eaee24183c2c6a4862e1123d",
+			"hashsum_meta": "d774f83077f8a7ce87c4d4097d9521c21f3130d447c61979281bb1d41ecf10fb"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/grid_for_world_creation_0.mat",
+			"guid": "98a592984617f517468c8f8ad73d396129e0834c",
+			"size": 307,
+			"hashsum_file": "8b84a7fa9ed8eab6e8b1c759f356085db87b89322b61164ab1acc4903b273584",
+			"hashsum_meta": "6f854bc688e660b02353e13b7783e0a84d956e9042b7f8eb6667253ec9714ca9"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_smoke_billow_debris.mat",
+			"guid": "ec9f9d2013028c84574810ced3c83b89166b098d",
+			"size": 1484,
+			"hashsum_file": "dafc5438a8e9de8df4857c98f8b7f25120c3343507af727a2006cb6b9b87963c",
+			"hashsum_meta": "cc404614be6f535a0d32cb8fc504b9e2e3bba64e6c493b236ec39f3bd5f78c49"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/mesh_base_1.mat",
+			"guid": "6e0851c53330f267e76469742cc6a12c96f7c452",
+			"size": 431,
+			"hashsum_file": "b01b53d5c5c4efa60b20ced1cb7f6c06e0c175456c65b2d5287a75c422291e92",
+			"hashsum_meta": "eb06bfc7aa8b29367050d71c974838bc78bbc357498c0b0d65f040f93d028618"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_explosion_2.cpp",
+			"guid": "75d9f5ef3f9c49bc3c80766da0411f5c4ab2ed1d",
+			"size": 356,
+			"hashsum_file": "8cb78f2bb4a5d43daf1567dfbb0f715be05eaa1cad8e631601bff90867c8a6eb",
+			"hashsum_meta": "cd1c6e2cc0cf37e47abc9d66efd35fab80479fda22dae2742ee97d9d330d26d9"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_explosion_4.cpp",
+			"guid": "3e914da9950cfd5cd4f469596acc1f0edf7f3eba",
+			"size": 382,
+			"hashsum_file": "ef0d15ae521cab579dfb3ee4b963b0089f4d90b7b3da633cddf517d9a6f2d7eb",
+			"hashsum_meta": "b55912a09566eb7a6653dc203057f14ac11a5498180b37d7d3c9c6d66a20e3e7"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_explosion_5.cpp",
+			"guid": "e6e803014fb0616f97d9f90922994450f35668d5",
+			"size": 382,
+			"hashsum_file": "ef0d15ae521cab579dfb3ee4b963b0089f4d90b7b3da633cddf517d9a6f2d7eb",
+			"hashsum_meta": "fefa28e0c1306fd450819ab08db52d37a0ece0ce8dd271eba6e27f42a77128c4"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/smoke_wispy_dark_big.mat",
+			"guid": "e4d7f56fdf07a4029f5d137950bc268410398013",
+			"size": 1485,
+			"hashsum_file": "5e323f398e507bcc7bbc6d3c744cef43520f7fc153d4667af738a5cc2fdb889e",
+			"hashsum_meta": "e9972b6124ef0dae32b2f86dfcdd132f98097b70bd43170f2595a3b3df55fb1a"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/ground_plane.node",
+			"guid": "4aca26bc5c7dd2eba9cf4b4ece94da555b48e7b0",
+			"size": 447,
+			"hashsum_file": "e4a25955d703bfd110541aaccdaacf2165c5d80d05eac3d243a1b35d5e003b88",
+			"hashsum_meta": "e8d1519f9229ec77c9f706ce95d30fbfecf7d44a1c8c8c91d86edb7b31e11ae8"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_fire_low_d.png",
+			"guid": "7ea87649415b03c72968af4663f4591ffafa81c8",
+			"size": 531149,
+			"hashsum_file": "d44443dedfdfd208c841c9ab4db83812c7ce3651c1f00583cf2de1e7ab2428d3",
+			"hashsum_meta": "209fa3ffee5d493824691e156c69345e60d5194c5b1c94f69fd7ce9f9ec180dd"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/soil_falling_n.tif",
+			"guid": "8e505a2b48a3a98eb12b2395e55a1ff0e92c328f",
+			"size": 1019612,
+			"hashsum_file": "94179980c9237a6acb69e7267b0daf913850e145d357109daa9b4b5c21803ca7",
+			"hashsum_meta": "7a88916f8db7dd14475cd4d7a2f3ffcb1033c3ab851ee14798a4e200bc9ecb60"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_snow_flakes.world",
+			"guid": "6fd627e23f6f4c0ce9d72d744b877b7da5e9239d",
+			"size": 56258,
+			"hashsum_file": "710480c1393364685357ace1af2cf57b1f5000b9aa5d7f8b6aa380012546d2b1",
+			"hashsum_meta": "d6faab3403958f2f44f0072c381fad979a46df02b1e697855b97707808267aaa"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/fire_explosion_front_d.png",
+			"guid": "10a9db34a86e393150851c610d2154728cc6e8e7",
+			"size": 1815382,
+			"hashsum_file": "5becac3078d1594541dbdeb5394c2f9a3241cdde4df789719f6b41469178b0dd",
+			"hashsum_meta": "d2ce71794f24e00f8fdaec6b68012f948a36d4c5783b0d0581fa97c6f4809cb5"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_refraction.mat",
+			"guid": "6103e2d2a0f16de20466571033b427b1d3bb04f7",
+			"size": 720,
+			"hashsum_file": "ae3a3912dc9696e24aa588521230a818b981a6ee71e2ca69d2bc702cb4a41d09",
+			"hashsum_meta": "7005fcc37499e5da1a7186eb4269fa35e4707afaa03b877ecc38c118d9506299"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_artillery_shot.cpp",
+			"guid": "ace0ba34d407f94815c4b4e76207ea90ac8de3a0",
+			"size": 356,
+			"hashsum_file": "8cb78f2bb4a5d43daf1567dfbb0f715be05eaa1cad8e631601bff90867c8a6eb",
+			"hashsum_meta": "9f490a009b3daceaf4bad5e1f53e7b72797a04a7a93bf2b7bc17778de896d84b"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/vfx_explosions_3.node",
+			"guid": "aa1db7ead1f05199626163ef9c627715214c1cc7",
+			"size": 39114,
+			"hashsum_file": "fbe2959c5b99d320c11dffc28d450b0cc73b30b58af7f291fc160f51b049f930",
+			"hashsum_meta": "56575f8c934b579c29661338bd2ea53d4179c78639f4f4f7363ef6aecde9e8eb"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/fire_gun_d.dds",
+			"guid": "8ce5d995e7460ad827979ac5530d47ddc197e6e6",
+			"size": 349840,
+			"hashsum_file": "384bd44a10aa6e341669a83eafc3f79ddefed0a7d8849ba690fa12a92f4d3cbd",
+			"hashsum_meta": "0a5940a93d4c3e6eb2f00cda0fcabc0d3df26f4aad4ba754effc473dc9445c79"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/vfx_artillery_shot_depth_16bit.tif",
+			"guid": "69ec9a42f35b14b9e861b6c4d15b535364604096",
+			"size": 4031520,
+			"hashsum_file": "ce1d09ef561cb65ee41aa747c7b7c23b54a54b6add80076271793f8a12257164",
+			"hashsum_meta": "7138bee275d4755d8ccf947aba0db88614817d9228b980883234366bff2cbc43"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/soil_falling_alb.tif",
+			"guid": "32e350f14bc3159cec2f344b24fd7d2e56aca2b5",
+			"size": 1064496,
+			"hashsum_file": "9eb0ac55e1175c7e5a7fefa38b432f76214f2ce0990364053dedcaac332dfd64",
+			"hashsum_meta": "94a380504da4b50a941de6e74cba15403c2b1e8602576942bb0d7fe655526b4f"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_sparks.mat",
+			"guid": "a50074db7de2c74cc55ca91dff36659f76762413",
+			"size": 739,
+			"hashsum_file": "d8d843fd527756b0e52049fc52baac8e391415d220e8ae5e26cf1593871b04c3",
+			"hashsum_meta": "24716fa2c945d2bacc0ab821d3a4fbb011d2b883de9ca426c4ca2a01c5c76a8c"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/water_boiling_alb.tga",
+			"guid": "d8604d59b432c6f86f9c082b4d75cf660f8dff1f",
+			"size": 4194348,
+			"hashsum_file": "dc9764445b8f1817b1841d77e687e357a4b87d54946b18f9b7ee08c31d218b05",
+			"hashsum_meta": "0ac6f996bbbe14f3fe4e8fc78a8a7c8b2eda434c3fe153fc56cdfba25ca3b22a"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_tank.world",
+			"guid": "d9dcb2c91f306e933b1d7775aa0b9a162900e250",
+			"size": 412308,
+			"hashsum_file": "40e6f58541af12d44280e2b06709f1e01110f9536a4504d30c0a7cc8f76f41db",
+			"hashsum_meta": "790c8fa620c26b65662ee1f78ef8c16b9b3a2b5ab5265be0bcaa8752b1efe9b1"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/tracks/vfx_tank.track",
+			"guid": "3dd9962fdda8afbb977828f474ccbe550a08ae53",
+			"size": 473,
+			"hashsum_file": "f379eeb9584a2bd1df3151cf5c1e9efc61b1d7e47a1f5fb0e6c4988f7f7d4c53",
+			"hashsum_meta": "95ce236b7091aacae8f249ddfcf5445b7dfe79ae4cc25b3ef8cb97e447ce42af"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_water_splash_small2_d.tga",
+			"guid": "e5de8df72f73cf460bb5c8523a7f72ed2304c2e7",
+			"size": 247414,
+			"hashsum_file": "1429533cce9c82f7114c9ba10023a968542ce2196245814bcab3ae77975c5607",
+			"hashsum_meta": "1bdffa0158183eeb89819aa3f6684adf5a1b934836d47bdfaa083ea335d7c4d8"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_fire_glow_turbine.mat",
+			"guid": "53e8a0d227671cbe87c43635f6a78baec47e9661",
+			"size": 713,
+			"hashsum_file": "aec1d134296da4ef9025ec015300146bf4a117b5478162621883ad43617e74c1",
+			"hashsum_meta": "2d972acba6c458d63ac850cb64b291aa33b3b0e1692eb861425223977bea0aac"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_water_splash_small1_d.tga",
+			"guid": "330c3a2f7c29abff6d0627b1eaf0ac0e5657a7c5",
+			"size": 238173,
+			"hashsum_file": "ceb7f9deaa17e38a4d9a5eb6098a13365961f5eaab7ef963f761e30253e3b681",
+			"hashsum_meta": "ac3d7348141f8877f19e9f54a6ab0974d7b99f8e1bd865e83d4ecd37a77c8f1c"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/dust_puff_1_depth.tif",
+			"guid": "2d1f9f3dad715778bec234776cd2076a2b678fc1",
+			"size": 14880496,
+			"hashsum_file": "32df8f02c088ea3224ae5ea562d0ca121eb89c13350cec98d1e978c69267d430",
+			"hashsum_meta": "5d8e948e0eaa1232338ad031fe1407d9ac552075ce0a07ad5a7c477fe6770e34"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/vfx_jet_engine.node",
+			"guid": "27a82d4c345f8be702459278699fb8178516e572",
+			"size": 30060,
+			"hashsum_file": "a8b3a7896796e298c8a6a9ba800eb6ff2f5c8038f7c787fbed3070d66eb2310b",
+			"hashsum_meta": "3c3012122d610226852ff1c3528641f9dc8fcabe51c0e1e29cff304da77bc3c1"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_spark_flash_d.tga",
+			"guid": "7b8a69aea17e6809f17b4daba604f4a05440736a",
+			"size": 39640,
+			"hashsum_file": "df0b70916839e174350e34f1e5d4e07173e9370b4b8d217cc95ba6cfaca0c2d8",
+			"hashsum_meta": "7ed2f4a1ebee36ee216b1bdc52c78de0fbb0f1a7d8eab63ccff15bb2144aaadd"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/smoke_wispy_2_alb.tga",
+			"guid": "9a256b8579296720f4bfefff93b4bd523d0d3c89",
+			"size": 8388652,
+			"hashsum_file": "0766cdf7645510b4f348642120f711c085f06cef38e3160176274a9076d1199c",
+			"hashsum_meta": "439f91896410dbd36469e7a18c69448df750549ca87ee67bd7d0b9561bf82484"
+		},
+		{
+			"path": "/data/UnigineVFX/bake_lighting/shadows/cf399a27c396515a0144f0f14c78359c4021d44b.dds",
+			"guid": "cf399a27c396515a0144f0f14c78359c4021d44b",
+			"size": 3145876,
+			"hashsum_file": "339f99263aa0b66670423a9d5d262b7fcd552d325b1c50eb3f1ac9b6fe29ce98",
+			"hashsum_meta": "6c14008610dd7ea653915d1193e6b992053bb87eea828ccf2441f9b4e06bc55f"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_fire_attenuation_d.tga",
+			"guid": "bc1f572a40a07999a08602900706d5e9d5163d9e",
+			"size": 2092,
+			"hashsum_file": "7f9039344111cb3ed17acf9d43d99c950c17f48751a8afab14439e7b4793542b",
+			"hashsum_meta": "731de0b08ef200da3b9aa0c76c8a08b07cbbe277882bd6d37b09249b4de34837"
+		},
+		{
+			"path": "/data/UnigineVFX/bake_lighting/shadows/b2fd3e6b529cc0ceb754d1d5d5257930d34f3acf.dds",
+			"guid": "b2fd3e6b529cc0ceb754d1d5d5257930d34f3acf",
+			"size": 3145876,
+			"hashsum_file": "18ab369f40dd7d96c3becad564b55f5c001ccaa0ea8862c9e679f31a628deef8",
+			"hashsum_meta": "a4cc7f6e9050468f9081126a62c5fe28a4d452ee4ea58616a4b7c3dbd0cf8873"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_water_splash_small3.mat",
+			"guid": "792cb0144aecd97b9e5bc233c298cbd724e4348e",
+			"size": 1813,
+			"hashsum_file": "a6394aaa6bb655f35ad66f685f8a411484b00934e6900e5b3d4af06c5216cd55",
+			"hashsum_meta": "9c5760488280315b96c26ff9a87f88746aeefafdab6322f4f16a2e0972ca3d76"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/fire_small_2_loop_depth.tif",
+			"guid": "194efce4b078a2f32d370bb69bab0f9dd2ac4c58",
+			"size": 1340564,
+			"hashsum_file": "485d85f8ee0250c666b01003565c816384f16318cfb8147ee942d63914984507",
+			"hashsum_meta": "0868573b025f698b35d9bd9a54b61b24763eb9e45da145fee94b56406c2487c4"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/meshes/vfx_rocket_particles_emitter.mesh",
+			"guid": "a31fc01a0e4b59deffbdd6a0023066df69e09269",
+			"size": 35628,
+			"hashsum_file": "fdc082d7ee4f3a0a8077c601ed054aca4d911c1e13e9dab9983edce77e1965e0",
+			"hashsum_meta": "dcc8cd869e392441fa7eda93889e07bd1bcd13900d26cae1e364c3c72466713a"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_smoke_wispy_dark.mat",
+			"guid": "a97232ef820f641566fed696e17e2e09a776cf48",
+			"size": 2478,
+			"hashsum_file": "23b86fe9f72273e437f514bb1e202308e79cfa338119e4a4033715d7d26e9d9f",
+			"hashsum_meta": "75c32aeae499c2789b2bae36c8760933f706fb08e6500828bf6d651ff54207f8"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/dust_puff_1_mv.png",
+			"guid": "a207b9289f814a671db3c49a91ef4b3155544adc",
+			"size": 1645134,
+			"hashsum_file": "6aafe5a432ac08c4d47afb874137374c87543b6678cf05a814c7eaf597f6db58",
+			"hashsum_meta": "475d950f008c49cbb070bb018b2d789cb509171f36348027099fb51af7229df3"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_fire_1.cpp",
+			"guid": "4b30cac4c344784f535e0a872f916e8e9fa3c1f2",
+			"size": 356,
+			"hashsum_file": "8cb78f2bb4a5d43daf1567dfbb0f715be05eaa1cad8e631601bff90867c8a6eb",
+			"hashsum_meta": "edd827486b2c595c46e5f2bb21cb6023e52b468e9ad2540fd25621b9bd458541"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/soil_falling.mat",
+			"guid": "ca39251de5f463d809b8155728c7b2ca558983a1",
+			"size": 1208,
+			"hashsum_file": "7ab80726d990b8d23e4bf4abb1a020e9ff153599c43baa5bda818ef6a3b138f3",
+			"hashsum_meta": "6f6f146580ed1b3fcbde351467689e7b1770125249556bbaecb854c5ca16362f"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/explosion2.node",
+			"guid": "9743717602b14623b37e83956635e9dbc45c5a72",
+			"size": 378580,
+			"hashsum_file": "00b5104a62e8d15273d7cb1822be182961c737e20ecb196827ec512ac8df0865",
+			"hashsum_meta": "23598fe883797e60cb5935c411f335a6ed8f83465fe99aa3d158e9413158c344"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_water_shot_ripple_d.tga",
+			"guid": "708809b1884126ba6eff8b772974c4f95ea6d473",
+			"size": 196652,
+			"hashsum_file": "75dee0366d05ad58c7b11a5e6ef45f36085412d3ce3e9527ded227d3cf113b48",
+			"hashsum_meta": "eb54edf76ff3a38875854527c56c8558ba1fe68add7b0628df27bfd767d41758"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/vfx_artillery_shot_n.png",
+			"guid": "5a3410bf3266e7125c7bdb49b2392c145eda2863",
+			"size": 386355,
+			"hashsum_file": "be7b7dafd359b0877dadccfc1ccccb725b4bf6381d95bb78c9d6fc24249c045b",
+			"hashsum_meta": "783e375660cd6aa578c51182ba46ce397017d8c33fb0fadc6bca540eff93c03a"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_smoke_wispy_dark_exhaust.mat",
+			"guid": "b8bbb1b9bca5a5a4e30bc27c965e7628dc403f54",
+			"size": 678,
+			"hashsum_file": "ad5bf41fb4f54a48b5b9c89c0672cd643f86c1d52a23927e73ae7b23e12d4c54",
+			"hashsum_meta": "70ae43e2f0971a4932e3fb38a5d871bb6187172c35dc48fbb75f3183b6c4db08"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/smoke_wispy_dark_3.mat",
+			"guid": "0e104f212d031e0cb2bc41fbc3cb4f1ee935ebe5",
+			"size": 1754,
+			"hashsum_file": "9ceb98ff623c143a2921eca876c185cb57c87bebae07ef9306f90dfda73584c2",
+			"hashsum_meta": "5ccf226a91983251c55512058bc4cf51e9baac1bfd5e65b98d2840b6a66e8bea"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/fire_glow_dr.png",
+			"guid": "5d5f0b9dfec0bc83c943ea1c556e2581f9645ef8",
+			"size": 99715,
+			"hashsum_file": "f691e0c31cea79b8240f61f66d5e7af9486839e18d55dd0d6da177e3a5e28761",
+			"hashsum_meta": "7dfb2fbf06840cb1d18b4eb988bcf497d5d9cca14f088dbf67f7c17c19bf7e00"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/smoke_wispy_d.tga",
+			"guid": "2c5e4d77e17fb91fc0833426f0113c53d37a45d2",
+			"size": 16777260,
+			"hashsum_file": "fceeede408e2174c3a7de7fe1560921c3c99af79bb40759f931645a3b3901ef6",
+			"hashsum_meta": "eef474170d832d18b5406a2b690e3d20c2d3a9f00d05639b40047bcbc40cddae"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_tank_refraction.mat",
+			"guid": "1733cc5b1937fb048a96929e36b5462662e15df1",
+			"size": 384,
+			"hashsum_file": "dfa8fdc04fb2962c67b8fc6c69598f3019905c47a8424035dbd336d37a1e2e04",
+			"hashsum_meta": "bbd4e3588ca6b49dc781bc2ccd875a4a5c895a5f15548dff4a064a6476a90955"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/fire_top_emission.png",
+			"guid": "a510daaab003ca0169359b6c1da0dfdbb32e937e",
+			"size": 1509050,
+			"hashsum_file": "d5908d4a76d3fd32a2ff02103c9a24ea7acedd3827d7e935a729e6027c5932b3",
+			"hashsum_meta": "d80764a214bc0562ca992bd6c85d53c771c90d17abe623272433a9786f3e341a"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/vfx_turbulence_flow_dust.node",
+			"guid": "3e7e3ed711506ee633a0cb729f8423d3b08b7c2d",
+			"size": 31150,
+			"hashsum_file": "75448c8f5ae3734c5133723b5d0badc8c4bf6119f7666bbe1dd042c4bffab48a",
+			"hashsum_meta": "2a13dd6845c2231e11dc51c3fa91c53708ebeec05c24338e97839ec0d1aae1ed"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/fh_engines.png",
+			"guid": "80cb0b9259e841a1b725db06eaf92797e03a5a5f",
+			"size": 9552,
+			"hashsum_file": "b9296c94828f48403a55fe74d3ba031fa42c39bc2bcc7cdcc3db0ac72f6c63ec",
+			"hashsum_meta": "b9b41b714e986200cade8a8daed0db965d87efa33c7c1161a8ac410c958a411c"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/meshes/vase.node",
+			"guid": "030e7be042667dbfb96470129cf1d049e4d49d14",
+			"size": 443,
+			"hashsum_file": "8c6d12ca45f68259657c87987bd3f1e2b40382173c62ed279ba9122f5bf0c3b4",
+			"hashsum_meta": "2c51dbf3f6258d320d049558b68e22e4fb24cc82901879a4b9a379de8c67f067"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/fire_small_2_loop_0.mat",
+			"guid": "d29e1f75016c2a508998f96f886cd802a038b779",
+			"size": 3428,
+			"hashsum_file": "e502788dfb1b1fc3d9ab920fbddcb8a052282b14879b46c00210ce2e6c728f53",
+			"hashsum_meta": "be288aa912b77b30bc9b09570d7a0fc34caa247120af79b9a4276a53c365a9ef"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_fire_refraction.mat",
+			"guid": "2cc4b9cb05a409f43dfe690ee35e8b926007a7c8",
+			"size": 645,
+			"hashsum_file": "e8acc39f9560a1f114a8ed9d9c99d49dd1481e71ca566548bbd46a32e32bcd35",
+			"hashsum_meta": "2f5a89732c3ddc8b359b3a86dc3bc4227add0871a49761c184b05e920b0bba03"
+		},
+		{
+			"path": "/data/UnigineVFX/bake_lighting/shadows/edb6801787fb9e8ae0dafc618d956a4c56cba13b.dds",
+			"guid": "edb6801787fb9e8ae0dafc618d956a4c56cba13b",
+			"size": 3145876,
+			"hashsum_file": "339f99263aa0b66670423a9d5d262b7fcd552d325b1c50eb3f1ac9b6fe29ce98",
+			"hashsum_meta": "7f3450aa28d92130801880e317133a4dcb4845f222599c325945732620430379"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_welding_glow.mat",
+			"guid": "24b0a6962039c422ca55bf62581cc75bf15d400f",
+			"size": 581,
+			"hashsum_file": "a2e35e5adf8ebe7a2052a7a3353a01d6827ce4ed14f4e4e09c91bc44af61531a",
+			"hashsum_meta": "8efd36d0bf19cfc593b1e3b981d6e34f0dcc00f231a7970556cd1e078cfa9e33"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/smoke_wisp_1_depth.png",
+			"guid": "82c59375ffa50e5061548d6fadeb5c02d43d6b79",
+			"size": 2021624,
+			"hashsum_file": "58fe23f782fe6ab35790f75167fb4f015e5df0831a88e4646151ad4f7f28ee8b",
+			"hashsum_meta": "8f692f71311b4b5a6c8a1ab63fe5920ba51b4de8ab4aa498232d15126db19969"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_smoke_billow_dark.mat",
+			"guid": "17c9e8b35f68748ef7e29b97e5ad24845cbde40a",
+			"size": 844,
+			"hashsum_file": "a88b156af172713a7d2f8e532ecef146f0a47d75c6870e0f8ae18e9fbdccfb29",
+			"hashsum_meta": "cba47b272e128e87f785a6ab062d25df548e19d5511da2668d74c28c2f99c6ec"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/vfx_artillery_shot_mv.png",
+			"guid": "8f55eeec160a1d5b4087b2fe0f723e459ec89ae0",
+			"size": 677593,
+			"hashsum_file": "a2da9e329c4cded52a3f2698cc29432a99059358de655a1d9cb081e44c3c353a",
+			"hashsum_meta": "925aa6aa9349015f88d4b177d2428ee3cdf20d2cf8553b63df5e0bbcba36a087"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/fire_middle_d.png",
+			"guid": "58327a85d075a7acd4300a130ee4a68aec41eb06",
+			"size": 1998744,
+			"hashsum_file": "112121196cd9f2e1bca3780cbf86ee9f814da4e02e0fbde510bd7c7e231d5e90",
+			"hashsum_meta": "8a7f08fdaeb9f11be5cb4c24a374548d0c1e64c972f16a0721ba3cd25c8cc5c4"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/fire_small_2_loop_emision.png",
+			"guid": "216e81018f8ae66c5ed7aedb1071167e53714bc5",
+			"size": 573965,
+			"hashsum_file": "e5ea60130528941920b251d80b4266531bc3ab0e6d2315619685d7202ea0aaa3",
+			"hashsum_meta": "26a683db2d884629dc40354bba70ce49ef25ae669e8d8c3e6ac2cd1860801861"
+		},
+		{
+			"path": "/data/UnigineVFX/bake_lighting/shadows/270b19621eae4959663322e4353290f33d7c21b6.dds",
+			"guid": "270b19621eae4959663322e4353290f33d7c21b6",
+			"size": 3145876,
+			"hashsum_file": "5d3d0fb4acf82ad28010ce084f23e99dfada556b491e7807590e09ca356497a6",
+			"hashsum_meta": "ca1b0b83487352b2392a277fc4eb126e474a350c6aa7ccdcbdc727a8c72de039"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_water_splash_small2.mat",
+			"guid": "b6819007c1c49c6aa771ea001856ccaf66ccdbcb",
+			"size": 2065,
+			"hashsum_file": "0c77855ecda69112aed905c93da7cdeddc607aaaff3ee57cfd41fc6716d8abcf",
+			"hashsum_meta": "d347486ed2f5948a18e85ccffffd4f6003be16bd20778e901cb435c5507f308d"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/properties/vfx_proprty.prop",
+			"guid": "ead007599b034356bf410dcb1c1ae11e1fbb6df0",
+			"size": 214,
+			"hashsum_file": "a0e19ec81f06125c36691cd945fca01d8df4c3149295b4d77b92968258033c38",
+			"hashsum_meta": "88b3fd47d3bfd6dd23f7503e5dd0519a9740bfd2f4d54d4530fbf6ea74262efa"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_fire_explosion.mat",
+			"guid": "53f1587b3de7f2a798084cc7568ac082e5a16703",
+			"size": 2391,
+			"hashsum_file": "7dbec2dbed0bb5b2e18e17ba94764edd6ba6a09c7cd6f8e4a3785741057e9ad5",
+			"hashsum_meta": "d3291230ad36840db7be5e7c97271547958387100b078f4f74a818436d7ba7a1"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_smoke_dense_black2_d.png",
+			"guid": "efa7d4e35d9a0d0e389d100c1c7a076a9ca7d602",
+			"size": 316325,
+			"hashsum_file": "fdd24a2ebb091e88cecb5f813b08b97ec190c5e3833b63431cb81d573d1610a1",
+			"hashsum_meta": "94694a41eeef08f2a659a8abc6c04d5c2fef83b699ad82e235f30227cb4e6529"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_smoke_mist_missile.mat",
+			"guid": "676222796f7cd8ff2a610f3e74150d428664dc74",
+			"size": 1102,
+			"hashsum_file": "bca1c3de63958392d33334e19f48843c59b59c24fa90767669cee3d5fe67477e",
+			"hashsum_meta": "943818be1ae3fe99d42f0b21f414c2e00b51dc5834bff6700aa0ca47260c4b59"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/fire_small_2_loop_mv.png",
+			"guid": "036b341635c75c7d6e9d73b8e38123b7bb17adaa",
+			"size": 1188436,
+			"hashsum_file": "df6d329b440baaa403e7d6c481c70ae8f96ddc026474d886b088e381a1c44325",
+			"hashsum_meta": "2cf4dd56a18fd9da1975a108cc0160171299b46971df22af6b9b819aa7196b4e"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_fire_glow_2.mat",
+			"guid": "5c6a953e991c10cc92db10b3287b27a7a1a0939e",
+			"size": 2212,
+			"hashsum_file": "8bbb46acba6464889c0c9e2b0c9c2dd8cfc3a7612e4131da77779fbcab4386e7",
+			"hashsum_meta": "73c9e66d38304222e1ab3d4d22f1a4449fc25083c65ee32e54055bd2e838f602"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_smoke_light_d.tga",
+			"guid": "10ae0b37dd0ec39ba2754cc8eaa7dc81bb991302",
+			"size": 553054,
+			"hashsum_file": "5d127a99dd3ef4ef719017b6806c4daeae283633a3a2baa83d815bfee9a982c1",
+			"hashsum_meta": "bb11687d2090fb8ba4a5c136722bd3e405b963081346a20d5d44c3895911eb63"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_explosion_3.cpp",
+			"guid": "66ed68f8b59fb0f0f879b5d4c98329fdd1cef3e5",
+			"size": 382,
+			"hashsum_file": "ef0d15ae521cab579dfb3ee4b963b0089f4d90b7b3da633cddf517d9a6f2d7eb",
+			"hashsum_meta": "a04d69bb3e2360c303396e1c14dc1cd8668a5451f11fb6a30ec035916864a7c5"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/particles_attenuation_dr.psd",
+			"guid": "5566f65012ca45787c7bfa0d4fc80093def4c155",
+			"size": 247745,
+			"hashsum_file": "5126d069d84dd5375d9b9c629b7dc92854809ef8c6405ee3825188d8da60fe5d",
+			"hashsum_meta": "95b5ffca520f7dcdb965996241aee755beb158dff105bd9398fb11da0cce9268"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_explosion_5.world",
+			"guid": "f8464e1a7f4fe860c9fef1655c468cfee841900b",
+			"size": 56455,
+			"hashsum_file": "ecdf2648499f4fea43128d7c07523c48ec4f4c389b2321cc5cf480374ccf8c02",
+			"hashsum_meta": "37f9cc5eeae5ad493fd54ffbaf91f47e64c194d4bc1aa08cf50daace995b8cf2"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_fire_glow_2_d.tga",
+			"guid": "eeffe011345d1a3c8d79306b6f540ace6e1f93d5",
+			"size": 57032,
+			"hashsum_file": "2f595fa2ed351347de48370de77edc16020373c353367859a3563bb8be156efc",
+			"hashsum_meta": "e39b6006e0d007a1f1befe63e2fd72f2a0c40db5e9eab2b7fbf9e90c1a9683bf"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/vfx_fires_3.node",
+			"guid": "491b751ea454f0355d48a5a55b324cd8c62b1ac9",
+			"size": 63524,
+			"hashsum_file": "84809e410f72638545bda66344b93d5f654c35d915e01c654d41f554515aeb19",
+			"hashsum_meta": "5c4cf44749435dc22965718475f5bfd99f44238777796a39b360544bc4a982ec"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/meshes/vfx_jet_missile_2.mesh",
+			"guid": "db842015c0ee659e748016e01e4f511239eb8644",
+			"size": 34643,
+			"hashsum_file": "133f97787988b51387fe1c88a17e2a3d0d1e0ee57536a91dceba78e06a45e6a8",
+			"hashsum_meta": "dcd746bb88733b38480acba711f00fe2c6225d5a63e4f22d804c89cecf1e5ec6"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/smoke_wisp_2.mat",
+			"guid": "65d788f9a9451e044d4b1193c99a69d65557973d",
+			"size": 3496,
+			"hashsum_file": "2711425c32297afde51e96df822db7e1a7e991a6b748b693f1fc9941d88bbc72",
+			"hashsum_meta": "019e48a76911db400a25608c236ad89b3b8616d19ca679c81eb5973374c52022"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_smoke_billow_light.mat",
+			"guid": "4abefb138719cc83b946a1a0484fe441c471fd38",
+			"size": 824,
+			"hashsum_file": "fbf6433f93d04a9e6fac7002c13613526e7a234de1a2937837ba1bd50d63557d",
+			"hashsum_meta": "2e71f5c52a613e5836ce5b68aac48396254805d55a56d3eea51013e23c34f37a"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_turbulence_flow_dust.cpp",
+			"guid": "01d544645a625273512ee52b91d9661d2a325736",
+			"size": 382,
+			"hashsum_file": "ef0d15ae521cab579dfb3ee4b963b0089f4d90b7b3da633cddf517d9a6f2d7eb",
+			"hashsum_meta": "a81da82511b46780017d85d89dc897991d7f51f65c23f734a7c8c4bd946006ff"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_smoke_light_0.mat",
+			"guid": "16a11663c1338866e65b848d57a9dc88e7355647",
+			"size": 1733,
+			"hashsum_file": "04233f7b7038b5b160f0c5f0303ce69f8e9c385269e11345bd92e48963f8f788",
+			"hashsum_meta": "2d1acef67e9e9361098cf9cb5f82f7072de830d8cb59dee24119f5f85d216d9d"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_jet_fire_turbine.mat",
+			"guid": "86a3922d23b29f5ef8420c87700a0646beba3445",
+			"size": 2897,
+			"hashsum_file": "c9adfffcffaf771a3c305de946d44367f39d56df18a0c8356f5065b0e637efa7",
+			"hashsum_meta": "174eb95b3987ff645a33bd7d88669176a5c51cecd3bfd1d791dd9a6a9f81b391"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/meshes/vfx_tank.mesh",
+			"guid": "d42892ce06ea137aac5079b4f823de8ec7fc055e",
+			"size": 5582041,
+			"hashsum_file": "201837f401ef638e87f70d6a72febb33d6585cef7067434019c4b82e5352c98d",
+			"hashsum_meta": "6a40b9ece3b4c9c689a08d7589dc2a47a8ac2ef35aeb77c0ee857620a56d7f2d"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_smoke_missile_attenuation_d.tga",
+			"guid": "9bad764b0dd5447b5abe64eae9dd0ebb3253c8b8",
+			"size": 2092,
+			"hashsum_file": "b83528b32d8abcf5f21ed7b26a97ccb67f97566fee0a50efced7326bd9cdec8d",
+			"hashsum_meta": "21b973ddee15079ce5eee44636343d04fa48b305d4a2d6dc2285e3a8a952f204"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_tank_smoke_wispy_white.mat",
+			"guid": "fa893e943c1b5c910a874092ef4efdfd26961b26",
+			"size": 646,
+			"hashsum_file": "23136c661bf9ae7001b4ef1c332cf0a39d524b8e7fa2e74c2f7d3927c7817fd1",
+			"hashsum_meta": "4972a2b03f8767df1e69ae19799dbec1c48b9cefa92570ee3a6f95f9df294fbd"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/explosion1.node",
+			"guid": "869a34e59a6c0532c95249efe9ac891188c698f7",
+			"size": 76841,
+			"hashsum_file": "06cde47f2ae80fbcb3e10ebe4bb79bd99b2c9a6abd0d6f6d14d93043a8c13134",
+			"hashsum_meta": "e309e9d7e4f3fbd7f0a44db4b4c503a05e419c246e66470c7983f8c028b7970d"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_tank_fire_explosion_top.mat",
+			"guid": "5c8d74ec07c352cd585c37553b1ab7df761faa46",
+			"size": 681,
+			"hashsum_file": "5e961efd212c2f9cebe749e989cf091676195b065aae9729bd5848caee01078a",
+			"hashsum_meta": "0c896ca807299f5a5da1c9870f45616c8ef718543b5b07181b69bf68cae460ba"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/sparks_d.png",
+			"guid": "87b8a681e704b9d564631d3d8bc9623bf362bd6b",
+			"size": 104955,
+			"hashsum_file": "4b6b34c8682174129ee9f2219004022d6227d8b96ac3711222eaaaef5e07f8ce",
+			"hashsum_meta": "4368e2a9e1e728e9f895cdec83ceac90fc35c095230393d9a94ec25e072c45ed"
+		},
+		{
+			"path": "/data/UnigineVFX/bake_lighting/shadows/8818b8710236571c81a287cbd69dbaae35d0c235.dds",
+			"guid": "8818b8710236571c81a287cbd69dbaae35d0c235",
+			"size": 3145876,
+			"hashsum_file": "339f99263aa0b66670423a9d5d262b7fcd552d325b1c50eb3f1ac9b6fe29ce98",
+			"hashsum_meta": "7dd99051e01dfe829016995147613e054c034e49683019034ecfec4acf6206e5"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_fire_2.world",
+			"guid": "05d4e13d6f3361eb69884b55573d9e830ce4ffe7",
+			"size": 56740,
+			"hashsum_file": "505b5fb6055d37a030503a282aaa974acbcf7bc9bdd32f6191dcb022670b4394",
+			"hashsum_meta": "aca1c0016b6a64c963b8ea131a7e09c51bccc075ea71296b31bf379a92c70f41"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_fire_high.mat",
+			"guid": "7b95452f0c0590a7b95612ec7f412aa2891b67bc",
+			"size": 854,
+			"hashsum_file": "272052da246b0e095140956daa30748b6b1ab53194d6f685ec5f2cd5bae6c0e6",
+			"hashsum_meta": "e31617283044ba7c17a49b4e6da53a4b40b5fb7bbdcdb3f434f3b8ccc750b594"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/samples_smoke_wispy.mat",
+			"guid": "c343e743d034a2bf66bc0522c7ae941ed5ec484d",
+			"size": 724,
+			"hashsum_file": "3e2a55733796ceca27c39684efb777ecde50f8847b7552af9a9d56fff21092d6",
+			"hashsum_meta": "0bddab4386a8d3ef7d8840ffa1fec02074515c2bf430f00e497025c5209efda4"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/fire_small_5_loop_depth.tif",
+			"guid": "2f480e71c1e1b51cb2ca4dcb8486c8ae443a7835",
+			"size": 3953184,
+			"hashsum_file": "a9501b08870ff84ae21c9a2319d46486c1cb50f2a1d2e90767c42d3d1e9253cd",
+			"hashsum_meta": "bdac60306a7a2e62bf8e9bfd230de930a86ea4dc6ac3fb75b69086338e6ba411"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/smoke_wisp_1_alb.exr",
+			"guid": "b83f3fc60564146d614c6ae81090d12733ee1c5a",
+			"size": 6415902,
+			"hashsum_file": "dec552370b4a66720e705ea329e4086a3aaac151c0d7b6914377f71ba8f6e759",
+			"hashsum_meta": "cf49fdccb4c2352823a7407a8947e065c536a32a5b60d7de82077294664ac740"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_fire_5.cpp",
+			"guid": "57db76d28689eea0d4ff8056ea026528d4b62dc8",
+			"size": 379,
+			"hashsum_file": "bd72805ca027f66335d1e289a86a76ff9fe430f210c9f33a34ce8ecbb10845e0",
+			"hashsum_meta": "f78a79e3d4df889175960a0f90580a790a3640112cf87b2aad4d94c742549183"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_smokes.cpp",
+			"guid": "a3e2b5d51abb7feb2bf860b9aa3cde1555ba5f95",
+			"size": 382,
+			"hashsum_file": "ef0d15ae521cab579dfb3ee4b963b0089f4d90b7b3da633cddf517d9a6f2d7eb",
+			"hashsum_meta": "a2c3137cadc0ffa05dc26935b5f8e2a39b042531ee2ac3d8b859a4fde4d170d1"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_smoke_dense_white.mat",
+			"guid": "6cad3b01867f9f78deb35e0bc27e7210f19f7dc1",
+			"size": 707,
+			"hashsum_file": "ae54c990b6733070401b6b6eb2b75e0979905d43fe8582d7d701bc393de23e9e",
+			"hashsum_meta": "e484a6a660f357506b4d4055f75e2f2524502792380bcbb28ab16b4a7d8d45a1"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_fire_low.mat",
+			"guid": "7e0a25a0598d114c9c95a4d158af059cf1d60436",
+			"size": 1008,
+			"hashsum_file": "f80e1647a324f1146c487eab96417e752ed17ff6dc2956f7ae10ca60e6fbc986",
+			"hashsum_meta": "45f3c729f9b6a8a11ea1093f40053f36288ff6d232c39c9bdf4e2e8039477def"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_fire_lower.mat",
+			"guid": "11a7eea9240681c1e3ae5fb42abe1f4865a4ad02",
+			"size": 2393,
+			"hashsum_file": "5012263249bcef6da0bb2c696f49d87745ee97003b983730861db13142625ddb",
+			"hashsum_meta": "cdbf730b7194d9adaef7843091f597b20a3253319bc03263eb6dbf29d2b86268"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_fire_high_2.mat",
+			"guid": "d8f7822817ef018f252bf1a272e3b32311a38a9e",
+			"size": 1037,
+			"hashsum_file": "19ec891e43e26e401697396c74a8636e378a33157cb440379bb2b911fc4b6299",
+			"hashsum_meta": "9f273fc4388444150c2506ccf36cf46f4f6d406a665bd0110eb6598cd6694341"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_artillery_shot.world",
+			"guid": "aed85ddaff514494578c2ef0b0dfc74b5d6c0d78",
+			"size": 56918,
+			"hashsum_file": "b485bffa275a403f340ca59affd1d6f91148a308b2342f1fd5898e31b421c364",
+			"hashsum_meta": "fe2a66c5ebbdabcc7eee6fcff3beefe42373cdc502395bc5b5bf79576f43c4f2"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_fire_glow_missile_1.mat",
+			"guid": "200868d29ee82804a10d0844f90b4b27ed206aa7",
+			"size": 624,
+			"hashsum_file": "5676bec9e5799e9d3199ef9a390cdc844df70a7db060c36a188399f264b58b69",
+			"hashsum_meta": "109a5f3b9e0825dfb0c12ce1c740dd5a7f423bf4c2b6b3670f4a7476b13236ab"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/vfx_smokes.node",
+			"guid": "a37bb850177f384f69ebd9c00a9cafc4e9c2a2e2",
+			"size": 2695,
+			"hashsum_file": "d724e3d6bae01390ec66d72c745eedf01863b0b92949d14b4ac5e387af349051",
+			"hashsum_meta": "e756ada5e7ab1e7fc34a2a422190391c3521c8c1315b32ac3ed339ee0d078c6d"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/fire_small_2_loop_alb.tif",
+			"guid": "82c5f9e929d07a345bc9e003353b8586b1be1f2d",
+			"size": 4527464,
+			"hashsum_file": "e3ed039d22a5b6357b55a288ac12e9c47e40ef40d528b93e08af302496527b93",
+			"hashsum_meta": "e415a252de95e39222831822b4a4e6e5f1f3097ce4e299af19300ebfd8e3611c"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/sand_falling.mat",
+			"guid": "06ac87eb974c7c4e88765755d88a40b0a26a5c4f",
+			"size": 2538,
+			"hashsum_file": "64fd1f5cc3e01946ac78b21300c3bf982a0d09e9d18d7bddbf32700a8ec4228a",
+			"hashsum_meta": "671e40c1458f8b559116d52694bcaaa83ba09a16cb28a8f72a204d86b8f4c23c"
+		},
+		{
+			"path": "/data/UnigineVFX/default.bitmasks",
+			"guid": "b5ae99b2da31336fceef870244774a93e6b97b3a",
+			"size": 57,
+			"hashsum_file": "d93e5e592c27af3f6c675b4ca8a94e695f7af867a62dbb1bd6a5c3946b041ab8",
+			"hashsum_meta": "2fb85e62f78a6193cf54b4e0f3b353a5415c27c0c393a91603281d4684d75d43"
+		},
+		{
+			"path": "/data/UnigineVFX/bake_lighting/shadows/48cb2f1e7d744be55af10c0011748f5f90c11532.dds",
+			"guid": "48cb2f1e7d744be55af10c0011748f5f90c11532",
+			"size": 524436,
+			"hashsum_file": "67a19cb7c756bc66f7cf50d667f9726d14a5e6058347252ad69e6a7cfe8168f4",
+			"hashsum_meta": "fbd8b960c873e1d911f71fe2abd9949448a1fa455ee90b920ca4cabebb3207cf"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_snow_flake_d.tga",
+			"guid": "373ac1130351c9e2a3bea4464202606970a49102",
+			"size": 2356,
+			"hashsum_file": "e67543ba8c94b52f18e7dcbb168dafaee1aa172f6de42ba5f77015b09ef09f6e",
+			"hashsum_meta": "df07cc04cc45b7325efd57db81d75206690abfdfea076ac165426be90a818f94"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_fire_ground_attenuation_d.tga",
+			"guid": "694abc6aad174b67b7f55ce471f2d99e6d4989ca",
+			"size": 2092,
+			"hashsum_file": "b65385efb70f4eec0518a9028a3248e9ebc6269b5241c0f05c6395ef220ae561",
+			"hashsum_meta": "136eb3b6abc5681d55d9c0671770753f864c64c4e9bdc7615397b370601a9825"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/smoke_wispy_dark_2.mat",
+			"guid": "ce6459f27bfff0a902d281f4f1bac4c3245ba346",
+			"size": 1757,
+			"hashsum_file": "2c2318dc0d39b93e5c28482092bfa63718b612519ea686d8130ce0f0ebf19e95",
+			"hashsum_meta": "2324cc04407cbaec1b5dc691204e39699ca3527b0b79319be4c3d3028feba4e6"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/tracks/vfx_jet_missiles.track",
+			"guid": "51b3afbd0b61d29d7a8f7342fbab504a4103fe1d",
+			"size": 3704,
+			"hashsum_file": "4d6ff15196e592e6e32dbe40fc51c1f530953cc5bebe15f85322840718ace060",
+			"hashsum_meta": "9de858f378ebbc6320ba07a5efce20bdc60e396f8d0fe6443840bf5714192334"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_water_splash_small4.mat",
+			"guid": "476d8f6865c37a4ecc153b5d6be9a533b0d0ebb6",
+			"size": 1975,
+			"hashsum_file": "6060f42fb348b66111c282990faff1719edce50524943479c3d7dcb6ee6e48fa",
+			"hashsum_meta": "174dc47bd4f527a9593a4ceb04138572a82e2720572856e4c0d3f9dcbb09e025"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_smoke_mist_2.mat",
+			"guid": "0a634487f26b28fac9ad3b3e46dcd832b92a69b6",
+			"size": 707,
+			"hashsum_file": "ed9a36f8898719f9c47177e5ef4b98cf6d084b2b2ac657c9d31e9919488c8a80",
+			"hashsum_meta": "626bfac48e112b3578e86e9e70fc18e81a8028eac4e3bac99ccab218622a8d45"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_smoke_light.mat",
+			"guid": "b6e5351587c0625c6c5503dab247c94de0c4e6ac",
+			"size": 2801,
+			"hashsum_file": "e79925bde7408952255958b4236eb03e0fb57d17c5864652db48e1d9598da4e6",
+			"hashsum_meta": "416f2b3c1dbfb679cf50b1fa93aa6a318ddce2bd8a7239b7442db0b3daa63d0b"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_spark2.mat",
+			"guid": "4251f9623ab1f80323e61ff80155ddd019187112",
+			"size": 836,
+			"hashsum_file": "ee968d333c9bd004bf1cbac42fb2be47c659e8b5a62f0f54b531d3b6b63c0e77",
+			"hashsum_meta": "33f8aaf0df2396a5ade5071382240b8366921b486f9fdd96a58116cf99b1dbb1"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/render_settings_presets/render_settings_nature.render",
+			"guid": "5c39370c009c7576ec6b2cc6d9ae743a6f6572a1",
+			"size": 53821,
+			"hashsum_file": "883e7aad560dc055c19402bd7054c86823fd096de57a00e5925fa4f662b2cf39",
+			"hashsum_meta": "f5ad849e69c15f91c1b47898aa2d4025dd21d9605f9025c7cacc301fb17afb84"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_fire_low_2.mat",
+			"guid": "f4be9593587aead39fd2ad1b64781fb1e65d3db4",
+			"size": 1790,
+			"hashsum_file": "76ff7718725a46926bb5d69734353b28dc54356f8cf3f85bd59fe271bea75d67",
+			"hashsum_meta": "6455be5c525b7264076352d2e31e99c3533b3f0b5a32c0d23fcfb9c867131693"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_fire.mat",
+			"guid": "e84bb1fdf29b47e43dbe83cff8ad65f2a75c303f",
+			"size": 666,
+			"hashsum_file": "3ca2ab28fdeaebaf7b7f626757244a8809e8d60d3386b2c8c3bf7fa805a43643",
+			"hashsum_meta": "b10e5999addfbc15916abc836a850d384edf526887a2400ee6c98357496a7d03"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/mesh_base_2.mat",
+			"guid": "fd9752e580826700c7182e5f826a283214b8e9e9",
+			"size": 483,
+			"hashsum_file": "7925753cca0cfbcd9a5ffe48d6ae1382913171e44ad6b4fda3fd4754957cf199",
+			"hashsum_meta": "ed52c7c731569326fb9e968fc38b1d9ce82166736e26a5cbf2433cdc041e7247"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/fire_effect_composition_big.node",
+			"guid": "d536e4e549c8d10067e7905fdffe223234d89be9",
+			"size": 69286,
+			"hashsum_file": "a1374857399ccd3770cb9883e86dabe793b836eb90a59f3fac0f4feef31f978b",
+			"hashsum_meta": "001edea64dc8ffc48653a9f60a11c62f3a9bba2b2347e0402f0a7bc45c45c58d"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/smoke_wispy_2_n.png",
+			"guid": "b60e4f87f307c73a21df2d514dbb867c08a62fab",
+			"size": 2501052,
+			"hashsum_file": "304b38280afe9154e5e269fc4d7f04878282239fb853abeaf371f7cebafe83e9",
+			"hashsum_meta": "fbc04022481c1580b13daebaaf3016cdf45d5f0c71179f1fc2649e4b153ef5c7"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_fire_middle.mat",
+			"guid": "179ec4a3028fae5b1915c739846aee3f6ca7272e",
+			"size": 2180,
+			"hashsum_file": "d1618b1b87dfca5587e9fd955041a59bd4701fc759b993e0a63ca01c8f5f46ac",
+			"hashsum_meta": "fc60c6437a689d5dcd623c74a2362a3393db94a711f2ae45801f1d78513f4477"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_fire_middle_0.mat",
+			"guid": "11ea1d49491e8614345bba63a505dc667981c88d",
+			"size": 314,
+			"hashsum_file": "97e58f9b85d72c93b6c4ec0ccf30b7e7d7c41758836b9db60b1b3ed81e7d8bc8",
+			"hashsum_meta": "0dfdf1a72e01413713b6ff94819d7f0c4e068d0a8a659cf788b26a148a67d466"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_rain_drops.cpp",
+			"guid": "8f0d05a3bc2336d1c789bb5218ad84c985da78f1",
+			"size": 361,
+			"hashsum_file": "83e8150e8f27ef8befea756d14ce7a633121ec119153bd235892c8ef3f6c8eee",
+			"hashsum_meta": "f2cf9c08deed192d7639f98a6408c1071000f06d13ae343a1b0d0d3ec11f50af"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_smoke_mist.mat",
+			"guid": "7c8e19bfe18de340da3104c7344a704e25f66a42",
+			"size": 609,
+			"hashsum_file": "d3bdd8e2082f68147e45763416cf1f8ee2cf7e3d13e2dcdecf81b615d4838d93",
+			"hashsum_meta": "c9b61fff21c1b60fecffc89e9c21bf9f8d9b736f517332d4f80f0b4d9224a1f2"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/meshes/vfx_jet_missile_1.mesh",
+			"guid": "5c771062b28afd93df8829dac000996103e203b3",
+			"size": 28687,
+			"hashsum_file": "af1f40b5e8b989c3736a10e37d18ba2e93666846b16906f072aca055894108aa",
+			"hashsum_meta": "a247e7f4ec406a614ee9130fa691527e4bd717613e32482d8e98be997b383161"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/fire_gradients_d.png",
+			"guid": "53257fa3fa54775cb9621343c20cf5a37cf5dc28",
+			"size": 1806,
+			"hashsum_file": "250067bd4b3295e97805e30afa38292185377a0b33ca1541eab1ff3d41a4ac34",
+			"hashsum_meta": "ba887e3a8b7c5c47ed048572880cdb2827a41a6964b2d9c2d0a20b3f88192506"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_spark1_d.tga",
+			"guid": "674d415bf57bf7495f695269e122c40d2bdf3b14",
+			"size": 16428,
+			"hashsum_file": "2f8de09bdc80c52b2de62893679af05a718acf13cc5fffdc565d8eb6b9c29a17",
+			"hashsum_meta": "6f59e8a9f557d27a53fff6edb8cc01eba76e403309f16c25138057952f031cc9"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_turbulence_flow_dust.world",
+			"guid": "531e4ad45f1572f42431baee766974ff18a81920",
+			"size": 56351,
+			"hashsum_file": "41973bddc59c55dc2ef543b73acaf7a04eedca99da73a5e923a95e58a52a53ba",
+			"hashsum_meta": "0093b5189121565b7d079674ba3f40ae44a5e55e734e4fe14a04aa5f7b7d25ec"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/vfx_fires_5.node",
+			"guid": "1d9b0a4ca26a899dd4987d4f2d88ec9c18047ac2",
+			"size": 71068,
+			"hashsum_file": "274c74f0129f4bbd562c51548e22f96b9ce1a231c390f35b009a07c445924fc5",
+			"hashsum_meta": "0ad227edb876a5d1113c27bcde21814ae535cd081140504cb954238e6aa96628"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_snow_flake.mat",
+			"guid": "d008d79727af52f7b5f5f88a49ee4e94a96fe32d",
+			"size": 446,
+			"hashsum_file": "31c6ecff9c79b624a7fd2fe420c5a8c23cca1520356ae69d77b961eb537b3aea",
+			"hashsum_meta": "cf61f3e6054712f6f834623c92486fb4f0bfecb1e46e1b0a598b551846250d50"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/fire_high_d.png",
+			"guid": "377a9e2d651444ea04061be3bba5eb42db605b73",
+			"size": 1293745,
+			"hashsum_file": "d78ae6e8ecb32830933dfc19b0ff239b38d25395a05d9275afe340584d884878",
+			"hashsum_meta": "f7e97b16fce663650c4842209a945b6b65fb65ffadae7ba2c0a2dd09ecf8f9e1"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_explosion_1.world",
+			"guid": "e8f4a2da7b11a74e4391f1bc5d51bc814e9f2e87",
+			"size": 56357,
+			"hashsum_file": "95b88fb19c12a1e449ad1e25e78d2166557c599e48bf2ac5570cccf646a7d6e7",
+			"hashsum_meta": "67f553a751b7a326ddc7935915925db79c64968fe1d642cc1f26f34f257d22d1"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/fire_lower.mat",
+			"guid": "21d83350171691e1588b2dd7c55c9c40d2d0128b",
+			"size": 1784,
+			"hashsum_file": "3327bb15a079786cbf0f10458e82dd8ca21e261c2a0528552bb5ba3d8f7a8887",
+			"hashsum_meta": "2b8a589f963750620fdb13a42028f5f9406791cfcb83d527da2a9999e6253bf2"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_fire_6.cpp",
+			"guid": "908d0f13c05713993e266a9967e26c5b4c54debf",
+			"size": 382,
+			"hashsum_file": "ef0d15ae521cab579dfb3ee4b963b0089f4d90b7b3da633cddf517d9a6f2d7eb",
+			"hashsum_meta": "fa928c2bcf362ed43e3cd0fb592a2cf502fe88e53c1a1d1a57c9ccfb1b0fb6ec"
+		},
+		{
+			"path": "/data/UnigineVFX/bake_lighting/shadows/01cc2a0ec7ecaa154b44f4706743fd0f482dc722.dds",
+			"guid": "01cc2a0ec7ecaa154b44f4706743fd0f482dc722",
+			"size": 3145876,
+			"hashsum_file": "18ab369f40dd7d96c3becad564b55f5c001ccaa0ea8862c9e679f31a628deef8",
+			"hashsum_meta": "60e6704ddd6e15e708a47d304d6b438c3b9bb7f8e1292b807e5f4505dd531b21"
+		},
+		{
+			"path": "/data/UnigineVFX/bake_lighting/shadows/5f83921fc75cb8f25d76c3a968ed38f4a5000fc3.dds",
+			"guid": "5f83921fc75cb8f25d76c3a968ed38f4a5000fc3",
+			"size": 3145876,
+			"hashsum_file": "18ab369f40dd7d96c3becad564b55f5c001ccaa0ea8862c9e679f31a628deef8",
+			"hashsum_meta": "59f49b7ab835bfaf82e5fdf325428592d0ed4ca4346ba2f307f07debb2c811c7"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/water_explosion.node",
+			"guid": "2b371adcf04efd31e6c4bbf8ef2ff6853dbe4f9d",
+			"size": 78867,
+			"hashsum_file": "ada28d21f3fa460ccf90b9fe233815df59fa96f2f26c5744f5d3a28a2cd67e11",
+			"hashsum_meta": "de9853cb73d6376e1fe53adba4493b221eaa816b043f4ced416b2365da48b252"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_fire_glow_attenuation_d.tga",
+			"guid": "6e6d15e442bb124164a17a1bab28fa52620ca7a9",
+			"size": 2092,
+			"hashsum_file": "ccd7b1d1251e9cf244f678d80bbe1728fc86d31ecfc306afaa2896bdba92ee42",
+			"hashsum_meta": "0645af2b54605f27a6b2d842edcf7b286533c155ad25490df6ce54bffb7260db"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/fire_small_5_loop_alb.tif",
+			"guid": "c549581f154bc6f2f02e79a9d4c576f455af35c3",
+			"size": 8333324,
+			"hashsum_file": "fb6055ccc7579086c8e0f9eb70ab328a77ed3b726d3cced45454218a021e2767",
+			"hashsum_meta": "a193e4c67f08c76e2a14ec9fd95118a607a28665871bbadd46571a42594f83f6"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/fire_top_emission.tif",
+			"guid": "dec35783ed039706736002ad9c45042813801967",
+			"size": 1859352,
+			"hashsum_file": "1a9cb3994e949775e6ae3be7067d864cac50379c3c2e75bbe9310f24419f5d34",
+			"hashsum_meta": "591096ebf94ad3e5d6ebacc4a7fc05b8f14f9070c95a68271d0f3ed2364ef65f"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/vfx_artillery_shot_emission.tif",
+			"guid": "fdb3fefdbce0b438f51e6a372cab422a33980b81",
+			"size": 341500,
+			"hashsum_file": "48994c49db22629019af4fc78f05d0bcaa235270f74fba1fac37b21ecb78de59",
+			"hashsum_meta": "e4a7bd1aeb82d26b2cb1b2c13b0a500c6f1069d1f49184ccfd60eed9fe4bc816"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/fire_gun_d_0.png",
+			"guid": "350729e7e00d1e1ac7a1d6b1d27a605c1806800b",
+			"size": 107716,
+			"hashsum_file": "34501fd058402d206afee5e4534f27ae53baa0b01cf33580672fb3d75f0afba5",
+			"hashsum_meta": "b0c6fb58d7c565360e43c2293b7bccf36b1d89bfd1ff6ff51e6174dfe8a26917"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_fire_ground_d.png",
+			"guid": "faa777a54b215a519a5111b29b72e1196ce3d96c",
+			"size": 400239,
+			"hashsum_file": "9b69b47a195a967e5c122e272594535b1ecd12f9c151071fa3a82ef0295b6916",
+			"hashsum_meta": "964ba0fd89e2a9e1dd5058a882c7548d206b27b99272957630c42cf3acdda44b"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/smoke_gradients_d.png",
+			"guid": "6244701d765067add299c090e5ea0ef321780d25",
+			"size": 1808,
+			"hashsum_file": "9047cd03fa3af0d43cbd54283f82c469113e99a52274681c52f2b6e246d33d76",
+			"hashsum_meta": "53bd9b2564c5839e069b3351be7d37d3a697e37620043e0439eada1c92ada744"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_smoke_dense_black2.mat",
+			"guid": "9b2045c9a50c80962f5e0d794eac15deb396260e",
+			"size": 794,
+			"hashsum_file": "e541f16e9284ecd00eb5e0bf677ab27a702c004914255f3022989ee6fc2bc1a7",
+			"hashsum_meta": "90ccbef560bd87a67033969a0eb9f3c2bbea2b9d9ce5e1c252c90726f67260a3"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/smoke_wisp_1_mv.png",
+			"guid": "ae7ea12b4a47448e193c0295ae0f72f07473698f",
+			"size": 2751880,
+			"hashsum_file": "4b70eeb70bbacfdd372209458b13ccb92a4b99589a79b3aa30adbae3986e69ee",
+			"hashsum_meta": "a34463094e69f4426323d3faeaa7b63992fb626ef44edacfc66b8f42f3dbf92e"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_rain_drops.world",
+			"guid": "e75ae7e167f7cfcb6c387b917b57af319eacf0ab",
+			"size": 56558,
+			"hashsum_file": "239e8c55f22f0c5d68c369e589448fc0538adc9acaf780c606e142a7ca2c55d3",
+			"hashsum_meta": "3b20fa46fbd2f02656c433adf5a5ef6c04062ddd28a1e5e03f42ab009f04529c"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/smoke_billow_dark_d.png",
+			"guid": "5752cf9d4f95340ba07e51151f2042b4842c222c",
+			"size": 2544401,
+			"hashsum_file": "393a1c4100fb1c06eb090f29a4daa4e143e32843f7383d935ebfef9e895c17d1",
+			"hashsum_meta": "1f4b6144354d35bbd89e0dc9bc4a3b7e7aea356f380219d3cfb903746aded66d"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/fire1.node",
+			"guid": "08338c4cacbe31594b7315c22b3abcc7390c7eeb",
+			"size": 71204,
+			"hashsum_file": "c1921d0366c8a5b79dc2af5c757d849aee4214b848dc9b48310d07207c11017d",
+			"hashsum_meta": "aa5ef1fd9dc30a6f116cb618f8ecbeb05b8ba90d26e7d71d6c85934fb1f1f3e4"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/sand_falling_particles.node",
+			"guid": "9d0640c0064cbd1f99b5e7f22bb826a99ab13ff4",
+			"size": 9195,
+			"hashsum_file": "17a530d4b51c327eeb8a749d5eb42f829d21a748e33a71806343f78002a05620",
+			"hashsum_meta": "7382d79f0ea522abb1d13a0eae1a20e87d137f68833bbfeac215a13d1c6c2fb0"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_fire_1.world",
+			"guid": "05719b2ea56896c5c774c8b6eb6f85ac4a4e392a",
+			"size": 56690,
+			"hashsum_file": "23a24c4513db4a02939629561cae030e3086815d77a738f1c24f166871caf07d",
+			"hashsum_meta": "0436194a211e73765be54206aae1d2d952f3ac36c75749e6b73a7edf03a19a20"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_welding.world",
+			"guid": "09cb663c8ac7380798ac87c8d6185c1714ed9bef",
+			"size": 56145,
+			"hashsum_file": "fdb6cd0fde1be78a2612899a473d1e4ce4524eae68079750351168078b986070",
+			"hashsum_meta": "a1b772845157de66ceaa65d015c34b5a0eac8338cfb65b57cd4722b6cf1b997c"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/render_settings_presets/render_settings_dark.render",
+			"guid": "93cea4094be06a8f8c1145d787a6fcafa39cb2f6",
+			"size": 53799,
+			"hashsum_file": "b60e98a019c65a5214406ebd0d5f89c737cc9e49bebc39ffd0b3ecd88c24c7ef",
+			"hashsum_meta": "68c3d26e4b0929adf01a2d08f0eebd4818c29ddc3aaf146feab72cac62786172"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_smoke_black_attenuation_d.tga",
+			"guid": "0ed0b7bc2804c00617f0a28f60d3975b75ec05c5",
+			"size": 2092,
+			"hashsum_file": "204f34dc7bf4b550480e285df341d5b6cd7a0e89ee8b43c1993125c31b23df98",
+			"hashsum_meta": "7c5b7fd81fca56aaa7b15684d0d6f991b5cea4776d5c8f4fad6d0c973695629a"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/smoke_wisp_1_n.png",
+			"guid": "56269af720423bea1d853a4181c1ceac3a6afa1b",
+			"size": 865725,
+			"hashsum_file": "89fbe12a213f31b5f61f01d0a9a2b84541721c54526a3f41c607e2befbdec26b",
+			"hashsum_meta": "1046c8ded398c231efb9aa427d766d2a6355ce1ac22ec29793ccd2cc03f59293"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_fire_4.world",
+			"guid": "4f26e4b7906ff244277961f59c76c066a0bb5ea9",
+			"size": 56679,
+			"hashsum_file": "08770871aa3a643dac935ba657150449b27b3d5593cbb4cce5b5c5bf1a0a9a75",
+			"hashsum_meta": "144762df097243d3b87e3834eb53b5f36c810963056472ed9556f68b6efd39d2"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/fire_top_alb.tif",
+			"guid": "9658171038a87f2fab4122c247890339c63dd344",
+			"size": 1693112,
+			"hashsum_file": "698562a9890a94863ca15a21eb457990ae5af99bb9a639ca7bd9895318da773a",
+			"hashsum_meta": "78ea757dfca2cac4e1a85d62961060a0e29ec285022be84c4e1c0649357f96d7"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_fire_explosion_front.mat",
+			"guid": "a20915b8414d8f8447938fae74e74fe551eae8ab",
+			"size": 1826,
+			"hashsum_file": "16645a94f229e83a7ebdea6e92992bdfaf74a74e55b7bc89e6ef471ae056452f",
+			"hashsum_meta": "0476446cf8c5782740ac76b7b5efe9b4156b6020710caec8b32106f3889a4cc6"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_fire_refraction_n.tga",
+			"guid": "4fe53c6ec5622982aa30d50fc5ff25f32b25ca1d",
+			"size": 35238,
+			"hashsum_file": "444de2fcefaf1b05f27beeb5925dc80dc5660ea2c69fd117fc145934aaa1d048",
+			"hashsum_meta": "f3049f879bb0a4339d03e0e11d4cd1785bdc5b3f32a4bae4df12ee54ffe54f91"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/fire_glow_0.mat",
+			"guid": "af25e3407d0c5ea4c746b113e9505917cfdf13e1",
+			"size": 2559,
+			"hashsum_file": "1b9c3891ffa4f7789c6f4d3851319795b922a1a757228e259fd7174c089d4af1",
+			"hashsum_meta": "caa8add1c4ad767e30740cf26288eac9bb10eef8efe43768b2b03ed0ebaeab20"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/soil_falling_particles.node",
+			"guid": "85ff6578b58cea777fa1456ac0a1b5c132e9142c",
+			"size": 9174,
+			"hashsum_file": "b9faa20ef2ab0af82ecaf7650b9d86e4735ab5b041477377cd3659a96c83672d",
+			"hashsum_meta": "187b91e2a4638d45734e52bcf3cf9868a0c5182d5dc2f1e80e52722b46f56f4f"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/tracks/vfx_rocket.track",
+			"guid": "65b5905400ab0ad55ab5ebd551ef6717eaf6738a",
+			"size": 3552,
+			"hashsum_file": "a0dd275404a6d9441cc26203056c8a6fa9c98cce34e99a75c0a85eadb75c6348",
+			"hashsum_meta": "609a5315c42412bd0eaf4a026a862934a23e72a6ccba651dd208b11693f726d4"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/world_selector.h",
+			"guid": "bab1613b16214598ae119fa22815138fa8ab9124",
+			"size": 2513,
+			"hashsum_file": "d590c85b7ed289bd91831b1572c25529dedaef98f332792103faa1691102b4d8",
+			"hashsum_meta": "82124cbc8ae67de4a80031352ce17fdde13b19a9740242a76d9534c63b4b5b36"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_jet.world",
+			"guid": "8b7bf37a5242c5bfae3a7c75af0e9eb8dee31701",
+			"size": 150920,
+			"hashsum_file": "fbb8ff20140a48966460fd9cfb0c3775ed6f7e9b4f8f238a43f0277ada3fcc7b",
+			"hashsum_meta": "ce41af7ad592b7806324d570cc34ecf5241e30d47dd5ca6fe1d98cbfda75a047"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_smoke_dense_black1.mat",
+			"guid": "3585f103935ddf4edf0d21e599ba956e457b5246",
+			"size": 706,
+			"hashsum_file": "fe85099107e790db21ab2ec2992b973e40141e9312b81f6532271a7a9ab79818",
+			"hashsum_meta": "5bda541483677ca682901d06db43ba485ff2753d91ca2723bcce76019688be60"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_water_splash_small1.mat",
+			"guid": "8b58e4e028a1daef2de3c672d6578d7fcf604d9e",
+			"size": 1760,
+			"hashsum_file": "1a32872dd55ef7e4e8d6e0ec250d3bb706fc99cbe2ed1c014bd3df028bf3746b",
+			"hashsum_meta": "a248229b4a5af0d9f64ca71d3d1e27d25422e38ba848bc22e0771d383b4f55cf"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/particles_ship_small_splashes_fh_0.mat",
+			"guid": "759f4f820ba769ab6372ea3a768f72c12428d6a8",
+			"size": 2526,
+			"hashsum_file": "87d1b11429d514e3eed42ccac1592beee73b9404334adbc930cf62ca6b7940bc",
+			"hashsum_meta": "7b7f59385cd7127f45d52f14d903d1ec5327d059e1addeeb5c475fb18beaa65d"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_spark1.mat",
+			"guid": "64b8fddbd3597a2d3e1f8aff3bed83f3c3f8e8b9",
+			"size": 690,
+			"hashsum_file": "1db33726a866a43fc0a284513ee78dc6083c3c228944be7eadfa51faa2df539b",
+			"hashsum_meta": "52f629a689c3b14a7f3932ecdc6806aa07ad3834a87955ccc8a226379ede32eb"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_explosion_6.world",
+			"guid": "5d51a08604c80a871913ae5ab22b4b3ad3b0f837",
+			"size": 56468,
+			"hashsum_file": "f1ed57aee47344a80bec06fc31cf67e51d06071e004c5b729dc60c803a7a7f07",
+			"hashsum_meta": "21a4b57999bd6ff35637dc53433a5bb8c7ca286550554923ae9a68d2e0f0da2c"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/fire2.node",
+			"guid": "7dee4b4a506ed52b3009a5c380f2940dfbec2496",
+			"size": 15496,
+			"hashsum_file": "de3fa9f9e57da8a02bec710882fee7e65e8698085e9da46326f2df8a709d2154",
+			"hashsum_meta": "2d7136ad1bc487410a9ab2c75bb5c3beb536fe7f4c27e2d6077b733a2beb19a8"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_smoke_dense_white_d.tga",
+			"guid": "f94720546b82b0de876a5be503b98b4ba5d6fe96",
+			"size": 616193,
+			"hashsum_file": "d64466a7eea049ff5d3c3232f77ecffc4f118354bcb5e56ea3fe98bc190fdb35",
+			"hashsum_meta": "7a44eeeccd619d6221500d858ac1f5bb4b3f0016d5f03d94343c7db21787c25f"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/vfx_explosions_4.node",
+			"guid": "319085aa41d90d2a902806d27fc145f96e083051",
+			"size": 113974,
+			"hashsum_file": "cd9e443213894d8f287719fefa8b8a4f75c505bfa5374161092fb87b0f0e7592",
+			"hashsum_meta": "f8fade92b22f812a1198dee7e444a528864a9604cba56395762c03c2c8096668"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_water_splash_small3_d.tga",
+			"guid": "4108c5fa2c337f426c414a74703a1a06f9b38e05",
+			"size": 228241,
+			"hashsum_file": "f95746bc9da169df12e99d0558b5b454119184e564cf26ea78754fb71432bf9d",
+			"hashsum_meta": "c8b47fc2ae0ad6888124070e8f07974d9739e5fbde354367f6ba5f3747bae003"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_particles_base.mat",
+			"guid": "cb3efb53459273a5337bfc1eaff041a5fd342807",
+			"size": 365,
+			"hashsum_file": "bd003b32d5dea4ea0c6548e94930a457309c24b95d3a61fce7c8771c883061b0",
+			"hashsum_meta": "4c0245a0d73e7b025729fdc2bc5b7c37f236dd61257f49b760c0aa37f94f74d8"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_welding.cpp",
+			"guid": "a6fb40d707a68653f71d2077d8b235c9b26cbc41",
+			"size": 356,
+			"hashsum_file": "8cb78f2bb4a5d43daf1567dfbb0f715be05eaa1cad8e631601bff90867c8a6eb",
+			"hashsum_meta": "39f9b78600388e7f28c7ef3cf0a0916c0c19003420dfdde4bd39f4bd4ca45ea3"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/vfx_explosions_5.node",
+			"guid": "41be2c6d8260ee59a3735cdba44d79de62e84605",
+			"size": 39131,
+			"hashsum_file": "20c8092c55c67f93448d1aacc24a126c1c9d79d34b6755985f71a2503e513794",
+			"hashsum_meta": "0cb3db8c1e88795e4357f6f6ba60c11375e0b6448102e048a2bc758f8cdb7340"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/fire_gun_d.tga",
+			"guid": "136e84c625bba8854605b8b9f0b7e7adf723cef5",
+			"size": 1048620,
+			"hashsum_file": "8bb8bcc092d080bc3b2a02b394f5ebbd5b83a6a006f7568d5a07460efc85fb6b",
+			"hashsum_meta": "50ae25f249a4ddfd629c30802669b44027cbcaa1b60087cd9dc32af4cd39f72d"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_smoke_wispy.mat",
+			"guid": "912af80f474679e4b9c149c9c1196081544cd1ac",
+			"size": 898,
+			"hashsum_file": "0f11be9e2874e51f4b6a0f3eb01ca5e5b0c01f68e438da9d67ffe44fbd9b27c3",
+			"hashsum_meta": "6c1aac45834c3217861f0aa0eeaf772399f8355a623d84707f3bb6cef727dedf"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_jet.cpp",
+			"guid": "99012fbc4291d3799b62c140a1deb41e7ffd7472",
+			"size": 2121,
+			"hashsum_file": "d34cf4754054cf450dcc2e1df20eaee142c42338ea60d9f8d3908f625371eda9",
+			"hashsum_meta": "4edf1a06d3491ee75676d42fd851459accbca22f75d91a6430e84789cc1aea18"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/smoke_wisp_1.mat",
+			"guid": "dbed650ddc0543080d308ac7cca0497aaac34a91",
+			"size": 3169,
+			"hashsum_file": "986e535a0b07d3a514f4291eaf309d18c54d20639fcd9b3cb6612dacd5681072",
+			"hashsum_meta": "492a14868cd3bb89cb44bb2fa543a935051d70d475c85973370a5f8457d288e2"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/vfx_explosions_6.node",
+			"guid": "eee3f3fab151037fed64cebf9bd6b2b5e9ed733e",
+			"size": 129225,
+			"hashsum_file": "68ec085981d43ca7c2a876b1b22dce8d2f1bb3e63e9a6451e41866e1501a964f",
+			"hashsum_meta": "9c313a21f50f675c26dcb0de1da5e8833461532b54f85d2407ffefcfc1a59c9d"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/render_settings_presets/render_settings_default.render",
+			"guid": "2047fd469129c2abb94403ec3b4681f99be8b021",
+			"size": 53914,
+			"hashsum_file": "9b7a4bdfd5b7d506fc8831f9f59285ea1aced25ccb22befaa9ab64c4a265084d",
+			"hashsum_meta": "6ebd5568e816b479c5e05cf3388559efb414b6ef5f88effd23e8d4b9386c9d78"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/meshes/vfx_vase.fbx",
+			"guid": "470f1a1d696fd4d8ef02d25709e14bcae7cc48a1",
+			"size": 84352,
+			"hashsum_file": "e9aa95ee9d39a710d84841fef4430f2e1fbd93de787d0fdb0d7be785e083f9a1",
+			"hashsum_meta": "0a118f9fd6472338059c4b7a1dc5e96ce9fa0c0fc884b876305cb086a50f38e4"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/derbis_dr.tga",
+			"guid": "6322ce2e4ba93c6b0ca38ffa68dda9ec8a02f32b",
+			"size": 1048620,
+			"hashsum_file": "a394f9758cf02e74bcf2e499a27aca0297b2c7dcb0c3800ecedbb84c1d9cd1ed",
+			"hashsum_meta": "e76fbadfa66fe7d70dd899e1b501bc93eadcb178a860a13f2b455bd0cdc654b9"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/fire_lower_d.png",
+			"guid": "7b3c1fcb80199c17c6217ea0750a14c8b170bc76",
+			"size": 2272620,
+			"hashsum_file": "3d2d0e3ecd2fc4a0be6c20b1ec2b00883e7553b5a9c94b851b5386c99f8141d6",
+			"hashsum_meta": "5bdb775ac39f775a5d6d8842ee2247a04a0f89d7a8e2e8ce2eac708a9ed26b9f"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/fire_top.mat",
+			"guid": "3411c221e9e7f50c77052cfbbc213e1e19cd0ee5",
+			"size": 3399,
+			"hashsum_file": "48741a2830197fb50874aa44286c7fb8c35272abbc2c2fbe4b81d51a9b11f821",
+			"hashsum_meta": "b61d79ad81fae4439a813e19cedf76748ee3d9585dabe96d9a5e4c47e83220a2"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_smokes.world",
+			"guid": "a5f26f3a780448db9a3d543fe10d27052ebf4cb8",
+			"size": 56227,
+			"hashsum_file": "d80d27c5f2b8dc5171edaa0c4a85b17cc26eef5b1488c6e1b0d9399d54ace8af",
+			"hashsum_meta": "68e6623bc288e98882c1250e9661697a61053c76d01d6e359f03e5a72d28a0fd"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_rain_drop_n.tga",
+			"guid": "849e0f321f19b9d95ccdc09e4d3382a383160cf9",
+			"size": 9733,
+			"hashsum_file": "d00bc18ed2134115bf6a0f0cb01af5d020e1395581c5a741fd6f4c854f688a1c",
+			"hashsum_meta": "5cd07899a265d4715a893a72c7b0313884f6fe9836d6cf9b88d602ecb7666df1"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_smoke_wispy_light.mat",
+			"guid": "98ae09e0ac377229b30a47e7f687e109f5a9ce6b",
+			"size": 626,
+			"hashsum_file": "077415ca6b9d82435d6b7d62000be080b38846fe90396d36e0f767c573f50ddf",
+			"hashsum_meta": "2cada8dbcad143f79de7d02d63222c80274d1fc55c27d89df8ea7f5ef494fb79"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_rain_drops.mat",
+			"guid": "210883390f8cd9bf6e4f8d7cd314706abe1e6470",
+			"size": 1109,
+			"hashsum_file": "55e41d63b63948209057f214a95d906d20f428a9f5d3bc7f742c61b55389c459",
+			"hashsum_meta": "5ba6af9d4e1a6e425b16ef360c48cab243da8d4704781cc5606acb75a02a8436"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_shockwave_n.psd",
+			"guid": "47b7723f109e20ab75af7bd46fdf119a017a0168",
+			"size": 58747,
+			"hashsum_file": "e4fb0db3010f7acba4fcea99cb5b8384581e6d7631184f526c10b5a850efab1c",
+			"hashsum_meta": "13da544da6df5b31324b208b5c4edfb0490cecc95e9d65818a355a6b9ab351d6"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_tank_smoke_billow_light.mat",
+			"guid": "39051fce3dfd7b7df9d802e9c45d599b206398b9",
+			"size": 1784,
+			"hashsum_file": "c22dd5ef700c0d2c794a5e7acefda368aba628b8bc9aad945aefefb0248eb78d",
+			"hashsum_meta": "6c07594eb2ee7ce31abddc1d1623e120114afd4551683caa23a3287479e599bf"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/particles_base_1.mat",
+			"guid": "caa8a12b333d882969e781d74be084797bf1c241",
+			"size": 406,
+			"hashsum_file": "edd5a665562fd45c723b4f22cca26a497db31907d649239f58ac9a9359a51525",
+			"hashsum_meta": "7c7da08df5eaa961ffb4dfbb0206535701d32f73a786dfdca87b8e6efbaa7b63"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_fire_2.cpp",
+			"guid": "635edf113eb87d30229b84e0036014277a269756",
+			"size": 356,
+			"hashsum_file": "8cb78f2bb4a5d43daf1567dfbb0f715be05eaa1cad8e631601bff90867c8a6eb",
+			"hashsum_meta": "04597bb283b9ba2c6ec18c30e3cbb0bd12f033d63d7bdbf8583abf886f392e1b"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_rain_drop_d.tga",
+			"guid": "d2d086aed342ac4e8ce8af37cd1f5b4510d107c0",
+			"size": 16318,
+			"hashsum_file": "9ffeed3596aba77f7b5e7050855bcec06c69d7b8d62baf7880aa9c294420bb57",
+			"hashsum_meta": "4ccf083c9a29920e2441b4535341bb2d30a52042f3d68c49667083daa28958b7"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/fire_small_2_loop_1.node",
+			"guid": "ebe52a75ab69b95029733c6f28343f023f62f279",
+			"size": 28009,
+			"hashsum_file": "f6f5219a9ab610734d91766922fc2863b9c55b0260eb2f7d5ae7ceb654bef1dd",
+			"hashsum_meta": "ea0d86edd80f1c94180091658ed46eaac8fbb683845c5806f85fc490fe344109"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_spark_flash.mat",
+			"guid": "2d1cea89af41f1d5b219d082042a4cd48a016263",
+			"size": 747,
+			"hashsum_file": "4946c57b333d9d364a94d666c6a99b39306bb75228e1f00787edd2b3569adff1",
+			"hashsum_meta": "3e4545a7f011ddc497bb636c8ea18a0c6f85e6e5d805ed25882fd4c72f7d20a7"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_explosion_4.world",
+			"guid": "0e79b0b8aa51ff0afabc63a4ab34d4bcc44f1cee",
+			"size": 56457,
+			"hashsum_file": "ae24018d109b1fef712bc8632950e6e4e0aae78bb51265a83572aa1834179084",
+			"hashsum_meta": "525744254ec5d5e53a5d1950919d92541970cacfffc71eeb625cc7f9ff9bf8c3"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_fire_explosion_d.tga",
+			"guid": "e4fe8a7aa0e433452f278460b6b55e6d67e5c65a",
+			"size": 506802,
+			"hashsum_file": "d9e80c0db96c7155aa3d356d32bf58744b59bbca0f9a5bbf3d906c7599b2c183",
+			"hashsum_meta": "51296895e8e4b7a8a192772be76c8bbb6ebff9eb7a95bc97a70d32df82e29eb3"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/fire_small_5.mat",
+			"guid": "da36bf99d77ea424aac7a13330c774f69b2fe7dd",
+			"size": 3939,
+			"hashsum_file": "5afcd61e1bed8da7b1feafb3b56bbaf5007bb78fe6a78640d8fa1934f3d7c844",
+			"hashsum_meta": "0912e4e71d5af3e27b4e080a6b209a641cff89013c45ac5442865a59aadcbb7e"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/artillery_shot.node",
+			"guid": "ab404e08489be7f53c2289651e22e139ba480044",
+			"size": 59406,
+			"hashsum_file": "d5ec0b5531918f8e2ef2855befdfe30c670c8819f65cbc3938da641b41f359e0",
+			"hashsum_meta": "cada4252b4c5107fe9d1860de878881d4c9593922043435aea09971693845e73"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/snow_flakes.node",
+			"guid": "a259257dbdc10d43f571e79dffe07aa3c502e147",
+			"size": 1582,
+			"hashsum_file": "d201e4d957d8989830d8f21b2268d0ac56f29ee2353c92fc5d0218f45799e49f",
+			"hashsum_meta": "9799027c4581fb9c88656a89231c8b77fa4e6429e8dbe9e3e1d897cf1f2ec1ed"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_explosion_1.cpp",
+			"guid": "b0c16f99f1a22093899d855e10d4ede75f040842",
+			"size": 356,
+			"hashsum_file": "8cb78f2bb4a5d43daf1567dfbb0f715be05eaa1cad8e631601bff90867c8a6eb",
+			"hashsum_meta": "e7a687d4813c05f233e1bd50386017b4bbf1eb66ae5b3b5060b4ef8a040dca96"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_smoke_dense_black1_d.tga",
+			"guid": "b2a8866011cd8851713a1695da4484855138658c",
+			"size": 626920,
+			"hashsum_file": "6145e0732902eea5377a9a3e4fb98deb1de055ab07673ba44e077275ecd68841",
+			"hashsum_meta": "3b82811c0b6970ff050703d6d73390ad19107fd2c9ac018488d582c0bc11403d"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_spark_attenuation_d.tga",
+			"guid": "2860f03a28d3f8455b2f33f322b7430bec834ea4",
+			"size": 2092,
+			"hashsum_file": "ce24319cabb1f396e39d473e7bb9d808d6d2ec5d61f9092c9c2c14ca5b592fab",
+			"hashsum_meta": "f5ad01fb301b1ec2f11c61368eeddf2610fcea3a8c7b8cc60d33be38de2fa197"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/smoke_billow_light2_d.png",
+			"guid": "6b311c61c249445edf3cd28bd0cdfe89ce6f2257",
+			"size": 4331585,
+			"hashsum_file": "6a5b1b2385b57abca7c2ff8992b431f9f6d1140edf2ad437440a0ac29c926d6e",
+			"hashsum_meta": "483c5ed141a60e731456fd24dc5e8c8142ccf238c75d048cad6f002a58a41dd9"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_rocket.cpp",
+			"guid": "10cd98ece672d000b0b07ea0f10173a72815dd38",
+			"size": 2115,
+			"hashsum_file": "6e28aeb580b149b1b70151c033faf11440137e8365178b508336006af1dcfe0f",
+			"hashsum_meta": "836962ae4baa4f79074d2af76c1a4ab1f5822757006a9057959f12cbaeb8fc99"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_fire_5.world",
+			"guid": "f89357b234e58d5bda121e05c8f4e16aec7b078c",
+			"size": 56316,
+			"hashsum_file": "9e5f4fbb4e2af7db955143a9e3e426ad5f3fd115c98d4e3b28fa8b760e089d67",
+			"hashsum_meta": "32943cd9e12ab8f332bd2cdc9e8694fce208392cea37872d0864f0f91bad7dd3"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/fire_top_mv.png",
+			"guid": "4bdea4c5e3a0cf601e99bb3f53ff8f9258df69c9",
+			"size": 565516,
+			"hashsum_file": "b68475972534324ad042f597b7a6b5037f8e65d60b50d2e27aae51d8ca9bec25",
+			"hashsum_meta": "7134de1988e7e7d5470d52fa4be719501bf66e8a4c02fcd876bbc474dc06c331"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/smoke_billow_light_d.tga",
+			"guid": "d049cfc12bb4e1d43b0aba76b3522d330a78c22d",
+			"size": 8388652,
+			"hashsum_file": "4e1c8247fb66f46c4c72a21a95e5519b1a5661cdf22112b3143244844f575dfa",
+			"hashsum_meta": "a53dd4928f68de0c34b7ce6fb3ee4d52efa699fdac9fd510bfb0236da6a35453"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_rocket.world",
+			"guid": "346d6ad623ac6c12dfa5800ab870251c41c2805f",
+			"size": 162247,
+			"hashsum_file": "b9f6a2a858538950f1afb8a28324f3bf48c9cf0e2227c78ff49db6aa6d1f2b18",
+			"hashsum_meta": "4415c6a2673269aaaf69978b357d7aec0a87c927313b3a1ddd2eb658d0fc1313"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_rocket_smoke_billow_light.mat",
+			"guid": "8cc107cadbecd67d5e0ea2bf16e1793578bf5ca6",
+			"size": 2945,
+			"hashsum_file": "3ac00cece139a65255ba6fd966cb3793375b222b50a5356d0ca9e5f3d4322790",
+			"hashsum_meta": "e913c1bb53c4a755e936095e4ab7e4de552720762e3e9f98702d23014112d364"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_tank_wispy_white_dust_0.mat",
+			"guid": "32b0f3110ced113c0832bb6b2b2219ce889056d5",
+			"size": 1098,
+			"hashsum_file": "1d8364dd3a2f19441df93e4b74ecd9c8b1f197c2c7596b84dfe97ceb7e51fa1c",
+			"hashsum_meta": "7619bf7930cb19d9e83928c3e74b14cb02493733c1c7990de7c779c92c1dff63"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/fire_top_depth.tif",
+			"guid": "9163c5d3b0ed1116586d957dfcc458b8f7b8c4b7",
+			"size": 1354584,
+			"hashsum_file": "208843b76d1bf7909ffde76532161327c0121edeffcdf00e38d83c5764cbf849",
+			"hashsum_meta": "1b21320b6f6548066318098a07331b7ddce7b61af3dc593c2fd7d027a96ab454"
+		},
+		{
+			"path": "/data/UnigineVFX/bake_lighting/shadows/895a8477366e176a26b45fc16b97b62cf004bb9b.dds",
+			"guid": "895a8477366e176a26b45fc16b97b62cf004bb9b",
+			"size": 3145876,
+			"hashsum_file": "339f99263aa0b66670423a9d5d262b7fcd552d325b1c50eb3f1ac9b6fe29ce98",
+			"hashsum_meta": "23f470f221755b032593c1712f6fca3848f0a0657d705d0665264159ef943e07"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_fire_3.world",
+			"guid": "dbee818cbc0c532fcc0e4735927b271ee3f4d59c",
+			"size": 57321,
+			"hashsum_file": "ba0b32c92246f3521e012ec1a7ba7ebf784030091f32587b22e62f7dbb1de729",
+			"hashsum_meta": "eacb9ad5bcabe09fe0ddbd64830aeb64fe9e43de11aed77a247397f89915ff76"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/smoke_wisp_2.node",
+			"guid": "1a0e37f9b0c6010434489893b74444d67739b63d",
+			"size": 17823,
+			"hashsum_file": "e8dc9c41755b69b8dcb6dc8c4b7561be0a22bf9ce7961312952b206197d315ef",
+			"hashsum_meta": "68696a8a55613f430a31baac2baa9a81c2c8f94660bf6791f154ae07fe4b768c"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_fire_high_d.png",
+			"guid": "7d0a6da5d10af005dbec65f38f0b6bc37076b1e9",
+			"size": 369134,
+			"hashsum_file": "41588130b618cbdc8078237ae07a57d468738ea1f2e24847b933639c30140b83",
+			"hashsum_meta": "f8827366a8ee2d3f7b5fb2acc5b4ad5775d6f60a3130b65587f31ae8e34687ec"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/sun.node",
+			"guid": "ec0bfeffe78b80521ba72389b4755754ae63daa3",
+			"size": 8882,
+			"hashsum_file": "ca3480dd0942d6a7c7674fc9f90256620a93ecd07c769081b38189f87f40c699",
+			"hashsum_meta": "c3675303e85eac8d5550e4a9294171a1ae152960348a2e414083e1a04591a3a1"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/particles_ship_small_splashes.mat",
+			"guid": "3d68c8ec298d4cac52769b1ff831634ee811358e",
+			"size": 2558,
+			"hashsum_file": "ddd0105063361c220fa86f7d3ab0c99f31b90fb1d0176197992fddcb7cbbc3fc",
+			"hashsum_meta": "953ab943b61628cec58929ce005c42ba3bbbebcb8dfb52c8c5c2a30d37720005"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/meshes/plane.mesh",
+			"guid": "e0694290125cb4afc038da42f6ba54b947b7f6c4",
+			"size": 269,
+			"hashsum_file": "287a0ac226cbc836f5459c4a6fae3085b4b3dc71086fc5a2c337d347f356bd86",
+			"hashsum_meta": "8ba6fbd1e0eaa6b95f0acf2cdda0c9199fe987aa3d6eba0e8cbad3af3db6efea"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_water_explosion.world",
+			"guid": "6482f97e25e23ae81d8e6511cfbb1f82e1b5e7b2",
+			"size": 60353,
+			"hashsum_file": "2f33fa1fba758c08cc44e36fd7f4d2ee094dc8b08cdbb42fca028b1e441541d6",
+			"hashsum_meta": "6e597e36c18f9705f6d4dff94578a5d7e0e92102242860ca2ba7169c4d7ff054"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/smoke_wispy_dark_4.mat",
+			"guid": "f276f563e8e9db66aaafbb8d3cdaa788ce91a547",
+			"size": 1130,
+			"hashsum_file": "cdc20300f5eebd455534c7acc1ab4cccb56a4fc679714c7ca7d15856c4727230",
+			"hashsum_meta": "35c4637bb91600ebfdd9e1dc639e3545c45beece2aab523fe816108cddb6ef46"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/fire_explosion_top_d.png",
+			"guid": "55903d1f43730a6935f5dbc255ece16f5c483589",
+			"size": 1981212,
+			"hashsum_file": "fd6b18c69c1b147362085834b9111d8d147fdf6fb6552eb652ce84d1c84cd640",
+			"hashsum_meta": "366fae09bcf4ae3d089374710f2a5a00c94e492c6586e77d289f658e6b00687f"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/particles_base_0.mat",
+			"guid": "67282ea50a2c0fc0d8b2401f860f8ef233cfa1a9",
+			"size": 462,
+			"hashsum_file": "b4ff8614a9bcf73bdc723762eae09d4a9c454c38c9d935b54e7a65cc05cd556b",
+			"hashsum_meta": "9626fc1acfdbb3eedeeb3b516ce93971f04c0cb24c981771e1529062a8760e93"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_fire_3.cpp",
+			"guid": "2e4bc75679ceb7345a408df40155748f295dd6de",
+			"size": 382,
+			"hashsum_file": "ef0d15ae521cab579dfb3ee4b963b0089f4d90b7b3da633cddf517d9a6f2d7eb",
+			"hashsum_meta": "8dee48764553f440d1a9480c427c321fb64497695ef14493149731260d27df3d"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_explosion_6.cpp",
+			"guid": "dd6d51b7f259408cfc1af6c63f3a8193b37623d2",
+			"size": 382,
+			"hashsum_file": "ef0d15ae521cab579dfb3ee4b963b0089f4d90b7b3da633cddf517d9a6f2d7eb",
+			"hashsum_meta": "b9e854b102062eb49b2d9549ceb99cd1044ef9e6016d3e04dfcc52e5e5048131"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/welding.node",
+			"guid": "d957b4adf15514d51f36250cd092a65e9e9cbdb5",
+			"size": 9927,
+			"hashsum_file": "190136fc6dada670ef0ea1794c1ca1185970b88f29a0ebbd7950b7703047132d",
+			"hashsum_meta": "7b2a28d6ef4773af0d155b23eaf1e65b54deb8fd8e06ac901ea29c1fc498f20f"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_water_splashes_attenuation_d.tga",
+			"guid": "0dc9e5d05abbc274fbcdcf2dd67f7b607929672b",
+			"size": 2092,
+			"hashsum_file": "0bd016dfd726f427670c9764e7fe073fcf599ed80f85a5c5b549e8f412f4deaf",
+			"hashsum_meta": "8e54298cd5b9cb0ab6ac6acc0f52dd90f31b3cd5ca4617b0b494c31960abf315"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_fire_gun.mat",
+			"guid": "60d5660d516cabf26e8e2051b1d5de48d7424613",
+			"size": 831,
+			"hashsum_file": "325344ed98c9d5af2c2f69b2bcf32b89af0b14f983037a2511141232c5fa8868",
+			"hashsum_meta": "c34d04b2c9e76c054dbb7abe05f85de6532393978e556ecdf51aaa651c1ae147"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/post_filter_wet_normal.tif",
+			"guid": "1e14ca09c6ddcbd49c9cc523e75be826464ee14d",
+			"size": 162376,
+			"hashsum_file": "64034fcac1c8971529a535c59b138e95b0887b7f1afc84efe3a49a83d7fd454f",
+			"hashsum_meta": "fdb337af7e6fea97cb81ede469ee4be0794f4b8b1c390e2ba87257916b970e59"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_shockwave.mat",
+			"guid": "39783a5ad725966528a5bedfdf7c8d4aeb89fb9b",
+			"size": 680,
+			"hashsum_file": "e66d3392bbb175b9f8d5a59aa782adb1cb37365aa8809ec199f1f74a829db957",
+			"hashsum_meta": "679ebdf086be3a1b6874bc676b0f2631494d037afb3a1c2d89c25326c2759563"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_fire_glow.mat",
+			"guid": "e268f3cbeccfcf2113183367f3650a1e6847cbc9",
+			"size": 2249,
+			"hashsum_file": "ffb363a04a8f1b0061f0610f682f280e2a1131c7c5b4dd44db8fa09c2b66b874",
+			"hashsum_meta": "b87f9920b2df35fb0f31442b8df0d130b6e1d1aca2c616cbc454d75af9684371"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/library_spark2_d.tga",
+			"guid": "6079125ed8c0746c432058456fb543cc87d4c638",
+			"size": 20733,
+			"hashsum_file": "8c0d9de120a7632c84c2786226f548594bf24f635e16a24af240c75b8f75e60f",
+			"hashsum_meta": "b47b724a50140824bcbba3c4f5c3a48dadd114e7e1691b6bbf19b12200ea0c84"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/fire_effect_composition.node",
+			"guid": "1a5ae59235c6c7c9adc22e94fa4e48e3419e18e6",
+			"size": 47750,
+			"hashsum_file": "11b600d6b7bb5fa84284f9ec1e61c13907e2f403d2bd32bf6e11822259503093",
+			"hashsum_meta": "c3756e4e2e3f15d3f2964c7541dbea4b45e9b030ecd0fd7c74ffd5e69ddc6e55"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/fire.mat",
+			"guid": "6b84ef14433c9f2a46f8a79ea1ec2987fff7802c",
+			"size": 518,
+			"hashsum_file": "1e6f9192d8ea9acc192b92b7d0a55389247b66264b5aac82b314213a9a6bdb55",
+			"hashsum_meta": "2c93f94f826d9f4d1d673d83c6b9c5947856bea19ea783a2418837bfb9b190cf"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/rain_drops.node",
+			"guid": "90e0ee30aec678cf7f66d3dd4702c43a22d8e3f2",
+			"size": 8283,
+			"hashsum_file": "3cfdb95e99c81b106c5f666040080c396a4a37d7938980a5c5b302fafab537ea",
+			"hashsum_meta": "8dd218f2afd5cb8d57105c744ecf940c0fda03ed822544424a12272d3ca9f4e6"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/nodes/vfx_fires_4.node",
+			"guid": "c3b3b08eaeb8e47b40f9b68283c284bc43d9bf68",
+			"size": 18369,
+			"hashsum_file": "e08cdd2fe090547659f80cbcc1ab85ca3fa4eb96c6a500d7ef15099472c5a1cb",
+			"hashsum_meta": "f9a60da0592021ce60df1ec5eb2e767966eb527b39e284d206b8899930422106"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/materials/library_vfx/library_smoke_glow.mat",
+			"guid": "ce4564b0a97fe01aaf6639e8dab618ceb5193d9e",
+			"size": 645,
+			"hashsum_file": "efe999f92e82f5063bd658839a3c36eaa82d960590f9272f6b84b6c4081dae0a",
+			"hashsum_meta": "0cd9e301fc9a13e235d342971d4a29d97a3038b2d646b76b399689a9c961d325"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/dust_puff_1_n.png",
+			"guid": "8dc22457564475ca65916aa1bf06838c60d9697b",
+			"size": 1047199,
+			"hashsum_file": "a5fc25e922eda8b0444710760eaabac636bc2d36e507c017e86288e91554a8c8",
+			"hashsum_meta": "eeb98d528bf30cf59db6fd48eb5644ba81b3422e61ac516c524cd09a1c0733b9"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/fire_small_5_loop_emision.png",
+			"guid": "dbbdfec8fa209387530d3b3a825e115107051a7c",
+			"size": 2669094,
+			"hashsum_file": "49fccd00596b6ce6f8bb3c537ed953d209aa77025a47442ad8f45d73d725f09e",
+			"hashsum_meta": "34868b0946dec4cf0058b88cd538082c9bc9d0478d1e65bb8a6a9766875e0c54"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/textures/refined_textures/sand_falling_alb.tif",
+			"guid": "0a8374fa9221801182d23a3c542bd06b52262ace",
+			"size": 675736,
+			"hashsum_file": "6aa098e4e6219aedc58288f2a03e9a0f66c54969e425d5f08a537c8ad0a152a5",
+			"hashsum_meta": "d1cf1690271b01f45b93e09979eb0985de4c6a271b041a54d6936c5c5942e2b3"
+		},
+		{
+			"path": "/data/UnigineVFX/vfx/vfx_explosion_2.world",
+			"guid": "c70d4f494feffc9809ce67666e312a466b0faeff",
+			"size": 56403,
+			"hashsum_file": "80673cff15529b14b87410abf12ec1bdb0464e91d30c699b993aef551f099ffe",
+			"hashsum_meta": "a23e6e8e294f41212cef1ef1e0f557d3e7709c1b551f3718110846097b69e06c"
+		}
+	],
+	"files": [
+	]
+}

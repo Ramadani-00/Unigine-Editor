@@ -1,0 +1,303 @@
+08:32:19 Third-Party Notices: https://developer.unigine.com/docs/2.19/third_party
+08:32:19 
+08:32:19 
+08:32:19 ---- Configs ----
+08:32:19 Loading boot config "F:/Data Backup Dani/UNIGINE Projects/smallboat/data/configs/editor.boot"...
+08:32:19 Loading user config "F:/Data Backup Dani/UNIGINE Projects/smallboat/data/configs/default.user"...
+08:32:19 Using config file "configs/default.config"
+08:32:19 Using boot config file "configs/editor.boot"
+08:32:19 Using user config file "configs/default.user"
+08:32:19 Using controls config file "configs/default.controls"
+08:32:19 Loading "dxgi.dll"...
+08:32:19 
+08:32:19 ---- Engine ----
+08:32:19 Version: 2.19.0.3 Development Double ver-2.19.1-c8c5226 Jan 30 2025 (2.19.1 SDK)
+08:32:19 Binary: Windows x86_64 Release WinSDK(10.0.10011.16384) Compiler(MSVC:1940 Toolchain:Unknown Toolset:Unknown VisualStudio:Unknown)
+08:32:19 Features: Direct3D11.1 Direct3D12.0 Vulkan OpenAL VR OpenVR OpenXR Varjo Microprofile DoubleCoords HalfTexCoords Development
+08:32:19 
+08:32:19 ---- OS ----
+08:32:19 Windows 11 (build 26200)
+08:32:19 
+08:32:19 ---- CPU ----
+08:32:19 13th Gen Intel(R) Core(TM) i7-13700
+08:32:19 Extensions:  MMX SSE SSE2 SSE3 SSSE3 SSE41 SSE42 AVX AVX2 HTT
+08:32:19 Frequency: 2111MHz
+08:32:19 Cores: 16 Threads : 24
+08:32:19 RAM: 31.7GB
+08:32:19 
+08:32:19 ---- GPU ----
+08:32:19 GPU 0 Active : NVIDIA GeForce RTX 3080 Ti    Memory:12084MB Type:Discrete    Vendor:NVidia   CommonHeaps:true Priority:32 LUID:000000000000d04e DeviceID:00002208 Driver:591.86
+08:32:19 GPU 1        : Intel(R) UHD Graphics 770     Memory:16254MB Type:Integrated  Vendor:Intel    CommonHeaps:true Priority:31 LUID:000000000000eed3 DeviceID:0000a780 Driver:101.7082
+08:32:19 GPU 2        : Intel(R) UHD Graphics 770     Memory:16254MB Type:Integrated  Vendor:Intel    CommonHeaps:true Priority:29 LUID:000000000001b6b9 DeviceID:0000a780 Driver:101.7082
+08:32:19 GPU 3        : Microsoft Basic Render Driver Memory:16254MB Type:Other       Vendor:Unknown  CommonHeaps:true Priority:30 LUID:000000000000f1ee DeviceID:0000f1ee Driver:Unknown
+08:32:19 GAPI: Direct3D 12.0
+08:32:19 
+08:32:19 
+08:32:19 ---- Engine Microprofile ----
+08:32:19 Microprofile initialization (Time: 0.0ms, Memory: 0B)
+08:32:19 
+08:32:19 ---- Application ----
+08:32:19 
+08:32:19 ---- System Proxy ----
+08:32:19 SystemProxy initialization (Time: 0.2ms, Memory: 0B)
+08:32:19 
+08:32:19 ---- VR ----
+08:32:19 VR initialization (Time: 0.2ms, Memory: 656B)
+08:32:19 
+08:32:19 
+08:32:19 ---- Render ----
+08:32:20 Renderer API: Direct3D 12.0
+08:32:20 Maximum texture size: 16384
+08:32:20 Maximum texture units: 16
+08:32:20 DLSS is not supported
+08:32:20 sl.interposer.dll is not found. Copy libraries from Streamline SDK.
+08:32:20 FSR is supported
+08:32:20 FSR Version: 2.2.2
+08:32:20 FSR Max Contexts: 8
+08:32:20 FSR RAM Scratch Size: 10 MB
+08:32:20 Render initialization (Time: 587.0ms, Memory: 43.3MB)
+08:32:20 
+08:32:20 
+08:32:20 ---- VR Subsystems ----
+08:32:20 VR Subsystems initialization (Time: 0.3ms, Memory: 17.5KB)
+08:32:20 
+08:32:20 
+08:32:20 ---- Filesystem begin ----
+08:32:20 App path:  F:/Data Backup Dani/UNIGINE Projects/smallboat/bin/
+08:32:20 Data path: F:/Data Backup Dani/UNIGINE Projects/smallboat/data/
+08:32:20 Save path: F:/Data Backup Dani/UNIGINE Projects/smallboat/bin/
+08:32:22 
+08:32:22 Runtimes loaded: 752 (Time: 74.5ms, Memory: 1.3MB)
+08:32:22 Filesystem initialization (Time: 2.4s, Memory: 5.0MB)
+08:32:22 ---- Filesystem end ----
+08:32:22 
+08:32:23 
+08:32:23 ---- Sound ----
+08:32:23 Loading "openal32.dll"...
+08:32:23 Renderer: OpenAL Soft on SPDIF Interface (Realtek USB2.0 Audio)
+08:32:23 OpenAL vendor: OpenAL Community
+08:32:23 OpenAL renderer: OpenAL Soft
+08:32:23 OpenAL version: 1.1 ALSOFT 1.22.2
+08:32:23 Found AL_EXT_LINEAR_DISTANCE
+08:32:23 Found AL_EXT_OFFSET
+08:32:23 Found ALC_EXT_EFX
+08:32:23 Found ALC_SOFT_HRTF
+08:32:23 Found EFX Filter
+08:32:23 Found EFX Reverb
+08:32:23 Found EAX Reverb
+08:32:23 Found QUAD16 format
+08:32:23 Found 51CHN16 format
+08:32:23 Found 61CHN16 format
+08:32:23 Found 71CHN16 format
+08:32:23 Device enumeration supported
+08:32:23 Maximum sources: 256
+08:32:23 Maximum effect slots: 16
+08:32:23 Maximum auxiliary sends: 2
+08:32:23 Output sampling frequency: 48000hz
+08:32:23 HRTF not enabled!
+08:32:23 
+08:32:23 Sound: openal
+08:32:23 Sound initialization (Time: 361.2ms, Memory: 6.7KB)
+08:32:23 
+08:32:23 ---- Physics ----
+08:32:23 
+08:32:23 ---- PathFind ----
+08:32:23 
+08:32:23 Loading controls "F:/Data Backup Dani/UNIGINE Projects/smallboat/data/configs/default.controls"...
+08:32:23 Loading config "F:/Data Backup Dani/UNIGINE Projects/smallboat/data/configs/default.config"...
+08:32:23 D3D12Particles::createBuffers (Time: 19.5ms, Memory: 13.3MB)
+08:32:23 
+08:32:23 ---- MeshManager begin ----
+08:32:23 
+08:32:23 ---- Properties begin ----
+08:32:23 
+08:32:23 ---- Materials begin----
+08:32:24 Properties loaded: 39/39 (Time: 463.0ms, Memory: 1.5MB)
+08:32:24 ---- Properties end ----
+08:32:24 
+08:32:25 Base materials loaded: 469/469
+08:32:26 Materials loaded: 247/247
+08:32:26 Load Materials (Time: 2.1s, Memory: 12.7MB)
+08:32:26 Preload materials loaded: 1504 (Time: 155.3ms, Memory: 8.3MB)
+08:32:26 Initialization meshes (Time: 2.4s, Memory: 20.3MB)
+08:32:26 Total resources: 286
+08:32:26 ---- MeshManager end ----
+08:32:26 
+08:32:27 Shaders compiled: 2498 (Time: 1.1s, Memory: 23.3MB)
+08:32:27 Total materials loaded: 2220 (Time: 3.4s, Memory: 44.3MB)
+08:32:27 ---- Materials end ----
+08:32:27 
+08:32:27 
+08:32:27 ---- Animations ----
+08:32:27 Total objects: 0
+08:32:27 Total tracks: 0
+08:32:27 Total playbacks: 0
+08:32:27 Load Animations (Time: 0.8ms, Memory: 0B)
+08:32:27 
+08:32:27 Engine initialization (Time: 8.6s, Memory: 275.6MB)
+08:32:27 
+08:32:27 
+08:32:27 ---- Plugins ----
+08:32:27 Plugins path: "F:/Data Backup Dani/UNIGINE Projects/smallboat/bin/plugins"
+08:32:27 Loading "F:/Data Backup Dani/UNIGINE Projects/smallboat/bin/plugins/Unigine/FbxImporter/UnigineFbxImporter_plugin_double_x64.dll"...
+08:32:27 Loading "F:/Data Backup Dani/UNIGINE Projects/smallboat/bin/plugins/Unigine/GLTFImporter/UnigineGLTFImporter_plugin_double_x64.dll"...
+08:32:27 Loading "F:/Data Backup Dani/UNIGINE Projects/smallboat/bin/plugins/Unigine/FbxExporter/UnigineFbxExporter_plugin_double_x64.dll"...
+08:32:27 Loading "F:/Data Backup Dani/UNIGINE Projects/smallboat/bin/plugins/Unigine/UsdExchanger/UnigineUsdExchanger_plugin_double_x64.dll"...
+08:32:28 EnginePlugins: "UnigineFbxImporter" plugin is initialized
+08:32:28 EnginePlugins: "UnigineGLTFImporter" plugin is initialized
+08:32:28 EnginePlugins: "UnigineFbxExporter" plugin is initialized
+08:32:28 EnginePlugins: "UnigineUsdExchanger" plugin is initialized
+08:32:28 Plugins initialization (Time: 456.2ms, Memory: 8.6KB)
+08:32:28 
+08:32:29 Script loading "editor2/editor.usc" 187ms
+08:32:29 ---- UnigineEditor ----
+08:32:29 Version: 2.19.0.3 ver-2.19.1-bfe51def Jan 30 2025 (2.19.1 SDK)
+08:32:29 Binary: Windows MSVC 19.40.33811.0 
+08:32:29 
+08:32:29 
+08:32:29 ---- UnigineEditor Material Editor ----
+08:32:29 UnigineEditor Material Editor initialization: 31ms
+08:32:29 
+08:32:29 
+08:32:29 ---- UnigineEditor Asset Manager ----
+08:32:29 Run migration from 2.8.0.0 version
+08:32:30 Run migration 2.8.0.0
+08:32:30 Run migration 2.9.0.0
+08:32:30 Run migration 2.10.0.0
+08:32:30 Run migration 2.11.0.0
+08:32:30 Run migration 2.12.0.0
+08:32:30 Run migration 2.12.0.1
+08:32:30 Run migration 2.12.0.2
+08:32:30 Run migration 2.13.0.0
+08:32:31 Run migration 2.14.0.0
+08:32:31 Run migration 2.14.1.0
+08:32:31 Run migration 2.15.0.0
+08:32:32 Run migration 2.15.0.1
+08:32:32 Run migration 2.16.1.0
+08:32:32 Run migration 2.17.0.0
+08:32:32 Run migration 2.17.0.1
+08:32:32 Run migration 2.18.0.0
+08:32:32 Run migration 2.18.0.1
+08:32:33 Run migration 2.19.0.0
+08:32:33 Run migration 2.19.0.1
+08:32:33 Run migration 2.19.0.2
+08:32:33 Run migration 2.19.0.3
+08:32:33 ERROR:	"ImportPropertyStage: Property import error. (filepath: F:/Data Backup Dani/UNIGINE Projects/smallboat/data/TorpedoAdvancedLauncherWithReload.prop)"
+08:32:36 UnigineEditor Asset Manager initialization: Assets 1108 (Time: 7.6s, Size: 898.5MB)
+08:32:36 
+08:32:36 
+08:32:36 ---- UnigineEditor Auxiliary Systems ----
+08:32:39 [C# Component System] Available .NET SDKs: 6.0.417, 8.0.100
+08:32:39 [C# Component System] Required .NET SDK8.0 found.
+08:32:39 "[C# Component System] Initialized successfully."
+08:32:39 UnigineEditor Auxiliary Systems initialization: 2273ms
+08:32:39 
+08:32:39 
+08:32:39 ---- UnigineEditor GUI Components ----
+08:32:40 [Build Tool] Project file is found ( "F:/Data Backup Dani/UNIGINE Projects/smallboat/smallboat.project" ).
+08:32:40 [Build Tool] The SDK path ( "C:/Users/2D_5/AppData/Local/unigine/browser/sdks/community_windows_2.19.1.2_bin/bin/" ) doesn't exist.
+08:32:40 [Build Tool] The SDK path ( "C:/Users/2D_5/AppData/Local/unigine/browser/sdks/community_windows_2.19.1.2_bin/bin/" ) doesn't exist.
+08:32:40 UnigineEditor GUI Components initialization: 978ms
+08:32:40 
+08:32:40 
+08:32:40 ---- UnigineEditor Plugins ----
+08:32:40 Editor.PluginSystem: Plugin search paths:  F:/Data Backup Dani/UNIGINE Projects/smallboat/bin/plugins/
+08:32:40 Editor.PluginSystem: Plugin search template:  CompanyNamePluginName_editorplugin_double_x64.dll
+08:32:40 UnigineEditor Plugins initialization: 10ms
+08:32:40 
+08:32:40 ---- Interpreter ----
+08:32:40 Version: 2.90
+08:32:40 
+08:32:40 Unigine~# config_autosave 1 && world_load "smallboat"
+08:32:40 Script loading "core/unigine.usc" 70ms
+08:32:40 WARNING:	ObjectMeshStatic(Name:"TagBoath", ID:643581829, IDFromFile:643581829, File:"smallboat.world", Hierarchy:"TagBoath")
+08:32:40 WARNING:	Node::setProperty(): can't find guid "f29a719d37a98eeb4eaadca88647f5a41d9e6af2" property for "TagBoath" node (643581829)
+08:32:40 WARNING:	ObjectMeshStatic(Name:"K_Canberra", ID:1375247768, IDFromFile:1375247768, File:"smallboat.world", Hierarchy:"K_Canberra")
+08:32:40 WARNING:	Node::setProperty(): can't find guid "f29a719d37a98eeb4eaadca88647f5a41d9e6af2" property for "K_Canberra" node (1375247768)
+08:32:40 WARNING:	ObjectMeshStatic(Name:"barrel2", ID:1086980856, IDFromFile:1086980856, File:"smallboat.world", Hierarchy:"barrel2")
+08:32:40 WARNING:	Object::setMaterialGUID(): can't find guid "5d32f217bedecb6a3a50c36e6f181546f38d2528" material for "barrel2" object (1086980856)
+08:32:40 WARNING:	ObjectMeshDynamic(Name:"missile", ID:1393828676, IDFromFile:1393828676, File:"smallboat.world", Hierarchy:"missile")
+08:32:40 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile" node (1393828676)
+08:32:40 WARNING:	ObjectMeshStatic(Name:"missile1", ID:1147512458, IDFromFile:1147512458, File:"smallboat.world", Hierarchy:"missile1")
+08:32:40 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile1" node (1147512458)
+08:32:40 WARNING:	ObjectMeshStatic(Name:"missile2", ID:22780284, IDFromFile:22780284, File:"smallboat.world", Hierarchy:"missile2")
+08:32:40 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile2" node (22780284)
+08:32:40 WARNING:	ObjectMeshStatic(Name:"missile3", ID:23096936, IDFromFile:23096936, File:"smallboat.world", Hierarchy:"missile3")
+08:32:40 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile3" node (23096936)
+08:32:40 WARNING:	ObjectMeshStatic(Name:"missile4", ID:1694313620, IDFromFile:1694313620, File:"smallboat.world", Hierarchy:"missile4")
+08:32:40 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile4" node (1694313620)
+08:32:40 WARNING:	ObjectMeshStatic(Name:"missile5", ID:1888468992, IDFromFile:1888468992, File:"smallboat.world", Hierarchy:"missile5")
+08:32:40 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile5" node (1888468992)
+08:32:40 WARNING:	ObjectMeshStatic(Name:"missile6", ID:1640977580, IDFromFile:1640977580, File:"smallboat.world", Hierarchy:"missile6")
+08:32:40 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile6" node (1640977580)
+08:32:40 WARNING:	ObjectMeshStatic(Name:"missile7", ID:381179544, IDFromFile:381179544, File:"smallboat.world", Hierarchy:"missile7")
+08:32:40 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile7" node (381179544)
+08:32:40 WARNING:	ObjectMeshStatic(Name:"missile8", ID:2109239748, IDFromFile:2109239748, File:"smallboat.world", Hierarchy:"missile8")
+08:32:40 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile8" node (2109239748)
+08:32:40 WARNING:	ObjectMeshStatic(Name:"NB412S_1", ID:331047240, IDFromFile:331047240, File:"smallboat.world", Hierarchy:"NB412S_1")
+08:32:40 WARNING:	Node::setProperty(): can't find guid "6dd818e554fc77ddf651871c449511e33432ccae" property for "NB412S_1" node (331047240)
+08:32:40 WARNING:	ObjectMeshStatic(Name:"MK46", ID:323967873, IDFromFile:323967873, File:"smallboat.world", Hierarchy:"MK46")
+08:32:40 WARNING:	Node::setProperty(): can't find guid "f441cb609a7fc07426a453069e84559475069369" property for "MK46" node (323967873)
+08:32:40 WARNING:	ObjectMeshStatic(Name:"MK46_1", ID:483408651, IDFromFile:483408651, File:"smallboat.world", Hierarchy:"MK46_1")
+08:32:40 WARNING:	Node::setProperty(): can't find guid "f441cb609a7fc07426a453069e84559475069369" property for "MK46_1" node (483408651)
+08:32:40 WARNING:	ObjectMeshStatic(Name:"MK46_2", ID:1086422349, IDFromFile:1086422349, File:"smallboat.world", Hierarchy:"MK46_2")
+08:32:40 WARNING:	Node::setProperty(): can't find guid "f441cb609a7fc07426a453069e84559475069369" property for "MK46_2" node (1086422349)
+08:32:40 WARNING:	ObjectMeshStatic(Name:"MK46_3", ID:203678111, IDFromFile:203678111, File:"smallboat.world", Hierarchy:"MK46_3")
+08:32:40 WARNING:	Node::setProperty(): can't find guid "f441cb609a7fc07426a453069e84559475069369" property for "MK46_3" node (203678111)
+08:32:40 WARNING:	ObjectMeshStatic(Name:"MK46_4", ID:1513683073, IDFromFile:1513683073, File:"smallboat.world", Hierarchy:"MK46_4")
+08:32:40 WARNING:	Node::setProperty(): can't find guid "f441cb609a7fc07426a453069e84559475069369" property for "MK46_4" node (1513683073)
+08:32:40 WARNING:	ObjectMeshStatic(Name:"MK46_5", ID:1645401715, IDFromFile:1645401715, File:"smallboat.world", Hierarchy:"MK46_5")
+08:32:40 WARNING:	Node::setProperty(): can't find guid "f441cb609a7fc07426a453069e84559475069369" property for "MK46_5" node (1645401715)
+08:32:40 WARNING:	ObjectParticles(Name:"ObjectParticles_1", ID:1645366044, IDFromFile:1645366044, File:"smallboat.world", Hierarchy:"ObjectParticles_1")
+08:32:40 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_1" object (1645366044)
+08:32:40 WARNING:	ObjectParticles(Name:"ObjectParticles_2", ID:176279214, IDFromFile:176279214, File:"smallboat.world", Hierarchy:"ObjectParticles_2")
+08:32:40 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_2" object (176279214)
+08:32:40 WARNING:	ObjectParticles(Name:"ObjectParticles_1", ID:1807484400, IDFromFile:1807484400, File:"smallboat.world", Hierarchy:"ObjectParticles_1")
+08:32:40 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_1" object (1807484400)
+08:32:40 WARNING:	ObjectParticles(Name:"ObjectParticles_2", ID:1427264674, IDFromFile:1427264674, File:"smallboat.world", Hierarchy:"ObjectParticles_2")
+08:32:40 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_2" object (1427264674)
+08:32:40 WARNING:	ObjectParticles(Name:"ObjectParticles_1", ID:1807536497, IDFromFile:1807536497, File:"smallboat.world", Hierarchy:"ObjectParticles_1")
+08:32:40 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_1" object (1807536497)
+08:32:40 WARNING:	ObjectParticles(Name:"ObjectParticles_2", ID:972228811, IDFromFile:972228811, File:"smallboat.world", Hierarchy:"ObjectParticles_2")
+08:32:40 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_2" object (972228811)
+08:32:40 WARNING:	ObjectParticles(Name:"ObjectParticles_1", ID:1834399846, IDFromFile:1834399846, File:"smallboat.world", Hierarchy:"ObjectParticles_1")
+08:32:40 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_1" object (1834399846)
+08:32:40 WARNING:	ObjectParticles(Name:"ObjectParticles_2", ID:539266184, IDFromFile:539266184, File:"smallboat.world", Hierarchy:"ObjectParticles_2")
+08:32:40 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_2" object (539266184)
+08:32:40 WARNING:	ObjectParticles(Name:"ObjectParticles_1", ID:238786000, IDFromFile:238786000, File:"smallboat.world", Hierarchy:"ObjectParticles_1")
+08:32:40 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_1" object (238786000)
+08:32:40 WARNING:	ObjectParticles(Name:"ObjectParticles_2", ID:201117570, IDFromFile:201117570, File:"smallboat.world", Hierarchy:"ObjectParticles_2")
+08:32:40 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_2" object (201117570)
+08:32:40 WARNING:	ObjectParticles(Name:"ObjectParticles_1", ID:500429685, IDFromFile:500429685, File:"smallboat.world", Hierarchy:"ObjectParticles_1")
+08:32:40 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_1" object (500429685)
+08:32:40 WARNING:	ObjectParticles(Name:"ObjectParticles_2", ID:1750199663, IDFromFile:1750199663, File:"smallboat.world", Hierarchy:"ObjectParticles_2")
+08:32:40 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_2" object (1750199663)
+08:32:40 World loading "smallboat.world" (Time: 249.0ms, Memory: 39.5MB)
+08:32:41 Run migration from 2.8.0.0 version
+08:32:41 Run migration 2.8.0.0
+08:32:41 UnigineEditor initialization: 23056ms
+08:32:41 
+08:32:41 Run migration 2.9.0.0
+08:32:41 Run migration 2.10.0.0
+08:32:41 Run migration 2.11.0.0
+08:32:42 Run migration 2.12.0.0
+08:32:42 Run migration 2.12.0.1
+08:32:42 Run migration 2.12.0.2
+08:32:42 Run migration 2.13.0.0
+08:32:42 Run migration 2.14.0.0
+08:32:42 Run migration 2.14.1.0
+08:32:42 Run migration 2.15.0.0
+08:32:42 Run migration 2.15.0.1
+08:32:43 Run migration 2.15.1.0
+08:32:43 Run migration 2.16.0.0
+08:32:43 Run migration 2.16.0.1
+08:32:43 Run migration 2.16.0.2
+08:32:43 Run migration 2.16.1.0
+08:32:43 Run migration 2.17.0.0
+08:32:43 Run migration 2.17.0.1
+08:32:43 Run migration 2.18.0.0
+08:32:43 Run migration 2.18.0.1
+08:32:43 Run migration 2.19.0.0
+08:32:44 Run migration 2.19.0.1
+08:32:44 Run migration 2.19.0.2
+08:32:44 Run migration 2.19.0.3

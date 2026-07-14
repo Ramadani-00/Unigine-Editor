@@ -1,0 +1,509 @@
+08:33:52 Third-Party Notices: https://developer.unigine.com/docs/2.19/third_party
+08:33:52 
+08:33:52 
+08:33:52 ---- Configs ----
+08:33:52 Loading boot config "F:/Data Backup Dani/UNIGINE Projects/smallboat/data/configs/editor.boot"...
+08:33:52 Loading user config "F:/Data Backup Dani/UNIGINE Projects/smallboat/data/configs/default.user"...
+08:33:52 Using config file "configs/default.config"
+08:33:52 Using boot config file "configs/editor.boot"
+08:33:52 Using user config file "configs/default.user"
+08:33:52 Using controls config file "configs/default.controls"
+08:33:52 Loading "dxgi.dll"...
+08:33:53 
+08:33:53 ---- Engine ----
+08:33:53 Version: 2.19.0.3 Development Double ver-2.19.1-c8c5226 Jan 30 2025 (2.19.1 SDK)
+08:33:53 Binary: Windows x86_64 Release WinSDK(10.0.10011.16384) Compiler(MSVC:1940 Toolchain:Unknown Toolset:Unknown VisualStudio:Unknown)
+08:33:53 Features: Direct3D11.1 Direct3D12.0 Vulkan OpenAL VR OpenVR OpenXR Varjo Microprofile DoubleCoords HalfTexCoords Development
+08:33:53 
+08:33:53 ---- OS ----
+08:33:53 Windows 11 (build 26200)
+08:33:53 
+08:33:53 ---- CPU ----
+08:33:53 13th Gen Intel(R) Core(TM) i7-13700
+08:33:53 Extensions:  MMX SSE SSE2 SSE3 SSSE3 SSE41 SSE42 AVX AVX2 HTT
+08:33:53 Frequency: 2111MHz
+08:33:53 Cores: 16 Threads : 24
+08:33:53 RAM: 31.7GB
+08:33:53 
+08:33:53 ---- GPU ----
+08:33:53 GPU 0 Active : NVIDIA GeForce RTX 3080 Ti    Memory:12084MB Type:Discrete    Vendor:NVidia   CommonHeaps:true Priority:32 LUID:000000000000d775 DeviceID:00002208 Driver:591.86
+08:33:53 GPU 1        : Intel(R) UHD Graphics 770     Memory:16254MB Type:Integrated  Vendor:Intel    CommonHeaps:true Priority:31 LUID:000000000000efea DeviceID:0000a780 Driver:101.7082
+08:33:53 GPU 2        : Intel(R) UHD Graphics 770     Memory:16254MB Type:Integrated  Vendor:Intel    CommonHeaps:true Priority:29 LUID:000000000001bec3 DeviceID:0000a780 Driver:101.7082
+08:33:53 GPU 3        : Microsoft Basic Render Driver Memory:16254MB Type:Other       Vendor:Unknown  CommonHeaps:true Priority:30 LUID:000000000000f305 DeviceID:0000f305 Driver:Unknown
+08:33:53 GAPI: Direct3D 12.0
+08:33:53 
+08:33:53 
+08:33:53 ---- Engine Microprofile ----
+08:33:53 Microprofile initialization (Time: 0.0ms, Memory: 0B)
+08:33:53 
+08:33:53 ---- Application ----
+08:33:53 
+08:33:53 ---- System Proxy ----
+08:33:53 SystemProxy initialization (Time: 0.2ms, Memory: 0B)
+08:33:53 
+08:33:53 ---- VR ----
+08:33:53 VR initialization (Time: 0.2ms, Memory: 656B)
+08:33:53 
+08:33:53 
+08:33:53 ---- Render ----
+08:33:53 Renderer API: Direct3D 12.0
+08:33:53 Maximum texture size: 16384
+08:33:53 Maximum texture units: 16
+08:33:53 DLSS is not supported
+08:33:53 sl.interposer.dll is not found. Copy libraries from Streamline SDK.
+08:33:53 FSR is supported
+08:33:53 FSR Version: 2.2.2
+08:33:53 FSR Max Contexts: 8
+08:33:53 FSR RAM Scratch Size: 10 MB
+08:33:53 Render initialization (Time: 648.0ms, Memory: 43.3MB)
+08:33:53 
+08:33:53 
+08:33:53 ---- VR Subsystems ----
+08:33:53 VR Subsystems initialization (Time: 9.7ms, Memory: 17.5KB)
+08:33:53 
+08:33:53 
+08:33:53 ---- Filesystem begin ----
+08:33:53 App path:  F:/Data Backup Dani/UNIGINE Projects/smallboat/bin/
+08:33:53 Data path: F:/Data Backup Dani/UNIGINE Projects/smallboat/data/
+08:33:53 Save path: F:/Data Backup Dani/UNIGINE Projects/smallboat/bin/
+08:33:56 
+08:33:56 Runtimes loaded: 752 (Time: 147.2ms, Memory: 1.3MB)
+08:33:56 Filesystem initialization (Time: 2.6s, Memory: 5.0MB)
+08:33:56 ---- Filesystem end ----
+08:33:56 
+08:33:56 
+08:33:56 ---- Sound ----
+08:33:56 Loading "openal32.dll"...
+08:33:56 Renderer: OpenAL Soft on SPDIF Interface (Realtek USB2.0 Audio)
+08:33:56 OpenAL vendor: OpenAL Community
+08:33:56 OpenAL renderer: OpenAL Soft
+08:33:56 OpenAL version: 1.1 ALSOFT 1.22.2
+08:33:56 Found AL_EXT_LINEAR_DISTANCE
+08:33:56 Found AL_EXT_OFFSET
+08:33:56 Found ALC_EXT_EFX
+08:33:56 Found ALC_SOFT_HRTF
+08:33:56 Found EFX Filter
+08:33:56 Found EFX Reverb
+08:33:56 Found EAX Reverb
+08:33:56 Found QUAD16 format
+08:33:56 Found 51CHN16 format
+08:33:56 Found 61CHN16 format
+08:33:56 Found 71CHN16 format
+08:33:56 Device enumeration supported
+08:33:56 Maximum sources: 256
+08:33:56 Maximum effect slots: 16
+08:33:56 Maximum auxiliary sends: 2
+08:33:56 Output sampling frequency: 48000hz
+08:33:56 HRTF not enabled!
+08:33:56 
+08:33:56 Sound: openal
+08:33:56 Sound initialization (Time: 128.2ms, Memory: 6.7KB)
+08:33:56 
+08:33:56 ---- Physics ----
+08:33:56 
+08:33:56 ---- PathFind ----
+08:33:56 
+08:33:56 Loading controls "F:/Data Backup Dani/UNIGINE Projects/smallboat/data/configs/default.controls"...
+08:33:56 Loading config "F:/Data Backup Dani/UNIGINE Projects/smallboat/data/configs/default.config"...
+08:33:57 D3D12Particles::createBuffers (Time: 15.9ms, Memory: 13.3MB)
+08:33:57 
+08:33:57 ---- MeshManager begin ----
+08:33:57 
+08:33:57 ---- Properties begin ----
+08:33:57 
+08:33:57 ---- Materials begin----
+08:33:57 Properties loaded: 39/39 (Time: 241.0ms, Memory: 1000.7KB)
+08:33:57 ---- Properties end ----
+08:33:57 
+08:33:59 Base materials loaded: 469/469
+08:33:59 Materials loaded: 247/247
+08:33:59 Load Materials (Time: 2.1s, Memory: 12.6MB)
+08:33:59 Initialization meshes (Time: 2.2s, Memory: 16.0MB)
+08:33:59 Total resources: 286
+08:33:59 ---- MeshManager end ----
+08:33:59 
+08:33:59 Preload materials loaded: 1504 (Time: 157.2ms, Memory: 7.1MB)
+08:34:00 Shaders compiled: 2498 (Time: 1.2s, Memory: 24.5MB)
+08:34:00 Total materials loaded: 2220 (Time: 3.5s, Memory: 44.2MB)
+08:34:00 ---- Materials end ----
+08:34:00 
+08:34:00 
+08:34:00 ---- Animations ----
+08:34:00 Total objects: 0
+08:34:00 Total tracks: 0
+08:34:00 Total playbacks: 0
+08:34:00 Load Animations (Time: 0.8ms, Memory: 0B)
+08:34:01 
+08:34:01 Engine initialization (Time: 9.1s, Memory: 275.6MB)
+08:34:01 
+08:34:01 
+08:34:01 ---- Plugins ----
+08:34:01 Plugins path: "F:/Data Backup Dani/UNIGINE Projects/smallboat/bin/plugins"
+08:34:01 Loading "F:/Data Backup Dani/UNIGINE Projects/smallboat/bin/plugins/Unigine/FbxImporter/UnigineFbxImporter_plugin_double_x64.dll"...
+08:34:01 Loading "F:/Data Backup Dani/UNIGINE Projects/smallboat/bin/plugins/Unigine/GLTFImporter/UnigineGLTFImporter_plugin_double_x64.dll"...
+08:34:01 Loading "F:/Data Backup Dani/UNIGINE Projects/smallboat/bin/plugins/Unigine/FbxExporter/UnigineFbxExporter_plugin_double_x64.dll"...
+08:34:01 Loading "F:/Data Backup Dani/UNIGINE Projects/smallboat/bin/plugins/Unigine/UsdExchanger/UnigineUsdExchanger_plugin_double_x64.dll"...
+08:34:01 EnginePlugins: "UnigineFbxImporter" plugin is initialized
+08:34:01 EnginePlugins: "UnigineGLTFImporter" plugin is initialized
+08:34:01 EnginePlugins: "UnigineFbxExporter" plugin is initialized
+08:34:01 EnginePlugins: "UnigineUsdExchanger" plugin is initialized
+08:34:01 Plugins initialization (Time: 405.8ms, Memory: 8.6KB)
+08:34:01 
+08:34:02 Script loading "editor2/editor.usc" 250ms
+08:34:02 ---- UnigineEditor ----
+08:34:02 Version: 2.19.0.3 ver-2.19.1-bfe51def Jan 30 2025 (2.19.1 SDK)
+08:34:02 Binary: Windows MSVC 19.40.33811.0 
+08:34:02 
+08:34:02 
+08:34:02 ---- UnigineEditor Material Editor ----
+08:34:02 UnigineEditor Material Editor initialization: 15ms
+08:34:02 
+08:34:02 
+08:34:02 ---- UnigineEditor Asset Manager ----
+08:34:03 Run migration from 2.8.0.0 version
+08:34:03 Run migration 2.8.0.0
+08:34:03 Run migration 2.9.0.0
+08:34:03 Run migration 2.10.0.0
+08:34:03 Run migration 2.11.0.0
+08:34:03 Run migration 2.12.0.0
+08:34:04 Run migration 2.12.0.1
+08:34:04 Run migration 2.12.0.2
+08:34:04 Run migration 2.13.0.0
+08:34:04 Run migration 2.14.0.0
+08:34:04 Run migration 2.14.1.0
+08:34:04 Run migration 2.15.0.0
+08:34:04 Run migration 2.15.0.1
+08:34:04 Run migration 2.15.1.0
+08:34:04 Run migration 2.16.0.0
+08:34:05 Run migration 2.16.0.1
+08:34:05 Run migration 2.16.0.2
+08:34:05 Run migration 2.16.1.0
+08:34:05 Run migration 2.17.0.0
+08:34:05 Run migration 2.17.0.1
+08:34:05 Run migration 2.18.0.0
+08:34:05 Run migration 2.18.0.1
+08:34:05 Run migration 2.19.0.0
+08:34:06 Run migration 2.19.0.1
+08:34:06 Run migration 2.19.0.2
+08:34:06 Run migration 2.19.0.3
+08:34:06 ERROR:	"ImportPropertyStage: Property import error. (filepath: F:/Data Backup Dani/UNIGINE Projects/smallboat/data/TorpedoAdvancedLauncherWithReload.prop)"
+08:34:09 UnigineEditor Asset Manager initialization: Assets 1108 (Time: 6.4s, Size: 898.5MB)
+08:34:09 
+08:34:09 
+08:34:09 ---- UnigineEditor Auxiliary Systems ----
+08:34:12 [C# Component System] Available .NET SDKs: 6.0.417, 8.0.100
+08:34:12 [C# Component System] Required .NET SDK8.0 found.
+08:34:12 "[C# Component System] Initialized successfully."
+08:34:12 UnigineEditor Auxiliary Systems initialization: 2910ms
+08:34:12 
+08:34:12 
+08:34:12 ---- UnigineEditor GUI Components ----
+08:34:12 [Build Tool] Project file is found ( "F:/Data Backup Dani/UNIGINE Projects/smallboat/smallboat.project" ).
+08:34:12 [Build Tool] The SDK path ( "C:/Users/2D_5/AppData/Local/unigine/browser/sdks/community_windows_2.19.1.2_bin/bin/" ) doesn't exist.
+08:34:13 [Build Tool] The SDK path ( "C:/Users/2D_5/AppData/Local/unigine/browser/sdks/community_windows_2.19.1.2_bin/bin/" ) doesn't exist.
+08:34:13 UnigineEditor GUI Components initialization: 896ms
+08:34:13 
+08:34:13 
+08:34:13 ---- UnigineEditor Plugins ----
+08:34:13 Editor.PluginSystem: Plugin search paths:  F:/Data Backup Dani/UNIGINE Projects/smallboat/bin/plugins/
+08:34:13 Editor.PluginSystem: Plugin search template:  CompanyNamePluginName_editorplugin_double_x64.dll
+08:34:13 UnigineEditor Plugins initialization: 14ms
+08:34:13 
+08:34:13 ---- Interpreter ----
+08:34:13 Version: 2.90
+08:34:13 
+08:34:13 Unigine~# config_autosave 1 && world_load "smallboat"
+08:34:13 Script loading "core/unigine.usc" 52ms
+08:34:13 WARNING:	ObjectMeshStatic(Name:"TagBoath", ID:643581829, IDFromFile:643581829, File:"smallboat.world", Hierarchy:"TagBoath")
+08:34:13 WARNING:	Node::setProperty(): can't find guid "f29a719d37a98eeb4eaadca88647f5a41d9e6af2" property for "TagBoath" node (643581829)
+08:34:13 WARNING:	ObjectMeshStatic(Name:"K_Canberra", ID:1375247768, IDFromFile:1375247768, File:"smallboat.world", Hierarchy:"K_Canberra")
+08:34:13 WARNING:	Node::setProperty(): can't find guid "f29a719d37a98eeb4eaadca88647f5a41d9e6af2" property for "K_Canberra" node (1375247768)
+08:34:13 WARNING:	ObjectMeshStatic(Name:"barrel2", ID:1086980856, IDFromFile:1086980856, File:"smallboat.world", Hierarchy:"barrel2")
+08:34:13 WARNING:	Object::setMaterialGUID(): can't find guid "5d32f217bedecb6a3a50c36e6f181546f38d2528" material for "barrel2" object (1086980856)
+08:34:13 WARNING:	ObjectMeshDynamic(Name:"missile", ID:1393828676, IDFromFile:1393828676, File:"smallboat.world", Hierarchy:"missile")
+08:34:13 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile" node (1393828676)
+08:34:13 WARNING:	ObjectMeshStatic(Name:"missile1", ID:1147512458, IDFromFile:1147512458, File:"smallboat.world", Hierarchy:"missile1")
+08:34:13 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile1" node (1147512458)
+08:34:13 WARNING:	ObjectMeshStatic(Name:"missile2", ID:22780284, IDFromFile:22780284, File:"smallboat.world", Hierarchy:"missile2")
+08:34:13 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile2" node (22780284)
+08:34:13 WARNING:	ObjectMeshStatic(Name:"missile3", ID:23096936, IDFromFile:23096936, File:"smallboat.world", Hierarchy:"missile3")
+08:34:13 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile3" node (23096936)
+08:34:13 WARNING:	ObjectMeshStatic(Name:"missile4", ID:1694313620, IDFromFile:1694313620, File:"smallboat.world", Hierarchy:"missile4")
+08:34:13 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile4" node (1694313620)
+08:34:13 WARNING:	ObjectMeshStatic(Name:"missile5", ID:1888468992, IDFromFile:1888468992, File:"smallboat.world", Hierarchy:"missile5")
+08:34:13 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile5" node (1888468992)
+08:34:13 WARNING:	ObjectMeshStatic(Name:"missile6", ID:1640977580, IDFromFile:1640977580, File:"smallboat.world", Hierarchy:"missile6")
+08:34:13 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile6" node (1640977580)
+08:34:13 WARNING:	ObjectMeshStatic(Name:"missile7", ID:381179544, IDFromFile:381179544, File:"smallboat.world", Hierarchy:"missile7")
+08:34:13 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile7" node (381179544)
+08:34:13 WARNING:	ObjectMeshStatic(Name:"missile8", ID:2109239748, IDFromFile:2109239748, File:"smallboat.world", Hierarchy:"missile8")
+08:34:13 WARNING:	Node::setProperty(): can't find guid "a0413c781d497e824f06bf8cc2c32163ca8c3376" property for "missile8" node (2109239748)
+08:34:13 WARNING:	ObjectMeshStatic(Name:"NB412S_1", ID:331047240, IDFromFile:331047240, File:"smallboat.world", Hierarchy:"NB412S_1")
+08:34:13 WARNING:	Node::setProperty(): can't find guid "6dd818e554fc77ddf651871c449511e33432ccae" property for "NB412S_1" node (331047240)
+08:34:13 WARNING:	ObjectMeshStatic(Name:"MK46", ID:323967873, IDFromFile:323967873, File:"smallboat.world", Hierarchy:"MK46")
+08:34:13 WARNING:	Node::setProperty(): can't find guid "f441cb609a7fc07426a453069e84559475069369" property for "MK46" node (323967873)
+08:34:13 WARNING:	ObjectMeshStatic(Name:"MK46_1", ID:483408651, IDFromFile:483408651, File:"smallboat.world", Hierarchy:"MK46_1")
+08:34:13 WARNING:	Node::setProperty(): can't find guid "f441cb609a7fc07426a453069e84559475069369" property for "MK46_1" node (483408651)
+08:34:13 WARNING:	ObjectMeshStatic(Name:"MK46_2", ID:1086422349, IDFromFile:1086422349, File:"smallboat.world", Hierarchy:"MK46_2")
+08:34:13 WARNING:	Node::setProperty(): can't find guid "f441cb609a7fc07426a453069e84559475069369" property for "MK46_2" node (1086422349)
+08:34:13 WARNING:	ObjectMeshStatic(Name:"MK46_3", ID:203678111, IDFromFile:203678111, File:"smallboat.world", Hierarchy:"MK46_3")
+08:34:13 WARNING:	Node::setProperty(): can't find guid "f441cb609a7fc07426a453069e84559475069369" property for "MK46_3" node (203678111)
+08:34:13 WARNING:	ObjectMeshStatic(Name:"MK46_4", ID:1513683073, IDFromFile:1513683073, File:"smallboat.world", Hierarchy:"MK46_4")
+08:34:13 WARNING:	Node::setProperty(): can't find guid "f441cb609a7fc07426a453069e84559475069369" property for "MK46_4" node (1513683073)
+08:34:13 WARNING:	ObjectMeshStatic(Name:"MK46_5", ID:1645401715, IDFromFile:1645401715, File:"smallboat.world", Hierarchy:"MK46_5")
+08:34:13 WARNING:	Node::setProperty(): can't find guid "f441cb609a7fc07426a453069e84559475069369" property for "MK46_5" node (1645401715)
+08:34:13 WARNING:	ObjectParticles(Name:"ObjectParticles_1", ID:1645366044, IDFromFile:1645366044, File:"smallboat.world", Hierarchy:"ObjectParticles_1")
+08:34:13 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_1" object (1645366044)
+08:34:13 WARNING:	ObjectParticles(Name:"ObjectParticles_2", ID:176279214, IDFromFile:176279214, File:"smallboat.world", Hierarchy:"ObjectParticles_2")
+08:34:13 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_2" object (176279214)
+08:34:13 WARNING:	ObjectParticles(Name:"ObjectParticles_1", ID:1807484400, IDFromFile:1807484400, File:"smallboat.world", Hierarchy:"ObjectParticles_1")
+08:34:13 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_1" object (1807484400)
+08:34:13 WARNING:	ObjectParticles(Name:"ObjectParticles_2", ID:1427264674, IDFromFile:1427264674, File:"smallboat.world", Hierarchy:"ObjectParticles_2")
+08:34:13 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_2" object (1427264674)
+08:34:13 WARNING:	ObjectParticles(Name:"ObjectParticles_1", ID:1807536497, IDFromFile:1807536497, File:"smallboat.world", Hierarchy:"ObjectParticles_1")
+08:34:13 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_1" object (1807536497)
+08:34:13 WARNING:	ObjectParticles(Name:"ObjectParticles_2", ID:972228811, IDFromFile:972228811, File:"smallboat.world", Hierarchy:"ObjectParticles_2")
+08:34:13 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_2" object (972228811)
+08:34:13 WARNING:	ObjectParticles(Name:"ObjectParticles_1", ID:1834399846, IDFromFile:1834399846, File:"smallboat.world", Hierarchy:"ObjectParticles_1")
+08:34:13 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_1" object (1834399846)
+08:34:13 WARNING:	ObjectParticles(Name:"ObjectParticles_2", ID:539266184, IDFromFile:539266184, File:"smallboat.world", Hierarchy:"ObjectParticles_2")
+08:34:13 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_2" object (539266184)
+08:34:13 WARNING:	ObjectParticles(Name:"ObjectParticles_1", ID:238786000, IDFromFile:238786000, File:"smallboat.world", Hierarchy:"ObjectParticles_1")
+08:34:13 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_1" object (238786000)
+08:34:13 WARNING:	ObjectParticles(Name:"ObjectParticles_2", ID:201117570, IDFromFile:201117570, File:"smallboat.world", Hierarchy:"ObjectParticles_2")
+08:34:13 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_2" object (201117570)
+08:34:13 WARNING:	ObjectParticles(Name:"ObjectParticles_1", ID:500429685, IDFromFile:500429685, File:"smallboat.world", Hierarchy:"ObjectParticles_1")
+08:34:13 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_1" object (500429685)
+08:34:13 WARNING:	ObjectParticles(Name:"ObjectParticles_2", ID:1750199663, IDFromFile:1750199663, File:"smallboat.world", Hierarchy:"ObjectParticles_2")
+08:34:13 WARNING:	Object::setMaterialGUID(): can't find guid "68f0d983feff40f81ba0ff54c94136c2c3fec928" material for "ObjectParticles_2" object (1750199663)
+08:34:13 World loading "smallboat.world" (Time: 541.0ms, Memory: 39.5MB)
+08:34:14 Run migration from 2.8.0.0 version
+08:34:15 UnigineEditor initialization: 23404ms
+08:34:15 
+08:34:15 Run migration 2.8.0.0
+08:34:15 Run migration 2.9.0.0
+08:34:15 Run migration 2.10.0.0
+08:34:15 Run migration 2.11.0.0
+08:34:15 Run migration 2.12.0.0
+08:34:15 Run migration 2.12.0.1
+08:34:15 Run migration 2.12.0.2
+08:34:16 Run migration 2.13.0.0
+08:34:16 Run migration 2.14.0.0
+08:34:16 Run migration 2.14.1.0
+08:34:16 Run migration 2.15.0.0
+08:34:16 Run migration 2.15.0.1
+08:34:16 Run migration 2.15.1.0
+08:34:16 Run migration 2.16.0.0
+08:34:16 Run migration 2.16.0.1
+08:34:16 Run migration 2.16.0.2
+08:34:16 Run migration 2.16.1.0
+08:34:17 Run migration 2.17.0.0
+08:34:17 Run migration 2.17.0.1
+08:34:17 Run migration 2.18.0.0
+08:34:17 Run migration 2.18.0.1
+08:34:17 Run migration 2.19.0.0
+08:34:17 Run migration 2.19.0.1
+08:34:17 Run migration 2.19.0.2
+08:34:17 Run migration 2.19.0.3
+11:07:45 Running ' dotnet build -c Debug F:/Data Backup Dani/UNIGINE Projects/smallboat/smallboat.csproj ' command
+11:07:45 MSBuild version 17.8.3+195e7f5a3 for .NET
+11:07:45 Determining projects to restore...
+11:07:45 All projects are up-to-date for restore.
+11:07:47 WARNING:	F:\Data Backup Dani\UNIGINE Projects\smallboat\data\Componets\buoyancy.cs(46,19): warning CS0169: The field 'BuoyancyKapal.tempcommand' is never used [F:\Data Backup Dani\UNIGINE Projects\smallboat\smallboat.csproj]
+11:07:47 WARNING:	F:\Data Backup Dani\UNIGINE Projects\smallboat\data\Componets\ShipUI.cs(14,26): warning CS0649: Field 'ShipUI.radarCanvas' is never assigned to, and will always have its default value null [F:\Data Backup Dani\UNIGINE Projects\smallboat\smallboat.csproj]
+11:07:47 WARNING:	F:\Data Backup Dani\UNIGINE Projects\smallboat\data\Componets\buoyancy.cs(47,17): warning CS0169: The field 'BuoyancyKapal.Buoy_flag' is never used [F:\Data Backup Dani\UNIGINE Projects\smallboat\smallboat.csproj]
+11:07:47 WARNING:	F:\Data Backup Dani\UNIGINE Projects\smallboat\data\Componets\foam.cs(10,37): warning CS0649: Field 'Foam.foamm' is never assigned to, and will always have its default value null [F:\Data Backup Dani\UNIGINE Projects\smallboat\smallboat.csproj]
+11:07:47 WARNING:	F:\Data Backup Dani\UNIGINE Projects\smallboat\data\Componets\move.cs(32,11): warning CS0414: The field 'move.inputTimer' is assigned but its value is never used [F:\Data Backup Dani\UNIGINE Projects\smallboat\smallboat.csproj]
+11:07:47 WARNING:	F:\Data Backup Dani\UNIGINE Projects\smallboat\data\Componets\move.cs(31,11): warning CS0414: The field 'move.inputDelay' is assigned but its value is never used [F:\Data Backup Dani\UNIGINE Projects\smallboat\smallboat.csproj]
+11:07:47 WARNING:	F:\Data Backup Dani\UNIGINE Projects\smallboat\data\Componets\move.cs(30,11): warning CS0414: The field 'move.throttleSmooth' is assigned but its value is never used [F:\Data Backup Dani\UNIGINE Projects\smallboat\smallboat.csproj]
+11:07:47 smallboat -> F:\Data Backup Dani\UNIGINE Projects\smallboat\bin\smallboat_x64d.dll
+11:07:48 CSPropertyGenerator started
+11:07:51 CSPropertyGenerator completed successfully in 3.72 seconds
+11:07:51 Build succeeded.
+11:07:51 WARNING:	F:\Data Backup Dani\UNIGINE Projects\smallboat\data\Componets\buoyancy.cs(46,19): warning CS0169: The field 'BuoyancyKapal.tempcommand' is never used [F:\Data Backup Dani\UNIGINE Projects\smallboat\smallboat.csproj]
+11:07:51 WARNING:	F:\Data Backup Dani\UNIGINE Projects\smallboat\data\Componets\ShipUI.cs(14,26): warning CS0649: Field 'ShipUI.radarCanvas' is never assigned to, and will always have its default value null [F:\Data Backup Dani\UNIGINE Projects\smallboat\smallboat.csproj]
+11:07:51 WARNING:	F:\Data Backup Dani\UNIGINE Projects\smallboat\data\Componets\buoyancy.cs(47,17): warning CS0169: The field 'BuoyancyKapal.Buoy_flag' is never used [F:\Data Backup Dani\UNIGINE Projects\smallboat\smallboat.csproj]
+11:07:51 WARNING:	F:\Data Backup Dani\UNIGINE Projects\smallboat\data\Componets\foam.cs(10,37): warning CS0649: Field 'Foam.foamm' is never assigned to, and will always have its default value null [F:\Data Backup Dani\UNIGINE Projects\smallboat\smallboat.csproj]
+11:07:51 WARNING:	F:\Data Backup Dani\UNIGINE Projects\smallboat\data\Componets\move.cs(32,11): warning CS0414: The field 'move.inputTimer' is assigned but its value is never used [F:\Data Backup Dani\UNIGINE Projects\smallboat\smallboat.csproj]
+11:07:51 WARNING:	F:\Data Backup Dani\UNIGINE Projects\smallboat\data\Componets\move.cs(31,11): warning CS0414: The field 'move.inputDelay' is assigned but its value is never used [F:\Data Backup Dani\UNIGINE Projects\smallboat\smallboat.csproj]
+11:07:51 WARNING:	F:\Data Backup Dani\UNIGINE Projects\smallboat\data\Componets\move.cs(30,11): warning CS0414: The field 'move.throttleSmooth' is assigned but its value is never used [F:\Data Backup Dani\UNIGINE Projects\smallboat\smallboat.csproj]
+11:07:51 7 Warning(s)
+11:07:51 0 Error(s)
+11:07:51 Time Elapsed 00:00:06.31
+11:07:52 Running ' dotnet smallboat_x64d.dll -console_command 'world_load \"smallboat\"' -video_app dx11 -main_window_size 1600 900 -main_window_fullscreen 0 -main_window_borders 1 -video_debug 0 ' command
+11:38:12 Renderer: OpenAL Soft on Headphones (vivo Buds)
+11:38:12 OpenAL vendor: OpenAL Community
+11:38:12 OpenAL renderer: OpenAL Soft
+11:38:12 OpenAL version: 1.1 ALSOFT 1.22.2
+11:38:12 Found AL_EXT_LINEAR_DISTANCE
+11:38:12 Found AL_EXT_OFFSET
+11:38:12 Found ALC_EXT_EFX
+11:38:12 Found ALC_SOFT_HRTF
+11:38:12 Found EFX Filter
+11:38:12 Found EFX Reverb
+11:38:12 Found EAX Reverb
+11:38:12 Found QUAD16 format
+11:38:12 Found 51CHN16 format
+11:38:12 Found 61CHN16 format
+11:38:12 Found 71CHN16 format
+11:38:12 Device enumeration supported
+11:38:12 Maximum sources: 256
+11:38:12 Maximum effect slots: 16
+11:38:12 Maximum auxiliary sends: 2
+11:38:12 Output sampling frequency: 48000hz
+11:38:12 HRTF not enabled!
+11:38:12 
+11:44:40 Renderer: OpenAL Soft on SPDIF Interface (Realtek USB2.0 Audio)
+11:44:40 OpenAL vendor: OpenAL Community
+11:44:40 OpenAL renderer: OpenAL Soft
+11:44:40 OpenAL version: 1.1 ALSOFT 1.22.2
+11:44:40 Found AL_EXT_LINEAR_DISTANCE
+11:44:40 Found AL_EXT_OFFSET
+11:44:40 Found ALC_EXT_EFX
+11:44:40 Found ALC_SOFT_HRTF
+11:44:40 Found EFX Filter
+11:44:40 Found EFX Reverb
+11:44:40 Found EAX Reverb
+11:44:40 Found QUAD16 format
+11:44:40 Found 51CHN16 format
+11:44:40 Found 61CHN16 format
+11:44:40 Found 71CHN16 format
+11:44:40 Device enumeration supported
+11:44:40 Maximum sources: 256
+11:44:40 Maximum effect slots: 16
+11:44:40 Maximum auxiliary sends: 2
+11:44:40 Output sampling frequency: 48000hz
+11:44:40 HRTF not enabled!
+11:44:40 
+12:34:22 Running ' dotnet build -c Debug --no-restore F:/Data Backup Dani/UNIGINE Projects/smallboat/smallboat.csproj ' command
+12:34:22 MSBuild version 17.8.3+195e7f5a3 for .NET
+12:34:23 smallboat -> F:\Data Backup Dani\UNIGINE Projects\smallboat\bin\smallboat_x64d.dll
+12:34:23 CSPropertyGenerator started
+12:34:25 CSPropertyGenerator completed successfully in 1.80 seconds
+12:34:25 Build succeeded.
+12:34:25 0 Warning(s)
+12:34:25 0 Error(s)
+12:34:25 Time Elapsed 00:00:02.46
+12:34:25 Running ' dotnet smallboat_x64d.dll -console_command 'world_load \"smallboat\"' -video_app dx11 -main_window_size 1600 900 -main_window_fullscreen 0 -main_window_borders 1 -video_debug 0 ' command
+12:35:54 Saving "smallboat.world"
+12:35:58 Running ' dotnet build -c Debug --no-restore F:/Data Backup Dani/UNIGINE Projects/smallboat/smallboat.csproj ' command
+12:35:59 MSBuild version 17.8.3+195e7f5a3 for .NET
+12:35:59 smallboat -> F:\Data Backup Dani\UNIGINE Projects\smallboat\bin\smallboat_x64d.dll
+12:35:59 CSPropertyGenerator started
+12:36:01 CSPropertyGenerator completed successfully in 2.08 seconds
+12:36:01 Build succeeded.
+12:36:01 0 Warning(s)
+12:36:01 0 Error(s)
+12:36:01 Time Elapsed 00:00:02.54
+12:36:01 Running ' dotnet smallboat_x64d.dll -console_command 'world_load \"smallboat\"' -video_app dx11 -main_window_size 1600 900 -main_window_fullscreen 0 -main_window_borders 1 -video_debug 0 ' command
+12:59:26 Renderer: OpenAL Soft on Headphones (vivo Buds)
+12:59:26 OpenAL vendor: OpenAL Community
+12:59:26 OpenAL renderer: OpenAL Soft
+12:59:26 OpenAL version: 1.1 ALSOFT 1.22.2
+12:59:26 Found AL_EXT_LINEAR_DISTANCE
+12:59:26 Found AL_EXT_OFFSET
+12:59:26 Found ALC_EXT_EFX
+12:59:26 Found ALC_SOFT_HRTF
+12:59:26 Found EFX Filter
+12:59:26 Found EFX Reverb
+12:59:26 Found EAX Reverb
+12:59:26 Found QUAD16 format
+12:59:26 Found 51CHN16 format
+12:59:26 Found 61CHN16 format
+12:59:26 Found 71CHN16 format
+12:59:26 Device enumeration supported
+12:59:26 Maximum sources: 256
+12:59:26 Maximum effect slots: 16
+12:59:26 Maximum auxiliary sends: 2
+12:59:26 Output sampling frequency: 48000hz
+12:59:26 HRTF not enabled!
+12:59:26 
+12:59:40 Running ' dotnet build -c Debug --no-restore F:/Data Backup Dani/UNIGINE Projects/smallboat/smallboat.csproj ' command
+12:59:40 MSBuild version 17.8.3+195e7f5a3 for .NET
+12:59:40 smallboat -> F:\Data Backup Dani\UNIGINE Projects\smallboat\bin\smallboat_x64d.dll
+12:59:41 CSPropertyGenerator started
+12:59:42 CSPropertyGenerator completed successfully in 1.68 seconds
+12:59:42 Build succeeded.
+12:59:42 0 Warning(s)
+12:59:42 0 Error(s)
+12:59:42 Time Elapsed 00:00:02.21
+12:59:42 Running ' dotnet smallboat_x64d.dll -console_command 'world_load \"smallboat\"' -video_app dx11 -main_window_size 1600 900 -main_window_fullscreen 0 -main_window_borders 1 -video_debug 0 ' command
+13:05:53 Renderer: OpenAL Soft on SPDIF Interface (Realtek USB2.0 Audio)
+13:05:53 OpenAL vendor: OpenAL Community
+13:05:53 OpenAL renderer: OpenAL Soft
+13:05:53 OpenAL version: 1.1 ALSOFT 1.22.2
+13:05:53 Found AL_EXT_LINEAR_DISTANCE
+13:05:53 Found AL_EXT_OFFSET
+13:05:53 Found ALC_EXT_EFX
+13:05:53 Found ALC_SOFT_HRTF
+13:05:53 Found EFX Filter
+13:05:53 Found EFX Reverb
+13:05:53 Found EAX Reverb
+13:05:53 Found QUAD16 format
+13:05:53 Found 51CHN16 format
+13:05:53 Found 61CHN16 format
+13:05:53 Found 71CHN16 format
+13:05:53 Device enumeration supported
+13:05:53 Maximum sources: 256
+13:05:53 Maximum effect slots: 16
+13:05:53 Maximum auxiliary sends: 2
+13:05:53 Output sampling frequency: 48000hz
+13:05:53 HRTF not enabled!
+13:05:53 
+15:03:54 Renderer: OpenAL Soft on Headphones (vivo Buds)
+15:03:54 OpenAL vendor: OpenAL Community
+15:03:54 OpenAL renderer: OpenAL Soft
+15:03:54 OpenAL version: 1.1 ALSOFT 1.22.2
+15:03:54 Found AL_EXT_LINEAR_DISTANCE
+15:03:54 Found AL_EXT_OFFSET
+15:03:54 Found ALC_EXT_EFX
+15:03:54 Found ALC_SOFT_HRTF
+15:03:54 Found EFX Filter
+15:03:54 Found EFX Reverb
+15:03:54 Found EAX Reverb
+15:03:54 Found QUAD16 format
+15:03:54 Found 51CHN16 format
+15:03:54 Found 61CHN16 format
+15:03:54 Found 71CHN16 format
+15:03:54 Device enumeration supported
+15:03:54 Maximum sources: 256
+15:03:54 Maximum effect slots: 16
+15:03:54 Maximum auxiliary sends: 2
+15:03:54 Output sampling frequency: 48000hz
+15:03:54 HRTF not enabled!
+15:03:54 
+15:10:40 Saving "smallboat.world"
+15:10:40 Running ' dotnet build -c Debug --no-restore F:/Data Backup Dani/UNIGINE Projects/smallboat/smallboat.csproj ' command
+15:10:40 MSBuild version 17.8.3+195e7f5a3 for .NET
+15:10:41 smallboat -> F:\Data Backup Dani\UNIGINE Projects\smallboat\bin\smallboat_x64d.dll
+15:10:41 CSPropertyGenerator started
+15:10:43 CSPropertyGenerator completed successfully in 1.94 seconds
+15:10:43 Build succeeded.
+15:10:43 0 Warning(s)
+15:10:43 0 Error(s)
+15:10:43 Time Elapsed 00:00:02.70
+15:10:43 Running ' dotnet smallboat_x64d.dll -console_command 'world_load \"smallboat\"' -video_app dx11 -main_window_size 1600 900 -main_window_fullscreen 0 -main_window_borders 1 -video_debug 0 ' command
+15:29:25 Renderer: OpenAL Soft on SPDIF Interface (Realtek USB2.0 Audio)
+15:29:25 OpenAL vendor: OpenAL Community
+15:29:25 OpenAL renderer: OpenAL Soft
+15:29:25 OpenAL version: 1.1 ALSOFT 1.22.2
+15:29:25 Found AL_EXT_LINEAR_DISTANCE
+15:29:25 Found AL_EXT_OFFSET
+15:29:25 Found ALC_EXT_EFX
+15:29:25 Found ALC_SOFT_HRTF
+15:29:25 Found EFX Filter
+15:29:25 Found EFX Reverb
+15:29:25 Found EAX Reverb
+15:29:25 Found QUAD16 format
+15:29:25 Found 51CHN16 format
+15:29:25 Found 61CHN16 format
+15:29:25 Found 71CHN16 format
+15:29:25 Device enumeration supported
+15:29:25 Maximum sources: 256
+15:29:25 Maximum effect slots: 16
+15:29:25 Maximum auxiliary sends: 2
+15:29:25 Output sampling frequency: 48000hz
+15:29:25 HRTF not enabled!
+15:29:25 
+17:01:20 Close "openal32.dll"
+17:01:20 Fast shutdown 60.9ms

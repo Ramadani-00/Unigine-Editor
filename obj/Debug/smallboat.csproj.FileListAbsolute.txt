@@ -1,0 +1,54 @@
+C:\Users\2D_5\Documents\UNIGINE Projects\smallboat\bin\smallboat_x64d.exe
+C:\Users\2D_5\Documents\UNIGINE Projects\smallboat\bin\smallboat_x64d.deps.json
+C:\Users\2D_5\Documents\UNIGINE Projects\smallboat\bin\smallboat_x64d.runtimeconfig.json
+C:\Users\2D_5\Documents\UNIGINE Projects\smallboat\bin\smallboat_x64d.dll
+C:\Users\2D_5\Documents\UNIGINE Projects\smallboat\bin\smallboat_x64d.pdb
+C:\Users\2D_5\Documents\UNIGINE Projects\smallboat\bin\UnigineSharp_double_x64d.pdb
+C:\Users\2D_5\Documents\UNIGINE Projects\smallboat\bin\UnigineSharp_double_x64d.xml
+C:\Users\2D_5\Documents\UNIGINE Projects\smallboat\obj\Debug\smallboat.csproj.AssemblyReference.cache
+C:\Users\2D_5\Documents\UNIGINE Projects\smallboat\obj\Debug\smallboat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2D_5\Documents\UNIGINE Projects\smallboat\obj\Debug\smallboat.AssemblyInfoInputs.cache
+C:\Users\2D_5\Documents\UNIGINE Projects\smallboat\obj\Debug\smallboat.AssemblyInfo.cs
+C:\Users\2D_5\Documents\UNIGINE Projects\smallboat\obj\Debug\smallboat.csproj.CoreCompileInputs.cache
+C:\Users\2D_5\Documents\UNIGINE Projects\smallboat\obj\Debug\smallboat.csproj.CopyComplete
+C:\Users\2D_5\Documents\UNIGINE Projects\smallboat\obj\Debug\smallboat_x64d.dll
+C:\Users\2D_5\Documents\UNIGINE Projects\smallboat\obj\Debug\refint\smallboat_x64d.dll
+C:\Users\2D_5\Documents\UNIGINE Projects\smallboat\obj\Debug\smallboat_x64d.pdb
+C:\Users\2D_5\Documents\UNIGINE Projects\smallboat\obj\Debug\smallboat.genruntimeconfig.cache
+C:\Users\2D_5\Documents\UNIGINE Projects\smallboat\obj\Debug\ref\smallboat_x64d.dll
+E:\UNIGINE_Project_Baru\smallboat\bin\smallboat_x64d.exe
+E:\UNIGINE_Project_Baru\smallboat\bin\smallboat_x64d.deps.json
+E:\UNIGINE_Project_Baru\smallboat\bin\smallboat_x64d.runtimeconfig.json
+E:\UNIGINE_Project_Baru\smallboat\bin\smallboat_x64d.dll
+E:\UNIGINE_Project_Baru\smallboat\bin\smallboat_x64d.pdb
+E:\UNIGINE_Project_Baru\smallboat\bin\UnigineSharp_double_x64d.pdb
+E:\UNIGINE_Project_Baru\smallboat\bin\UnigineSharp_double_x64d.xml
+E:\UNIGINE_Project_Baru\smallboat\obj\Debug\smallboat.csproj.AssemblyReference.cache
+E:\UNIGINE_Project_Baru\smallboat\obj\Debug\smallboat.GeneratedMSBuildEditorConfig.editorconfig
+E:\UNIGINE_Project_Baru\smallboat\obj\Debug\smallboat.AssemblyInfoInputs.cache
+E:\UNIGINE_Project_Baru\smallboat\obj\Debug\smallboat.AssemblyInfo.cs
+E:\UNIGINE_Project_Baru\smallboat\obj\Debug\smallboat.csproj.CoreCompileInputs.cache
+E:\UNIGINE_Project_Baru\smallboat\obj\Debug\smallboat.csproj.CopyComplete
+E:\UNIGINE_Project_Baru\smallboat\obj\Debug\smallboat_x64d.dll
+E:\UNIGINE_Project_Baru\smallboat\obj\Debug\refint\smallboat_x64d.dll
+E:\UNIGINE_Project_Baru\smallboat\obj\Debug\smallboat_x64d.pdb
+E:\UNIGINE_Project_Baru\smallboat\obj\Debug\smallboat.genruntimeconfig.cache
+E:\UNIGINE_Project_Baru\smallboat\obj\Debug\ref\smallboat_x64d.dll
+F:\Data Backup Dani\UNIGINE Projects\smallboat\bin\smallboat_x64d.exe
+F:\Data Backup Dani\UNIGINE Projects\smallboat\bin\smallboat_x64d.deps.json
+F:\Data Backup Dani\UNIGINE Projects\smallboat\bin\smallboat_x64d.runtimeconfig.json
+F:\Data Backup Dani\UNIGINE Projects\smallboat\bin\smallboat_x64d.dll
+F:\Data Backup Dani\UNIGINE Projects\smallboat\bin\smallboat_x64d.pdb
+F:\Data Backup Dani\UNIGINE Projects\smallboat\bin\UnigineSharp_double_x64d.pdb
+F:\Data Backup Dani\UNIGINE Projects\smallboat\bin\UnigineSharp_double_x64d.xml
+F:\Data Backup Dani\UNIGINE Projects\smallboat\obj\Debug\smallboat.csproj.AssemblyReference.cache
+F:\Data Backup Dani\UNIGINE Projects\smallboat\obj\Debug\smallboat.GeneratedMSBuildEditorConfig.editorconfig
+F:\Data Backup Dani\UNIGINE Projects\smallboat\obj\Debug\smallboat.AssemblyInfoInputs.cache
+F:\Data Backup Dani\UNIGINE Projects\smallboat\obj\Debug\smallboat.AssemblyInfo.cs
+F:\Data Backup Dani\UNIGINE Projects\smallboat\obj\Debug\smallboat.csproj.CoreCompileInputs.cache
+F:\Data Backup Dani\UNIGINE Projects\smallboat\obj\Debug\smallboat.csproj.CopyComplete
+F:\Data Backup Dani\UNIGINE Projects\smallboat\obj\Debug\smallboat_x64d.dll
+F:\Data Backup Dani\UNIGINE Projects\smallboat\obj\Debug\refint\smallboat_x64d.dll
+F:\Data Backup Dani\UNIGINE Projects\smallboat\obj\Debug\smallboat_x64d.pdb
+F:\Data Backup Dani\UNIGINE Projects\smallboat\obj\Debug\smallboat.genruntimeconfig.cache
+F:\Data Backup Dani\UNIGINE Projects\smallboat\obj\Debug\ref\smallboat_x64d.dll
