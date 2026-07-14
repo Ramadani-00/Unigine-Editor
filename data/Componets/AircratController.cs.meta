@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>c3e04cf5f344552679794de94bf02e8f13355ad2</guid>
+	<type>component</type>
+	<hash>0c80f38c</hash>
+	<runtimes>
+		<runtime id="c3e04cf5f344552679794de94bf02e8f13355ad2" name="AircratController.cs" link="0"/>
+		<runtime id="7b4c38cbe7953c906cdfe59f1663811e5d5608a0" name="AircraftController.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

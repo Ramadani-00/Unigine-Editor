@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>a2da89c70b30d4811b40307c2fe5e16cc6d38452</guid>
+	<type>component</type>
+	<hash>bcffeead</hash>
+	<runtimes>
+		<runtime id="a2da89c70b30d4811b40307c2fe5e16cc6d38452" name="pagartengah.cs" link="0"/>
+		<runtime id="e91e71cdebca5e9da61538baa5366c6395ff5620" name="pagartengah.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

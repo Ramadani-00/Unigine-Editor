@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.19.0.3" name="Clws35mmController" guid="17f28ff7980ce8192733f191ea643e099a7c4916" parent="657ecdbbfc83135a26777f86012da3587b67be0c" editable="0">
+	<parameter name="ownerShipID" type="string" title="ID Kapal Pemilik" tooltip="Harus sama persis dengan nama ID Kapal di dropdown Delphi, misal: KRI_RE_MARTADINATA">KRI_RE_MARTADINATA</parameter>
+	<parameter name="clws35BaseNode" type="node" title="35mm Base Node (Yaw)"/>
+	<parameter name="clws35LauncherNode" type="node" title="35mm Launcher Node (Pitch)"/>
+	<parameter name="clws35ShotEffect" type="node" title="35mm Shot Effect (Muzzle Flash)"/>
+	<parameter name="clws35Sound" type="node" title="35mm Sound Effect (Audio Single Source)" filter="SoundSource"/>
+	<parameter name="clws35TrackingSpeed" type="float" title="35mm Kecepatan Tracking">60</parameter>
+	<parameter name="clws35RecoilDistance" type="float" title="35mm Jarak Recoil (Meter)">0.150000006</parameter>
+	<parameter name="targetHelicopter" type="node" title="Target Helicopter Node"/>
+</property>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.19.0.3" name="ShipTCPManager" manual="1" parent_name="C# Components" editable="0">
+	<parameter name="port" type="int">12345</parameter>
+</property>

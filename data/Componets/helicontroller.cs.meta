@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>b0048f9be5d2ff89933978028ce928c3cfb5b9a9</guid>
+	<type>component</type>
+	<hash>7683f149</hash>
+	<runtimes>
+		<runtime id="b0048f9be5d2ff89933978028ce928c3cfb5b9a9" name="helicontroller.cs" link="0"/>
+		<runtime id="c1ff9081af909b4d49e9e250bbd093340fde981f" name="helicoptercontroller.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

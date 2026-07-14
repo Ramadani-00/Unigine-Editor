@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>3735612403c4d7e07aa9d857947b4b85b6cae7a9</guid>
+	<type>sound</type>
+	<hash>0c8cda5f</hash>
+	<runtimes>
+		<runtime id="3735612403c4d7e07aa9d857947b4b85b6cae7a9" name="missilelock.mp3" link="0" type="7"/>
+	</runtimes>
+</asset>

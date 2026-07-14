@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>d76a61150a913f70d705cc0f647f4a224bc14319</guid>
+	<type>node</type>
+	<hash>362fd1e3</hash>
+	<runtimes>
+		<runtime id="d76a61150a913f70d705cc0f647f4a224bc14319" name="explosion_SSM.node" link="0" type="3"/>
+	</runtimes>
+</asset>

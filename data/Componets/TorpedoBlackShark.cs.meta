@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>04971de8ed3357b6599943531bf50d53bfea564b</guid>
+	<type>component</type>
+	<hash>a3ac7b85</hash>
+	<runtimes>
+		<runtime id="04971de8ed3357b6599943531bf50d53bfea564b" name="TorpedoBlackShark.cs" link="0"/>
+		<runtime id="713d3b469e2c433ff293ab79dd65a6b5eba8a2f1" name="TorpedoBlackShark.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.19.0.3">
+	<node type="NodeDummy" id="1699976669" name="canberra">
+		<transform>1 1.74845560007e-07 0 0.0 -1.74845560007e-07 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="1375247768" immovable="1" name="Body">
+			<mesh_name>guid://d74c543970c050dd1765e1ca78045648f643f6ba</mesh_name>
+			<surface name="canberra" intersection="1" material="c313330b39086e40334148e469dc99c25bea87d4"/>
+			<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			<node type="ObjectMeshStatic" id="1488028695" immovable="1" name="Radar2">
+				<mesh_name>guid://01e56fd10985df7d9ec7965411b4dabfea5a96d1</mesh_name>
+				<surface name="canberra" intersection="1" material="c313330b39086e40334148e469dc99c25bea87d4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 11.8180444105 13.6994667403 39.3840722656 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="1582486154" immovable="1" name="PropellerL">
+				<mesh_name>guid://52f49a13b2f126823fd9e00c95c83bc2f588e1fc</mesh_name>
+				<surface name="canberra" intersection="1" material="c313330b39086e40334148e469dc99c25bea87d4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -7.95199144861 -103.253788367 -4.486690979 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="369139809" immovable="1" name="PropellerR">
+				<mesh_name>guid://3dd5df6b158564a035e503a644daff015008d52b</mesh_name>
+				<surface name="canberra" intersection="1" material="c313330b39086e40334148e469dc99c25bea87d4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 7.95917066077 -103.253789758 -4.486690979 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="1138146892" immovable="1" name="Radar1">
+				<mesh_name>guid://75167f7d92fc2000bd1ce41e5b68c7d4a303e88e</mesh_name>
+				<surface name="canberra" intersection="1" material="c313330b39086e40334148e469dc99c25bea87d4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 11.8380483678 17.0760341213 38.9989599609 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="1402266939" immovable="1" name="Railing7">
+				<mesh_name>guid://381c8495da88dc65055bed481642b694c8285695</mesh_name>
+				<surface name="canberra" intersection="1" material="c313330b39086e40334148e469dc99c25bea87d4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -15.7010709387 -18.3334385688 20.5322631836 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="823597406" immovable="1" name="Railing1">
+				<mesh_name>guid://fe2eeef7af2ac0c660e9c280eb834226ed87b6f0</mesh_name>
+				<surface name="canberra" intersection="1" material="c313330b39086e40334148e469dc99c25bea87d4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -6.55353736095 114.413281823 25.6594506836 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="1759818021" immovable="1" name="Railing2">
+				<mesh_name>guid://2c7c39cfdbfe847e57f70bba499e64403ca6dd8f</mesh_name>
+				<surface name="canberra" intersection="1" material="c313330b39086e40334148e469dc99c25bea87d4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 2.44587637955 107.239228302 24.35875 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="2067640384" immovable="1" name="Railing4">
+				<mesh_name>guid://07e7d7019f9de869836663b23f90f87870262da2</mesh_name>
+				<surface name="canberra" intersection="1" material="c313330b39086e40334148e469dc99c25bea87d4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 9.30449999281 89.2823527022 20.515300293 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="1225418399" immovable="1" name="Railing3">
+				<mesh_name>guid://ba765d99fa436038ce66cb7ca88c9dd2995fd099</mesh_name>
+				<surface name="canberra" intersection="1" material="c313330b39086e40334148e469dc99c25bea87d4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -15.5552280685 100.064200579 23.0599462891 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="476087154" immovable="1" name="Railing6">
+				<mesh_name>guid://7d97ca1b2c4168fb5cb1e4342266dc6b925a8124</mesh_name>
+				<surface name="canberra" intersection="1" material="c313330b39086e40334148e469dc99c25bea87d4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 15.5048656005 54.4553404414 20.5247680664 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="2010582057" immovable="1" name="Railing5">
+				<mesh_name>guid://c52672733cb04da7fe106d0e0d1e1f1956ffda33</mesh_name>
+				<surface name="canberra" intersection="1" material="c313330b39086e40334148e469dc99c25bea87d4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -15.5859529057 75.1173841751 20.7477514648 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="825485172" immovable="1" name="Railing8">
+				<mesh_name>guid://678a9ec5c78f1b8072dfb4863ff1a03ce75859f6</mesh_name>
+				<surface name="canberra" intersection="1" material="c313330b39086e40334148e469dc99c25bea87d4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 15.7451277887 -74.2213002046 20.5384179688 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="77458499" immovable="1" name="Railing9">
+				<mesh_name>guid://fd46beddfb0ebc55d43224f08e521be0f8c988dd</mesh_name>
+				<surface name="canberra" intersection="1" material="c313330b39086e40334148e469dc99c25bea87d4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -0.00658097591514 -99.6341015619 20.5388085938 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="1998693574" name="Camera">
+				<transform>-2.50343479128e-07 -1 -8.74227800037e-08 0.0 -1.62920662996e-07 8.74228207899e-08 -1 0.0 1 -2.50343464885e-07 -1.62920684882e-07 0.0 11.568565447 25.3319985004 30.9356518555 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="1210135917" name="Rope3">
+				<transform>-2.50343479128e-07 -1 -8.74227800037e-08 0.0 -1.62920662996e-07 8.74228207899e-08 -1 0.0 1 -2.50343464885e-07 -1.62920684882e-07 0.0 13.786176206 91.4303112948 18.094855957 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="1494030312" name="Rope1">
+				<transform>-2.50343479128e-07 -1 -8.74227800037e-08 0.0 -1.62920662996e-07 8.74228207899e-08 -1 0.0 1 -2.50343464885e-07 -1.62920684882e-07 0.0 3.34568811671 107.589443067 18.0948547363 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="1330092583" name="Rope2">
+				<transform>-2.50343479128e-07 -1 -8.74227800037e-08 0.0 -1.62920662996e-07 8.74228207899e-08 -1 0.0 1 -2.50343464885e-07 -1.62920684882e-07 0.0 10.3504726963 100.993524486 18.0948547363 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="1481396570" name="SearchBridgeLight">
+				<transform>-2.50343479128e-07 -1 -8.74227800037e-08 0.0 -1.62920662996e-07 8.74228207899e-08 -1 0.0 1 -2.50343464885e-07 -1.62920684882e-07 0.0 11.5345126959 25.1408070971 33.0871166992 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="310571249" name="Sp_LiL1">
+				<transform>-2.50343479128e-07 -1 -8.74227800037e-08 0.0 -1.62920662996e-07 8.74228207899e-08 -1 0.0 1 -2.50343464885e-07 -1.62920684882e-07 0.0 9.72798365924 -38.906470577 47.7592382812 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="1620981148" name="Sp_LiR1">
+				<transform>-2.50343479128e-07 -1 -8.74227800037e-08 0.0 -1.62920662996e-07 8.74228207899e-08 -1 0.0 1 -2.50343464885e-07 -1.62920684882e-07 0.0 12.3553567061 -38.9064708067 47.7592382812 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="1779422283" name="Sp_LiC">
+				<transform>-2.50343479128e-07 -1 -8.74227800037e-08 0.0 -1.62920662996e-07 8.74228207899e-08 -1 0.0 1 -2.50343464885e-07 -1.62920684882e-07 0.0 11.0123487669 -40.3554306502 47.7592382812 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="690330926" name="Sp_LiL2">
+				<transform>-2.50343479128e-07 -1 -8.74227800037e-08 0.0 -1.62920662996e-07 8.74228207899e-08 -1 0.0 1 -2.50343464885e-07 -1.62920684882e-07 0.0 9.81766140204 -38.8100008583 45.6250390625 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="695616181" name="Sp_LiR2">
+				<transform>-2.50343479128e-07 -1 -8.74227800037e-08 0.0 -1.62920662996e-07 8.74228207899e-08 -1 0.0 1 -2.50343464885e-07 -1.62920684882e-07 0.0 12.2312258552 -38.8100010693 45.6250390625 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="2041672848" name="Sp_LiL3">
+				<transform>-2.50343479128e-07 -1 -8.74227800037e-08 0.0 -1.62920662996e-07 8.74228207899e-08 -1 0.0 1 -2.50343464885e-07 -1.62920684882e-07 0.0 9.13238796454 -38.8100007984 43.8510693359 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="15941295" name="Sp_LiR3">
+				<transform>-2.50343479128e-07 -1 -8.74227800037e-08 0.0 -1.62920662996e-07 8.74228207899e-08 -1 0.0 1 -2.50343464885e-07 -1.62920684882e-07 0.0 12.9056887458 -38.8100011283 43.8510693359 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="1390009410" name="Rope4">
+				<transform>-2.50343479128e-07 -1 -8.74227800037e-08 0.0 -1.62920662996e-07 8.74228207899e-08 -1 0.0 1 -2.50343464885e-07 -1.62920684882e-07 0.0 14.6305919441 -112.814591123 14.3863439941 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="1102278329" name="Rope5">
+				<transform>-2.50343479128e-07 -1 -8.74227800037e-08 0.0 -1.62920662996e-07 8.74228207899e-08 -1 0.0 1 -2.50343464885e-07 -1.62920684882e-07 0.0 -14.5375379387 -112.814588573 14.3863439941 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="1622821060" name="PropR">
+				<transform>-2.50343479128e-07 -1 -8.74227800037e-08 0.0 -1.62920662996e-07 8.74228207899e-08 -1 0.0 1 -2.50343464885e-07 -1.62920684882e-07 0.0 7.96601202908 -103.966992884 -4.48407623291 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="2047262035" name="PropL">
+				<transform>-2.50343479128e-07 -1 -8.74227800037e-08 0.0 -1.62920662996e-07 8.74228207899e-08 -1 0.0 1 -2.50343464885e-07 -1.62920684882e-07 0.0 -7.96069329319 -103.966991492 -4.48407623291 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="458269334" immovable="1" name="Door2">
+				<mesh_name>guid://e43b0f7f15188d9f4827b928f7903ad288c7f498</mesh_name>
+				<surface name="canberra" intersection="1" material="c313330b39086e40334148e469dc99c25bea87d4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -1.03056924207e-05 -113.913271484 10.690994873 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="552925437" immovable="1" name="Door1">
+				<mesh_name>guid://ff85ed57ae7bfa3f1b643ba2d5bfd720bce2ef17</mesh_name>
+				<surface name="canberra" intersection="1" material="c313330b39086e40334148e469dc99c25bea87d4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -8.71215470575e-06 -99.6554296875 20.1276477051 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="1422485048" immovable="1" name="AnchorL">
+				<mesh_name>guid://4ee55ac977ffd03f4a536a9a775ab8169877418a</mesh_name>
+				<surface name="canberra" intersection="1" material="c313330b39086e40334148e469dc99c25bea87d4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -6.96861512482 90.6177545155 6.24415771484 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="1155232823" immovable="1" name="AnchorR">
+				<mesh_name>guid://2d95ac610e53d16e20bf2da45f030a8ae5144361</mesh_name>
+				<surface name="canberra" intersection="1" material="c313330b39086e40334148e469dc99c25bea87d4"/>
+				<transform>1 -1.34995875969e-21 1.52854843274e-14 0.0 -1.29701920048e-21 1 1.74845553147e-07 0.0 -1.52854843274e-14 -1.74845553147e-07 1 0.0 5.94108213204 90.5174799494 6.24415771484 1.0</transform>
+			</node>
+		</node>
+	</node>
+</nodes>

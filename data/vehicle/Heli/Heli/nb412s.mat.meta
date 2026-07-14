@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>50a0b03b89810e25bef83a53b5f96b63b159fb4d</guid>
+	<type>material</type>
+	<hash>78bc940c</hash>
+	<runtimes>
+		<runtime id="50a0b03b89810e25bef83a53b5f96b63b159fb4d" name="nb412s" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

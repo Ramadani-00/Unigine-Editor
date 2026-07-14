@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>1a5ae59235c6c7c9adc22e94fa4e48e3419e18e6</guid>
+	<type>node</type>
+	<hash>206c2558</hash>
+	<runtimes>
+		<runtime id="1a5ae59235c6c7c9adc22e94fa4e48e3419e18e6" name="fire_effect_composition.node" link="0" type="3"/>
+	</runtimes>
+</asset>

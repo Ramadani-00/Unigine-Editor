@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>6482f97e25e23ae81d8e6511cfbb1f82e1b5e7b2</guid>
+	<type>world</type>
+	<hash>21a82257</hash>
+	<runtimes>
+		<runtime id="6482f97e25e23ae81d8e6511cfbb1f82e1b5e7b2" name="vfx_water_explosion.world" link="0"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="physics_settings_path"/>
+		<parameter type="string" name="render_settings_path">guid://2047fd469129c2abb94403ec3b4681f99be8b021</parameter>
+		<parameter type="string" name="script_name">guid://7582fd9e8479eb7e66ced1d42552d16705ff7e84</parameter>
+		<parameter type="string" name="sound_settings_path"/>
+		<parameter type="string" name="viewports_settings"/>
+	</parameters>
+</asset>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>a7076b7d969bac6968c036fecd55d66e31d253ca</guid>
+	<type>material_graph</type>
+	<hash>d2fe43bf</hash>
+	<runtimes>
+		<runtime id="a7076b7d969bac6968c036fecd55d66e31d253ca" name="material #38 slot #5_25.mgraph" link="0"/>
+		<runtime id="15f1baf7dfced1c522b19060e8555a4f3b76118c" name="material #38 slot #5_25" link="1" type="5"/>
+	</runtimes>
+</asset>

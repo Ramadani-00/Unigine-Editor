@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>93cea4094be06a8f8c1145d787a6fcafa39cb2f6</guid>
+	<type>render_settings</type>
+	<hash>fd638149</hash>
+	<runtimes>
+		<runtime id="93cea4094be06a8f8c1145d787a6fcafa39cb2f6" name="render_settings_dark.render" link="0"/>
+	</runtimes>
+</asset>

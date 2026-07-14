@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.19.0.3">
+	<node type="NodeDummy" id="1938979229" name="AS 365 N3">
+		<transform>1 1.74845560007e-07 0 0.0 -1.74845560007e-07 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="1470672472" immovable="1" name="Body">
+			<mesh_name>guid://10f8c5a2d2acda9141b64789498f73718c78e96d</mesh_name>
+			<surface name="AS365N3" intersection="1" material="8df8a892935e0599a872f16f0054b81c7a38def6"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 0 0 0 1.0</transform>
+			<node type="ObjectMeshStatic" id="1812913623" immovable="1" name="WheelBaseR">
+				<mesh_name>guid://40ac0b640081796a7c77a4c972aa1f3b57393be8</mesh_name>
+				<surface name="AS365N3" intersection="1" material="8df8a892935e0599a872f16f0054b81c7a38def6"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 0.649544257373 0.160623077458 0.813238328102 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="1335025994" immovable="1" name="HatchF">
+				<mesh_name>guid://c82c37a49baf5d7600801de3efcb915a51dd6e27</mesh_name>
+				<surface name="AS365N3" intersection="1" material="8df8a892935e0599a872f16f0054b81c7a38def6"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -1.35801487892e-05 3.34961178129 0.435144904148 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="1289871393" immovable="1" name="WheelBaseL">
+				<mesh_name>guid://65df5f3639469ee8293bad236878f0a36060155a</mesh_name>
+				<surface name="AS365N3" intersection="1" material="8df8a892935e0599a872f16f0054b81c7a38def6"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -0.492338259156 0.160622938866 0.809715931991 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="107838220" immovable="1" name="hatchL">
+				<mesh_name>guid://fb285576de739bca225507cd28df84a77f9be4f1</mesh_name>
+				<surface name="AS365N3" intersection="1" material="8df8a892935e0599a872f16f0054b81c7a38def6"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -0.740848757726 -0.374759730988 0.950141436172 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="858847995" immovable="1" name="WheelBaseF">
+				<mesh_name>guid://95899358fdd5b3bfe592190da837963c301a999c</mesh_name>
+				<surface name="AS365N3" intersection="1" material="8df8a892935e0599a872f16f0054b81c7a38def6"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -1.3541849504e-05 3.81954934734 0.608002189834 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="1550758942" immovable="1" name="HatchR">
+				<mesh_name>guid://3d146398bc9842b862e70fc77e1fc6a44738e84b</mesh_name>
+				<surface name="AS365N3" intersection="1" material="8df8a892935e0599a872f16f0054b81c7a38def6"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 0.75422188853 -0.373430737709 0.946547395278 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="549457125" immovable="1" name="RotorTail">
+				<mesh_name>guid://3dac004a71cf8e9be8dd730737daf8353633a12e</mesh_name>
+				<surface name="AS365N3" intersection="1" material="8df8a892935e0599a872f16f0054b81c7a38def6"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -1.43683470583e-05 -5.66632512971 1.68201447643 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="766499072" immovable="1" name="RotorMain">
+				<mesh_name>guid://c9783a8acaef66a345da445172d71a954cc476b5</mesh_name>
+				<surface name="AS365N3" intersection="1" material="8df8a892935e0599a872f16f0054b81c7a38def6"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -1.37896923841e-05 0.952712542147 3.31095721523 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="1339226207" name="Camera">
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 3.21209867457e-07 3.7605340729 1.67791510736 1.0</transform>
+			</node>
+		</node>
+	</node>
+</nodes>

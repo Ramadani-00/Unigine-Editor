@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>47b7723f109e20ab75af7bd46fdf119a017a0168</guid>
+	<type>texture</type>
+	<hash>64c78106</hash>
+	<runtimes>
+		<runtime id="47b7723f109e20ab75af7bd46fdf119a017a0168" name="library_shockwave_n.psd" link="0" type="6"/>
+		<runtime id="184675b82f11b78a2a53fe2994cdbb10ecedf8ff" name="library_shockwave_n.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="int" name="blur_radius">1</parameter>
+		<parameter type="string" name="height">Original</parameter>
+		<parameter type="string" name="image_format">ATI2</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="bool" name="mipmap_sharp_only_lightness">1</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">custom</parameter>
+		<parameter type="float" name="sharpness_intensity">0.25</parameter>
+		<parameter type="float" name="sharpness_radius">1</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">Original</parameter>
+	</parameters>
+</asset>

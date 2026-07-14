@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>d4b426a802f8e0ae24fda910205a969cfbce548a</guid>
+	<type>component</type>
+	<hash>254dbb12</hash>
+	<runtimes>
+		<runtime id="d4b426a802f8e0ae24fda910205a969cfbce548a" name="ShipTCPManager.cs" link="0"/>
+	</runtimes>
+</asset>

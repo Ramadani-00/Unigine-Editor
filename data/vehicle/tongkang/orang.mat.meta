@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>ee9e0ebca66c4ebcc7c2e046cd5f57771be269b7</guid>
+	<type>material</type>
+	<hash>947e8066</hash>
+	<runtimes>
+		<runtime id="ee9e0ebca66c4ebcc7c2e046cd5f57771be269b7" name="orang" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

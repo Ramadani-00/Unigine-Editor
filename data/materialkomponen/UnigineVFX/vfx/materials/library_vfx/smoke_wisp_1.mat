@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="dbed650ddc0543080d308ac7cca0497aaac34a91" base_material="b7c07dfd4ce80edac55fcbfdd0befa02ccd20b88">
+	<options blend_src="5" blend_dest="6" depth_test="0" two_sided="0" cast_shadow="0" cast_world_shadow="1" overlap="0"/>
+	<state name="albedo_color_type">1</state>
+	<state name="animation">1</state>
+	<state name="normal_map">1</state>
+	<state name="motion_vectors">1</state>
+	<state name="light_omni">1</state>
+	<state name="world_shadow">1</state>
+	<state name="lerp_cascades">1</state>
+	<state name="shadow_filter_mode">4</state>
+	<state name="shadow_penumbra_mode">0</state>
+	<state name="shadow_filter_noise">1</state>
+	<state name="transparent_scene_depth">0</state>
+	<state name="transparent_opacity_depth">1</state>
+	<state name="transparent_velocity">1</state>
+	<state name="transparent_material_mask">1</state>
+	<texture name="albedo">guid://839c3ff16b61389cf428fb4b80f6982ee61501b5</texture>
+	<texture name="albedo_color">
+		<curve2d>
+			<keys>
+				<key point="-0.00199998193 0.883999228" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.997999907 0.883999228" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="-0.00199998193 0.883999228" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.997999907 0.883999228" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="-0.00199998193 0.883999228" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.997999907 0.883999228" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0.00485714292 -0.125714481" left_tangent="0 0" right_tangent="0.0477140583 0.0885828733"/>
+				<key point="0.139999628 0.251429379" left_tangent="-0.167142957 0.0171428919" right_tangent="0.181428432 0.0114288926"/>
+				<key point="0.996286511 -0.106284738" left_tangent="-0.70628643 0.010861516" right_tangent="0.051428318 -0.00571393967"/>
+			</keys>
+		</curve2d>
+	</texture>
+	<texture name="normal">guid://402768be6cb8f905c68896a07302597fc09d18d2</texture>
+	<texture name="motion_vectors">guid://715149a291b83c99f5dffd24b02f2633b30735f6</texture>
+	<parameter name="albedo_color" expression="0">0.776470661 0.776470661 0.776470661 1</parameter>
+	<parameter name="animation_size" expression="0">8 8</parameter>
+	<parameter name="normal_scale" expression="0">2</parameter>
+	<parameter name="transparent_blur" expression="0">0</parameter>
+	<parameter name="soft_interaction_scale" expression="0">0.372289985</parameter>
+	<parameter name="motion_vectors_scale" expression="0">4.3670001</parameter>
+	<parameter name="motion_vectors_jitter" expression="0">0.489080012</parameter>
+	<parameter name="motion_vectors_motion_blur" expression="0">3.03931999</parameter>
+	<parameter name="translucent" expression="0">0.424930006</parameter>
+	<parameter name="translucent_depth" expression="0">7.93200016</parameter>
+	<parameter name="softness_multiplier" expression="0">10</parameter>
+	<parameter name="shadow_threshold" expression="0">0.0500000007</parameter>
+</material>

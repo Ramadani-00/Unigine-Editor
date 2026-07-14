@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="98a592984617f517468c8f8ad73d396129e0834c" parent="001dc611e2ca7385e50593ebc1c181e2e370240c" base_material="4dfec30f491f753f6e89094db6d3d695e89f9d6f">
+	<parameter name="uv_transform" expression="0">500 500 0 0</parameter>
+</material>

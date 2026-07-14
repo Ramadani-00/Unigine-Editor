@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>3c3d2015be2e2eb8785a180eafb086e6e3ecfdb6</guid>
+	<type>component</type>
+	<hash>b3702ed4</hash>
+	<runtimes>
+		<runtime id="3c3d2015be2e2eb8785a180eafb086e6e3ecfdb6" name="SubmarineSonar.cs" link="0"/>
+		<runtime id="4a9edeeb46defb5206e94e7c245e2c1dd5aa9ee4" name="SubmarineSonar.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

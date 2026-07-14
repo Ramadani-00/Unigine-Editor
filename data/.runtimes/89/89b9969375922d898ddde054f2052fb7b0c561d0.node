@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.19.0.3">
+	<node type="NodeDummy" id="1089172635" name="kapal tongkang rev2">
+		<transform>1 1.74845560007e-07 0 0.0 -1.74845560007e-07 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="1006412094" immovable="1" name="barge_body">
+			<mesh_name>guid://7a95a413b7f33d848648e626dee58d8e68bdcaef</mesh_name>
+			<surface name="barge" intersection="1" material="9da4330d5d7bed99621686f6b5e335f7811fe1d2"/>
+			<surface name="body" intersection="1" material="fab5a39116abf3df7306840a882c2ac8b10eb926"/>
+			<surface name="charcoal" intersection="1" material="86efad07bbdcb78f09d2f118762f56f03e73b4d4"/>
+			<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			<node type="ObjectMeshStatic" id="797955973" immovable="1" name="fookingpeople">
+				<mesh_name>guid://f882cffdcf9d8b99e329cda6d47f1d9dfe447b82</mesh_name>
+				<surface name="Material #27" intersection="1" material="6294492b254e9c351472cc4cfa6ede5e5ee20b48"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 0.293013778139 -1.14077105223 -0.977192382812 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="43574048" immovable="1" name="charcoal">
+				<mesh_name>guid://9c64097d80466261b5d593c8d5a595337ed104f9</mesh_name>
+				<surface name="charcoal" intersection="1" material="86efad07bbdcb78f09d2f118762f56f03e73b4d4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			</node>
+		</node>
+	</node>
+</nodes>

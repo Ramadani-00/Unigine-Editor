@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>a6b134423d647fe1cb51a5405a17da5a14ee56e2</guid>
+	<type>component</type>
+	<hash>f57fd9</hash>
+	<runtimes>
+		<runtime id="a6b134423d647fe1cb51a5405a17da5a14ee56e2" name="ShipRemoteControl.cs" link="0"/>
+	</runtimes>
+</asset>

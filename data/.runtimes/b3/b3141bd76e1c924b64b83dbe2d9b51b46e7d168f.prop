@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.19.0.3" name="pagarkiri" guid="b3141bd76e1c924b64b83dbe2d9b51b46e7d168f" parent="657ecdbbfc83135a26777f86012da3587b67be0c" editable="0">
+	<parameter name="gateNode" type="node"/>
+	<parameter name="openAngle" type="float">-90</parameter>
+	<parameter name="closeAngle" type="float">0</parameter>
+	<parameter name="speed" type="float">30</parameter>
+</property>

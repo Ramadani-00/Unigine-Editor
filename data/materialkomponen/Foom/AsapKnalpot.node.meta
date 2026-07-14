@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>1c288b3d0b01604527939ad3ff6a1756e3934bb9</guid>
+	<type>node</type>
+	<hash>44851fdf</hash>
+	<runtimes>
+		<runtime id="1c288b3d0b01604527939ad3ff6a1756e3934bb9" name="AsapKnalpot.node" link="0" type="3"/>
+	</runtimes>
+</asset>

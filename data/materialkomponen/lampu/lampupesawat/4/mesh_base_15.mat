@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="6250738e44f4f30ef5e7f65676f97d7818a49a30" parent="39c0a6568a2a218dbc14a61ec6404ef5b344a738" base_material="4dfec30f491f753f6e89094db6d3d695e89f9d6f">
+	<parameter name="albedo_color" expression="0">1 1 1 1</parameter>
+	<parameter name="emission_color" expression="0">1 1 1 1</parameter>
+</material>

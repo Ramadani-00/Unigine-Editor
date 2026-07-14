@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.19.0.3">
+	<node type="NodeDummy" id="17846559" name="KRI Belati">
+		<transform>1 1.74845560007e-07 0 0.0 -1.74845560007e-07 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="916220914" immovable="1" name="Body_Belati">
+			<mesh_name>guid://eb2bb798f9ad702a88d16185fbc8ec41f56b92a3</mesh_name>
+			<surface name="Belati" intersection="1" material="9235b9a20184c3bd7ef717b7be2551f8040cda85"/>
+			<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			<node type="ObjectMeshStatic" id="1610930857" immovable="1" name="20mm_Base_R">
+				<mesh_name>guid://21ffa0b02b243916f9a337075fb7de3fe13d57a6</mesh_name>
+				<surface name="Belati" intersection="1" material="9235b9a20184c3bd7ef717b7be2551f8040cda85"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 2.97433423007 -9.05828700319 7.38297424316 1.0</transform>
+				<node type="ObjectMeshStatic" id="1716413428" immovable="1" name="20mm_Launcher_R">
+					<mesh_name>guid://ec77ae8ab94cc205887e103f64762badacae8acd</mesh_name>
+					<surface name="Belati" intersection="1" material="9235b9a20184c3bd7ef717b7be2551f8040cda85"/>
+					<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 0.00422117334862 -0.20655517615 0.0578295898437 1.0</transform>
+				</node>
+			</node>
+			<node type="ObjectMeshStatic" id="1829846723" immovable="1" name="20mm_Base_L">
+				<mesh_name>guid://a84a9d623e9004fb7659ad91b57a46741a9eadc8</mesh_name>
+				<surface name="Belati" intersection="1" material="9235b9a20184c3bd7ef717b7be2551f8040cda85"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -2.97835497891 -9.05829624841 7.3830255127 1.0</transform>
+				<node type="ObjectMeshStatic" id="1180423494" immovable="1" name="20mm_Launcher_L">
+					<mesh_name>guid://53aafacc40763cc442a2c989515f6099c8437687</mesh_name>
+					<surface name="Belati" intersection="1" material="9235b9a20184c3bd7ef717b7be2551f8040cda85"/>
+					<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 0.00422056299706 -0.20655517615 0.0578295898437 1.0</transform>
+				</node>
+			</node>
+			<node type="ObjectMeshStatic" id="971549677" immovable="1" name="40mm_Base">
+				<mesh_name>guid://68bce56426be9c27079cd32bdcb3ea38dc44c23a</mesh_name>
+				<surface name="Belati" intersection="1" material="9235b9a20184c3bd7ef717b7be2551f8040cda85"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 1.44302919906e-06 16.5063293457 3.90232330322 1.0</transform>
+				<node type="ObjectMeshStatic" id="736435304" immovable="1" name="40mm_Launcher">
+					<mesh_name>guid://c6c1fcde7c27ea85499c6fe371822801c8f9ec51</mesh_name>
+					<surface name="Belati" intersection="1" material="9235b9a20184c3bd7ef717b7be2551f8040cda85"/>
+					<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -5.88129021163e-06 0.00437011718801 1.76927947998 1.0</transform>
+				</node>
+			</node>
+			<node type="ObjectMeshStatic" id="109761703" immovable="1" name="Anchor_R001">
+				<mesh_name>guid://0687c936be50776939291e55109bc37d1931397c</mesh_name>
+				<surface name="Belati" intersection="1" material="9235b9a20184c3bd7ef717b7be2551f8040cda85"/>
+				<transform>1 -1.34995875969e-21 1.52854843274e-14 0.0 -1.29701920048e-21 1 1.74845553147e-07 0.0 -1.52854843274e-14 -1.74845553147e-07 1 0.0 -0.922143714333 26.1003052564 1.20418807983 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="646269402" immovable="1" name="Propeller_L">
+				<mesh_name>guid://4d27094046452a9e9e85a9cded348674bdf246ab</mesh_name>
+				<surface name="Belati" intersection="1" material="9235b9a20184c3bd7ef717b7be2551f8040cda85"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -2.07234097619 -24.124213686 -1.77371826172 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="48926577" immovable="1" name="Radar_1">
+				<mesh_name>guid://d4740d582b1827e0471ae98f3b4b00305097ac0e</mesh_name>
+				<surface name="Belati" intersection="1" material="9235b9a20184c3bd7ef717b7be2551f8040cda85"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -8.91731027224e-06 -3.38691894531 16.387947998 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="1502102044" immovable="1" name="Radar_2">
+				<mesh_name>guid://353b887259189145c6a481c705f15b63900e4415</mesh_name>
+				<surface name="Belati" intersection="1" material="9235b9a20184c3bd7ef717b7be2551f8040cda85"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -0.103296903123 1.05281617114 10.7728271484 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="124614347" immovable="1" name="Anchor_R002">
+				<mesh_name>guid://1b870a4ada67fbd61de913597a140624e255c670</mesh_name>
+				<surface name="Belati" intersection="1" material="9235b9a20184c3bd7ef717b7be2551f8040cda85"/>
+				<transform>1 -1.34995875969e-21 1.52854843274e-14 0.0 -1.29701920048e-21 1 1.74845553147e-07 0.0 -1.52854843274e-14 -1.74845553147e-07 1 0.0 0.92215224514 26.1003050952 1.20418807983 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="1411767726" immovable="1" name="Propeller_L001">
+				<mesh_name>guid://88c616f4e20faf9ac15106516ffb6b7248caa70f</mesh_name>
+				<surface name="Belati" intersection="1" material="9235b9a20184c3bd7ef717b7be2551f8040cda85"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 2.07233797888 -24.1242140484 -1.77371826172 1.0</transform>
+			</node>
+		</node>
+	</node>
+</nodes>

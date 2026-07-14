@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>569650316b0204e511777e4deaba12805cf0eb93</guid>
+	<type>component</type>
+	<hash>8d1b4e03</hash>
+	<runtimes>
+		<runtime id="569650316b0204e511777e4deaba12805cf0eb93" name="bearing.cs" link="0"/>
+		<runtime id="96e800a7ff3500c424b45063db8ebf5018ecd2f9" name="bearing.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

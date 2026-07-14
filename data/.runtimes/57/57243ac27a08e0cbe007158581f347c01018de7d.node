@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.19.0.3">
+	<node type="NodeDummy" id="1415392050" name="Black Shark">
+		<transform>1 1.74845560007e-07 0 0.0 -1.74845560007e-07 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="1547833577" immovable="1" name="Black Shark Torpedo">
+			<mesh_name>guid://debc44b04afcd26d0cd61b694213f4fab08d0db8</mesh_name>
+			<surface name="BlackShark" intersection="1" material="33b8cb682854908d41358ad3de0be5fe1edb4dcb"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 0 0 0 1.0</transform>
+			<node type="ObjectMeshStatic" id="1699194164" immovable="1" name="Propeller_1">
+				<mesh_name>guid://90c071c47f64e5e7bf02e43f9b2d5536be07f5b7</mesh_name>
+				<surface name="BlackShark" intersection="1" material="33b8cb682854908d41358ad3de0be5fe1edb4dcb"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -3.79332314684e-07 -2.89270379068 1.26444107575e-07 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="251203331" immovable="1" name="Propeller_2">
+				<mesh_name>guid://86cfe162e6d2d26548bfc4c350d7571f0d9c57aa</mesh_name>
+				<surface name="BlackShark" intersection="1" material="33b8cb682854908d41358ad3de0be5fe1edb4dcb"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -3.98551205965e-07 -3.03926279167 1.32850403556e-07 1.0</transform>
+			</node>
+		</node>
+	</node>
+</nodes>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>5426d69ff973968e0dd9c1aea0f111706677d010</guid>
+	<type>component</type>
+	<hash>762783cc</hash>
+	<runtimes>
+		<runtime id="5426d69ff973968e0dd9c1aea0f111706677d010" name="HlicopterSwitchManager.cs" link="0"/>
+	</runtimes>
+</asset>

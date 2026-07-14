@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>b4ff8e6aefbaa2de387dcf9eee91b49d3c2c8a18</guid>
+	<type>component</type>
+	<hash>bfff562f</hash>
+	<runtimes>
+		<runtime id="b4ff8e6aefbaa2de387dcf9eee91b49d3c2c8a18" name="misileexocet.cs" link="0"/>
+	</runtimes>
+</asset>

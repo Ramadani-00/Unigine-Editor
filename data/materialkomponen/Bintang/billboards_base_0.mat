@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="7feaecf2a3c6401ff9f10552a0ecc707bf21d9f7" base_material="ee4cbd68892b61a53e7ded930b825d0f53ac250e">
+	<options transparent="2" blend_src="5" blend_dest="6"/>
+	<state name="emission">1</state>
+	<state name="geometry_inflation">1</state>
+</material>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>b9e18cc6be86efaabe3b86f977a454983c710e71</guid>
+	<type>material_graph</type>
+	<hash>c8ad20bd</hash>
+	<runtimes>
+		<runtime id="b9e18cc6be86efaabe3b86f977a454983c710e71" name="blackshark.mgraph" link="0"/>
+		<runtime id="33b8cb682854908d41358ad3de0be5fe1edb4dcb" name="blackshark" link="1" type="5"/>
+	</runtimes>
+</asset>

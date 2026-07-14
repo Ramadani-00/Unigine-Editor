@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.19.0.3">
+	<node type="NodeDummy" id="1724153533" name="KRI 992">
+		<transform>1 1.74845560007e-07 0 0.0 -1.74845560007e-07 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="526233848" immovable="1" name="Bodi_DrSoeharsoClass991">
+			<mesh_name>guid://b3d24f75d4a8dab50e3a808279636f8166d046a8</mesh_name>
+			<surface name="992" intersection="1" material="73325c21ffd99356c429ae1eb31ca69a1e2ecce4"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 3.859611726e-06 0.513761520385 0 1.0</transform>
+			<node type="NodeDummy" id="1894498295" name="CameraView_L">
+				<transform>-2.50343499972e-07 -1 -8.74227800037e-08 0.0 -4.01339242098e-07 8.74228804764e-08 -1 0.0 1 -2.50343464885e-07 -4.01339263983e-07 0.0 -6.27263850919 36.5006569172 20.654590743 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="637738218" name="CameraView_Mid">
+				<transform>-2.50343499972e-07 -1 -8.74227800037e-08 0.0 -4.01339242098e-07 8.74228804764e-08 -1 0.0 1 -2.50343464885e-07 -4.01339263983e-07 0.0 -0.0043369012785 38.4282610572 20.654590743 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="989243201" name="CameraView_R">
+				<transform>-2.50343499972e-07 -1 -8.74227800037e-08 0.0 -4.01339242098e-07 8.74228804764e-08 -1 0.0 1 -2.50343464885e-07 -4.01339263983e-07 0.0 6.28049220034 36.5006558198 20.654590743 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="1458722732" name="CCTV_Heli">
+				<transform>-2.50343499972e-07 -1 -8.74227800037e-08 0.0 -4.01339242098e-07 8.74228804764e-08 -1 0.0 1 -2.50343464885e-07 -4.01339263983e-07 0.0 -0.00434585913152 -13.7177678056 20.3354817779 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="1165487899" immovable="1" name="Crane_L">
+				<mesh_name>guid://e11a9e298f0ea02ae3e383e0e310a634579179e7</mesh_name>
+				<surface name="992" intersection="1" material="73325c21ffd99356c429ae1eb31ca69a1e2ecce4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -9.34486531021 -15.5214836605 12.3262205937 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="1718475198" immovable="1" name="Crane_R">
+				<mesh_name>guid://2631cfaf5366cccbf768ad84803c153b8cf32e1a</mesh_name>
+				<surface name="992" intersection="1" material="73325c21ffd99356c429ae1eb31ca69a1e2ecce4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 9.18624557697 -15.5063485617 12.3262205937 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="2018686469" name="Flag_Bc">
+				<transform>-2.50343499972e-07 -1 -8.74227800037e-08 0.0 -4.01339242098e-07 8.74228804764e-08 -1 0.0 1 -2.50343464885e-07 -4.01339263983e-07 0.0 -0.00435009733736 -62.1971897412 13.9912091225 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="329592736" name="Flag_Fr">
+				<transform>-2.50343499972e-07 -1 -8.74227800037e-08 0.0 -4.01339242098e-07 8.74228804764e-08 -1 0.0 1 -2.50343464885e-07 -4.01339263983e-07 0.0 -0.00433483574247 61.884788922 13.9416943517 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="862723711" name="Port_Light">
+				<transform>-2.50343499972e-07 -1 -8.74227800037e-08 0.0 -4.01339242098e-07 8.74228804764e-08 -1 0.0 1 -2.50343464885e-07 -4.01339263983e-07 0.0 -10.1894817019 33.8763362584 19.4336434693 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="1736055250" name="Propeller_L">
+				<transform>-2.50343499972e-07 -1 -8.74227800037e-08 0.0 -4.01339242098e-07 8.74228804764e-08 -1 0.0 1 -2.50343464885e-07 -4.01339263983e-07 0.0 -5.35786380965 -58.5253523959 -3.09805299896 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="695070473" immovable="1" name="Propeller_L">
+				<mesh_name>guid://90b685831e04ba4a390bd4124d579590c9b0a6b1</mesh_name>
+				<surface name="992" intersection="1" material="73325c21ffd99356c429ae1eb31ca69a1e2ecce4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -5.36408171096 -57.8931273546 -3.10504343175 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="2082647252" name="Propeller_R">
+				<transform>-2.50343499972e-07 -1 -8.74227800037e-08 0.0 -4.01339242098e-07 8.74228804764e-08 -1 0.0 1 -2.50343464885e-07 -4.01339263983e-07 0.0 5.31730286771 -58.5253533291 -3.09805299896 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="1002582563" immovable="1" name="Propeller_R">
+				<mesh_name>guid://a32ab679946578278cf7fe56ef6b562a241af05c</mesh_name>
+				<surface name="992" intersection="1" material="73325c21ffd99356c429ae1eb31ca69a1e2ecce4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 5.34143326753 -57.8931282905 -3.10504343175 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="179335462" immovable="1" name="Radar">
+				<mesh_name>guid://5639e86d5f7875bff6dc9b94ecb051b5468dd00b</mesh_name>
+				<surface name="992" intersection="1" material="73325c21ffd99356c429ae1eb31ca69a1e2ecce4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -2.09910719769 28.205742252 26.1214238937 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="556783181" immovable="1" name="Railing_Back">
+				<mesh_name>guid://4a8146537ea3b38d7d5477784ec599a5a399e5ee</mesh_name>
+				<surface name="992" intersection="1" material="73325c21ffd99356c429ae1eb31ca69a1e2ecce4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -0.0416848360595 -62.3803104667 9.87558276019 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="1757709128" immovable="1" name="Railing_L">
+				<mesh_name>guid://0f5d116717315c5cc4530ae6183d5a00511a7475</mesh_name>
+				<surface name="992" intersection="1" material="73325c21ffd99356c429ae1eb31ca69a1e2ecce4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -10.6718612266 -38.0029824111 9.87823111378 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="750800391" immovable="1" name="Railing_R">
+				<mesh_name>guid://4c4685bd8ef1bd068b58b16a0a32909d449a7b50</mesh_name>
+				<surface name="992" intersection="1" material="73325c21ffd99356c429ae1eb31ca69a1e2ecce4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 10.5886150261 -38.0029842698 9.87745291553 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="1073263546" name="Rope_Bc">
+				<transform>-2.50343499972e-07 -1 -8.74227800037e-08 0.0 -4.01339242098e-07 8.74228804764e-08 -1 0.0 1 -2.50343464885e-07 -4.01339263983e-07 0.0 -0.00435009733736 -62.1971897412 10.3903790206 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="550907857" name="Rope_Fr">
+				<transform>-2.50343499972e-07 -1 -8.74227800037e-08 0.0 -4.01339242098e-07 8.74228804764e-08 -1 0.0 1 -2.50343464885e-07 -4.01339263983e-07 0.0 -0.00433483574247 61.884788922 10.2099333483 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="1774561020" name="Rope_L1">
+				<transform>-2.50343499972e-07 -1 -8.74227800037e-08 0.0 -4.01339242098e-07 8.74228804764e-08 -1 0.0 1 -2.50343464885e-07 -4.01339263983e-07 0.0 -7.13386076265 53.0854807104 6.9211836318 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="714921515" name="Rope_L2">
+				<transform>-2.50343499972e-07 -1 -8.74227800037e-08 0.0 -4.01339242098e-07 8.74228804764e-08 -1 0.0 1 -2.50343464885e-07 -4.01339263983e-07 0.0 -8.99700332651 46.9312602516 6.9211836318 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="1307440526" name="Rope_R1">
+				<transform>-2.50343499972e-07 -1 -8.74227800037e-08 0.0 -4.01339242098e-07 8.74228804764e-08 -1 0.0 1 -2.50343464885e-07 -4.01339263983e-07 0.0 7.10839454223 53.0854794653 6.9211836318 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="2084110229" name="Rope_R2">
+				<transform>-2.50343499972e-07 -1 -8.74227800037e-08 0.0 -4.01339242098e-07 8.74228804764e-08 -1 0.0 1 -2.50343464885e-07 -4.01339263983e-07 0.0 8.95507275022 46.9312586821 6.9211836318 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="917916656" name="SearchLightBridge_L1">
+				<transform>-2.50343499972e-07 -1 -8.74227800037e-08 0.0 -4.01339242098e-07 8.74228804764e-08 -1 0.0 1 -2.50343464885e-07 -4.01339263983e-07 0.0 -4.98089988853 37.6674582646 22.8546639997 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="274886287" name="SearchLightBridge_L2">
+				<transform>-2.50343499972e-07 -1 -8.74227800037e-08 0.0 -4.01339242098e-07 8.74228804764e-08 -1 0.0 1 -2.50343464885e-07 -4.01339263983e-07 0.0 -9.73705509024 30.4254981071 20.239498272 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="359828130" name="SearchLightBridge_R1">
+				<transform>-2.50343499972e-07 -1 -8.74227800037e-08 0.0 -4.01339242098e-07 8.74228804764e-08 -1 0.0 1 -2.50343464885e-07 -4.01339263983e-07 0.0 5.12603424876 37.667457381 22.8546639997 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="5147033" name="SearchLightBridge_R2">
+				<transform>-2.50343499972e-07 -1 -8.74227800037e-08 0.0 -4.01339242098e-07 8.74228804764e-08 -1 0.0 1 -2.50343464885e-07 -4.01339263983e-07 0.0 9.66272626492 30.4254983185 20.239498272 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="2066736676" name="Stbd_Light">
+				<transform>-2.50343499972e-07 -1 -8.74227800037e-08 0.0 -4.01339242098e-07 8.74228804764e-08 -1 0.0 1 -2.50343464885e-07 -4.01339263983e-07 0.0 10.2041646729 33.8763268462 19.4336434693 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="219413299" name="Stn_Li">
+				<transform>-2.50343499972e-07 -1 -8.74227800037e-08 0.0 -4.01339242098e-07 8.74228804764e-08 -1 0.0 1 -2.50343464885e-07 -4.01339263983e-07 0.0 -0.00435009733736 -62.1971897412 16.2832356574 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="1686374134" immovable="1" name="Anchor_R">
+				<mesh_name>guid://30b44ef17df2161e4f26c688ed43d06a5039166f</mesh_name>
+				<surface name="992" intersection="1" material="73325c21ffd99356c429ae1eb31ca69a1e2ecce4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 7.03993835814 52.9631421291 6.00827697905 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="535777757" immovable="1" name="Anchor_L">
+				<mesh_name>guid://0adddf37bac7f5dd7887f8ac61c52d953f1c5102</mesh_name>
+				<surface name="992" intersection="1" material="73325c21ffd99356c429ae1eb31ca69a1e2ecce4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -7.04823463957 53.0532236226 6.00827745588 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="885598616" name="An_Li">
+				<transform>-2.50343499972e-07 -1 -8.74227800037e-08 0.0 -4.01339242098e-07 8.74228804764e-08 -1 0.0 1 -2.50343464885e-07 -4.01339263983e-07 0.0 -0.00433483574247 61.884788922 15.9541817764 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="554737687" immovable="1" name="20mm_Base_L">
+				<mesh_name>guid://67c7938b926a30a3312706fabf2d35d0a257dc79</mesh_name>
+				<surface name="992" intersection="1" material="73325c21ffd99356c429ae1eb31ca69a1e2ecce4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -9.20528335827 -12.424838297 19.4468518587 1.0</transform>
+				<node type="ObjectMeshStatic" id="743390858" immovable="1" name="20mm_Launcher_L">
+					<mesh_name>guid://3f3bc141390aed355b956dbe3c6c8af9048e5b84</mesh_name>
+					<surface name="992" intersection="1" material="73325c21ffd99356c429ae1eb31ca69a1e2ecce4"/>
+					<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -0.00198938333452 -0.213872910784 0.706459050073 1.0</transform>
+				</node>
+			</node>
+			<node type="ObjectMeshStatic" id="718937185" immovable="1" name="20mm_Base_R">
+				<mesh_name>guid://79b315b5035a0a96809cb8bcf4a60fcd20043113</mesh_name>
+				<surface name="992" intersection="1" material="73325c21ffd99356c429ae1eb31ca69a1e2ecce4"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 9.09917347335 -12.4248418046 19.4468518587 1.0</transform>
+				<node type="ObjectMeshStatic" id="373951052" immovable="1" name="20mm_Launcher_R">
+					<mesh_name>guid://a8053e5bbaf34087920025205540b2b0530e0356</mesh_name>
+					<surface name="992" intersection="1" material="73325c21ffd99356c429ae1eb31ca69a1e2ecce4"/>
+					<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -0.00199129068283 -0.213869096086 0.706459050073 1.0</transform>
+				</node>
+			</node>
+		</node>
+	</node>
+</nodes>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>9da4330d5d7bed99621686f6b5e335f7811fe1d2</guid>
+	<type>material</type>
+	<hash>a03a6424</hash>
+	<runtimes>
+		<runtime id="9da4330d5d7bed99621686f6b5e335f7811fe1d2" name="barge" link="0" type="5"/>
+	</runtimes>
+</asset>

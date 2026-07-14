@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>4881fe2c9fbe527de747a372b67db98179fa10a5</guid>
+	<type>material_graph</type>
+	<hash>b27e649</hash>
+	<runtimes>
+		<runtime id="4881fe2c9fbe527de747a372b67db98179fa10a5" name="fth.mgraph" link="0"/>
+		<runtime id="2e5bef3ea1686b302d1039f425fa25642278721f" name="fth" link="1" type="5"/>
+	</runtimes>
+</asset>

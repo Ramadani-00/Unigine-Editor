@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.19.0.3">
+	<node type="NodeDummy" id="304114723" name="smoke_test">
+		<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 -4.7683716e-007 0 0 1.0</transform>
+		<node type="ObjectParticles" id="393962006" name="smoke_test_0">
+			<depth_sort>1</depth_sort>
+			<variation_x>1</variation_x>
+			<clear_on_enable>1</clear_on_enable>
+			<number_per_spawn>1</number_per_spawn>
+			<spawn_rate>4</spawn_rate>
+			<emitter_enabled>1</emitter_enabled>
+			<emitter_sync>0</emitter_sync>
+			<life_mean>6</life_mean>
+			<life_spread>0</life_spread>
+			<surface name="particles" physics_friction="1" physics_restitution="1" material="17c9e8b35f68748ef7e29b97e5ad24845cbde40a" lighting_mode="0"/>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 -9.8022442 -1.9920334 0 1.0</transform>
+			<angle_modifier value="20" value_min="-20" value_max="20" mode="1"/>
+			<radius_modifier value="1.6970563455583925" value_min="1.131370866869039" value_max="1.6970563455583925" mode="1"/>
+			<growth_modifier value="0.8485281713649825" value_min="0.5656854334345195" value_max="0.8485281713649825" mode="1"/>
+			<velocity_modifier value="2.5" value_min="1.5" value_max="2.5" mode="1"/>
+			<direction_modifier value="0 0 1" value_min="0 0 1" value_max="0 0 1" mode="1"/>
+			<gravity_modifier value="0 0.5 0" value_min="0 0.5 0" value_max="0 0.5 0" curve_scale="0.5" mode="0"/>
+			<physical_mass>0</physical_mass>
+		</node>
+		<node type="ObjectParticles" id="1179183449" name="smoke_test_2">
+			<depth_sort>1</depth_sort>
+			<variation_x>1</variation_x>
+			<clear_on_enable>1</clear_on_enable>
+			<number_per_spawn>1</number_per_spawn>
+			<spawn_rate>4</spawn_rate>
+			<emitter_enabled>1</emitter_enabled>
+			<emitter_sync>0</emitter_sync>
+			<life_mean>6</life_mean>
+			<life_spread>0</life_spread>
+			<surface name="particles" physics_friction="1" physics_restitution="1" material="ac7ec46e3d6eaaf945daf6f84e97f8aa30d6cc9e" lighting_mode="0"/>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 -0.40681177 -1.9920257 -9.5367443e-007 1.0</transform>
+			<angle_modifier value="20" value_min="-20" value_max="20" mode="1"/>
+			<radius_modifier value="1.6970563455583925" value_min="1.131370866869039" value_max="1.6970563455583925" mode="1"/>
+			<growth_modifier value="0.8485281713649825" value_min="0.5656854334345195" value_max="0.8485281713649825" mode="1"/>
+			<velocity_modifier value="2.5" value_min="1.5" value_max="2.5" mode="1"/>
+			<direction_modifier value="0 0 1" value_min="0 0 1" value_max="0 0 1" mode="1"/>
+			<gravity_modifier value="0 0.5 0" value_min="0 0.5 0" value_max="0 0.5 0" curve_scale="0.5" mode="0"/>
+			<physical_mass>0</physical_mass>
+		</node>
+	</node>
+</nodes>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>ec9f9d2013028c84574810ced3c83b89166b098d</guid>
+	<type>material</type>
+	<hash>c1519fcf</hash>
+	<runtimes>
+		<runtime id="ec9f9d2013028c84574810ced3c83b89166b098d" name="library_smoke_billow_debris" link="0" type="5"/>
+	</runtimes>
+</asset>

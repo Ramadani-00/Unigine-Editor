@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>27a82d4c345f8be702459278699fb8178516e572</guid>
+	<type>node</type>
+	<hash>6858dd06</hash>
+	<runtimes>
+		<runtime id="27a82d4c345f8be702459278699fb8178516e572" name="vfx_jet_engine.node" link="0" type="3"/>
+	</runtimes>
+</asset>

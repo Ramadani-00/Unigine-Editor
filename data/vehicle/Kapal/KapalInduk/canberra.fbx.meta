@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>769e3741da082d1cc0fe3304fa09807a3c354e41</guid>
+	<type>fbx</type>
+	<hash>55c37996</hash>
+	<runtimes>
+		<runtime id="769e3741da082d1cc0fe3304fa09807a3c354e41" name="canberra.fbx" link="0"/>
+		<runtime id="feac3f47a8a38f60efdc80d2c8a4e8f373b2dd07" name="canberra.node" link="1" type="3">
+			<parameters>
+				<parameter type="string" name="id">30718525</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="d74c543970c050dd1765e1ca78045648f643f6ba" name="body.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">710c2e31</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="01e56fd10985df7d9ec7965411b4dabfea5a96d1" name="radar2.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">e996dbe8</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="52f49a13b2f126823fd9e00c95c83bc2f588e1fc" name="propellerl.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">137eb73e</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="3dd5df6b158564a035e503a644daff015008d52b" name="propellerr.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">137eb73e</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="75167f7d92fc2000bd1ce41e5b68c7d4a303e88e" name="radar1.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">9359c439</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="381c8495da88dc65055bed481642b694c8285695" name="railing7.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">1ee7d296</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="fe2eeef7af2ac0c660e9c280eb834226ed87b6f0" name="railing1.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">3f3ebdaf</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="2c7c39cfdbfe847e57f70bba499e64403ca6dd8f" name="railing2.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">ba674a1b</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="07e7d7019f9de869836663b23f90f87870262da2" name="railing4.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">6e236f16</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="ba765d99fa436038ce66cb7ca88c9dd2995fd099" name="railing3.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">c00163fb</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="7d97ca1b2c4168fb5cb1e4342266dc6b925a8124" name="railing6.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">0d3d533</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="c52672733cb04da7fe106d0e0d1e1f1956ffda33" name="railing5.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">35acfe87</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="678a9ec5c78f1b8072dfb4863ff1a03ce75859f6" name="railing8.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">c89a2c53</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="fd46beddfb0ebc55d43224f08e521be0f8c988dd" name="railing9.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">b8d088ed</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="e43b0f7f15188d9f4827b928f7903ad288c7f498" name="door2.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">ef3c5969</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="ff85ed57ae7bfa3f1b643ba2d5bfd720bce2ef17" name="door1.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">dc0b838f</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="4ee55ac977ffd03f4a536a9a775ab8169877418a" name="anchorl.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">fb5266fb</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="2d95ac610e53d16e20bf2da45f030a8ae5144361" name="anchorr.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">05cf92e2</parameter>
+			</parameters>
+		</runtime>
+	</runtimes>
+	<parameters>
+		<parameter type="float" name="angular_deflection">0.699999988</parameter>
+		<parameter type="bool" name="asset_name_as_prefix">0</parameter>
+		<parameter type="string" name="base_material_mode">inherit_mesh_base</parameter>
+		<parameter type="float" name="bound_size">10000</parameter>
+		<parameter type="bool" name="create_transform_bones_for_joints">0</parameter>
+		<parameter type="float" name="fps">30</parameter>
+		<parameter type="string" name="front_axis">default</parameter>
+		<parameter type="bool" name="import_animations">1</parameter>
+		<parameter type="bool" name="import_bones_without_skin">1</parameter>
+		<parameter type="bool" name="import_cameras">1</parameter>
+		<parameter type="bool" name="import_lights">1</parameter>
+		<parameter type="bool" name="import_materials">1</parameter>
+		<parameter type="string" name="import_materials_mode">take_by_name_or_create</parameter>
+		<parameter type="bool" name="import_meshes">1</parameter>
+		<parameter type="bool" name="import_morph_targets">0</parameter>
+		<parameter type="bool" name="import_tangent_space">0</parameter>
+		<parameter type="bool" name="import_textures">1</parameter>
+		<parameter type="bool" name="invert_gchannel_for_normal_maps">0</parameter>
+		<parameter type="bool" name="joints_reorientation">1</parameter>
+		<parameter type="string" name="lightmaps">{&quot;guid://4ee55ac977ffd03f4a536a9a775ab8169877418a&quot;:{&quot;canberra&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://2d95ac610e53d16e20bf2da45f030a8ae5144361&quot;:{&quot;canberra&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://d74c543970c050dd1765e1ca78045648f643f6ba&quot;:{&quot;canberra&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://ff85ed57ae7bfa3f1b643ba2d5bfd720bce2ef17&quot;:{&quot;canberra&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://e43b0f7f15188d9f4827b928f7903ad288c7f498&quot;:{&quot;canberra&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://52f49a13b2f126823fd9e00c95c83bc2f588e1fc&quot;:{&quot;canberra&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://3dd5df6b158564a035e503a644daff015008d52b&quot;:{&quot;canberra&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://75167f7d92fc2000bd1ce41e5b68c7d4a303e88e&quot;:{&quot;canberra&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://01e56fd10985df7d9ec7965411b4dabfea5a96d1&quot;:{&quot;canberra&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://fe2eeef7af2ac0c660e9c280eb834226ed87b6f0&quot;:{&quot;canberra&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://2c7c39cfdbfe847e57f70bba499e64403ca6dd8f&quot;:{&quot;canberra&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://ba765d99fa436038ce66cb7ca88c9dd2995fd099&quot;:{&quot;canberra&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://07e7d7019f9de869836663b23f90f87870262da2&quot;:{&quot;canberra&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://c52672733cb04da7fe106d0e0d1e1f1956ffda33&quot;:{&quot;canberra&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://7d97ca1b2c4168fb5cb1e4342266dc6b925a8124&quot;:{&quot;canberra&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://381c8495da88dc65055bed481642b694c8285695&quot;:{&quot;canberra&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://678a9ec5c78f1b8072dfb4863ff1a03ce75859f6&quot;:{&quot;canberra&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://fd46beddfb0ebc55d43224f08e521be0f8c988dd&quot;:{&quot;canberra&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}}}</parameter>
+		<parameter type="float" name="linear_deflection">0.200000003</parameter>
+		<parameter type="string" name="lods">_lod_0,-1e+09,3,0,0,100,0,0,60;_lod_1,3,9,0,0,60,0,1,60;_lod_2,9,1e+09,0,0,30,0,1,60</parameter>
+		<parameter type="string" name="lods_mode">off</parameter>
+		<parameter type="string" name="material_guids">canberra,c313330b39086e40334148e469dc99c25bea87d4</parameter>
+		<parameter type="bool" name="merge_similar_materials">0</parameter>
+		<parameter type="bool" name="merge_static_meshes">0</parameter>
+		<parameter type="bool" name="merge_surfaces_by_materials">0</parameter>
+		<parameter type="float" name="morph_targets_normals_angle">180</parameter>
+		<parameter type="string" name="morph_targets_normals_mode">import</parameter>
+		<parameter type="bool" name="need_repivot">0</parameter>
+		<parameter type="bool" name="need_split">0</parameter>
+		<parameter type="bool" name="need_triagulate">1</parameter>
+		<parameter type="int" name="num_lods">3</parameter>
+		<parameter type="string" name="prefix_materials"/>
+		<parameter type="string" name="resolution">256</parameter>
+		<parameter type="float" name="scale">1</parameter>
+		<parameter type="bool" name="skip_empty_nodes">0</parameter>
+		<parameter type="int" name="smooth_animation_size">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_0">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_1">0</parameter>
+		<parameter type="string" name="up_axis">default</parameter>
+		<parameter type="bool" name="use_instances">1</parameter>
+		<parameter type="int" name="uv_ch">1</parameter>
+		<parameter type="bool" name="vertex_cache">1</parameter>
+		<parameter type="string" name="workflow">specular</parameter>
+	</parameters>
+</asset>

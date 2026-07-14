@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.19.0.3">
+	<node type="NodeDummy" id="1119741954" name="fire_4">
+		<transform>0.99999988 0 0 0.0 0 0.99999988 0 0.0 0 0 1 0.0 2.4795532e-005 0 0 1.0</transform>
+		<node type="ObjectParticles" id="2066513122" name="fire_lower">
+			<particles_type>1</particles_type>
+			<warming>0</warming>
+			<clear_on_enable>1</clear_on_enable>
+			<number_per_spawn>1</number_per_spawn>
+			<spawn_rate>6</spawn_rate>
+			<emitter_type>3</emitter_type>
+			<emitter_enabled>1</emitter_enabled>
+			<emitter_sync>0</emitter_sync>
+			<emitter_size>1 1 0</emitter_size>
+			<life_mean>1.5</life_mean>
+			<life_spread>0</life_spread>
+			<surface name="particles" material="11a7eea9240681c1e3ae5fb42abe1f4865a4ad02" lighting_mode="0"/>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 -0.081878662 -0.1803894 0.008096003 1.0</transform>
+			<radius_modifier value="0.5" value_min="0.5" value_max="0.5" mode="1"/>
+			<velocity_modifier value="0.100000001" value_min="0.100000001" value_max="0.100000001" mode="1"/>
+			<direction_modifier value="0 1 0" value_min="0 1 0" value_max="0 1 0" mode="1"/>
+			<physical_mass>0</physical_mass>
+		</node>
+		<node type="ObjectParticles" id="955087320" name="fire_low">
+			<particles_type>3</particles_type>
+			<warming>0</warming>
+			<variation_x>1</variation_x>
+			<clear_on_enable>1</clear_on_enable>
+			<number_per_spawn>1</number_per_spawn>
+			<spawn_rate>40</spawn_rate>
+			<emitter_type>3</emitter_type>
+			<emitter_enabled>1</emitter_enabled>
+			<emitter_sync>0</emitter_sync>
+			<emitter_size>1 1 0</emitter_size>
+			<life_mean>0.600000024</life_mean>
+			<life_spread>0</life_spread>
+			<surface name="particles" material="f4be9593587aead39fd2ad1b64781fb1e65d3db4" lighting_mode="0"/>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 -1.5258789e-005 3.0517578e-005 0.014474617 1.0</transform>
+			<angle_modifier value="15" value_min="-15" value_max="15" mode="1"/>
+			<radius_modifier value="0.400000006" value_min="0.400000006" value_max="0.400000006" mode="1"/>
+			<velocity_modifier value="0.100000001" value_min="0.100000001" value_max="0.100000001" mode="1"/>
+			<direction_modifier value="0 0 1" value_min="0 0 1" value_max="0 0 1" mode="1"/>
+			<node type="PhysicalForce" name="PhysicalForce">
+				<transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0.0946655273 1.32322407 1</transform>
+				<attenuation>1</attenuation>
+				<radius>1.5</radius>
+				<attractor>-30</attractor>
+				<rotator>0</rotator>
+			</node>
+			<physical_mass>1</physical_mass>
+		</node>
+		<node type="ObjectParticles" id="2084752285" name="fire_middle">
+			<warming>0</warming>
+			<variation_x>1</variation_x>
+			<clear_on_enable>1</clear_on_enable>
+			<number_per_spawn>1</number_per_spawn>
+			<spawn_rate>5</spawn_rate>
+			<emitter_type>1</emitter_type>
+			<emitter_enabled>1</emitter_enabled>
+			<emitter_sync>0</emitter_sync>
+			<emitter_size>0.100000001 0.5 0</emitter_size>
+			<life_mean>1.5</life_mean>
+			<life_spread>0</life_spread>
+			<surface name="particles" material="179ec4a3028fae5b1915c739846aee3f6ca7272e" lighting_mode="0"/>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 -0.078849792 0.24221802 0.60436761 1.0</transform>
+			<angle_modifier value="10" value_min="-10" value_max="10" mode="1"/>
+			<radius_modifier value="1.2727921721946602" value_min="0.7071067811865476" value_max="1.2727921721946602" mode="1"/>
+			<velocity_modifier value="0.100000001" value_min="0.100000001" value_max="0.100000001" mode="1"/>
+			<direction_modifier value="0 0 1" value_min="0 0 1" value_max="0 0 1" mode="1"/>
+			<gravity_modifier value="0 0 1" value_min="0 0 1" value_max="0 0 1" curve_scale="1" mode="0"/>
+			<physical_mass>0</physical_mass>
+		</node>
+		<node type="ObjectParticles" id="118880626" name="fire_smoke_dark">
+			<warming>0</warming>
+			<variation_x>1</variation_x>
+			<clear_on_enable>1</clear_on_enable>
+			<number_per_spawn>1</number_per_spawn>
+			<spawn_rate>8</spawn_rate>
+			<emitter_type>1</emitter_type>
+			<emitter_enabled>1</emitter_enabled>
+			<emitter_sequence>1</emitter_sequence>
+			<emitter_sync>0</emitter_sync>
+			<emitter_size>0.100000001 0.5 0</emitter_size>
+			<life_mean>4</life_mean>
+			<life_spread>3</life_spread>
+			<surface name="particles" material="a97232ef820f641566fed696e17e2e09a776cf48" lighting_mode="0"/>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0.052780151 0.16955566 0.5235157 1.0</transform>
+			<rotation_modifier value="50" value_min="-50" value_max="50" mode="2" curve_scale="50">
+				<curve_min>
+					<keys>
+						<key point="0 -nan(ind)" left_tangent="0 0" right_tangent="-0 -0"/>
+						<key point="0.0142857144 -nan(ind)" left_tangent="-0.00238095247 0" right_tangent="0.00238095247 -0"/>
+						<key point="0.0285714287 -nan(ind)" left_tangent="-0.0023809527 0" right_tangent="0.0023809527 -0"/>
+						<key point="0.042857144 -nan(ind)" left_tangent="-0.0023809527 0" right_tangent="0.0023809527 -0"/>
+						<key point="0.0571428575 -nan(ind)" left_tangent="-0.00238095247 0" right_tangent="0.00238095247 -0"/>
+						<key point="0.0714285746 -nan(ind)" left_tangent="-0.00238095317 0" right_tangent="0.00238095317 -0"/>
+						<key point="0.0857142881 -nan(ind)" left_tangent="-0.00238095224 0" right_tangent="0.00238095224 -0"/>
+						<key point="0.100000001 -nan(ind)" left_tangent="-0.00238095224 0" right_tangent="0.00238095224 -0"/>
+						<key point="0.114285715 -nan(ind)" left_tangent="-0.00238095247 0" right_tangent="0.00238095247 -0"/>
+						<key point="0.128571421 -nan(ind)" left_tangent="-0.00238095084 0" right_tangent="0.00238095084 -0"/>
+						<key point="0.142714292 -nan(ind)" left_tangent="-0.00235714531 0" right_tangent="0.00235714531 -0"/>
+						<key point="0.142857149 0" left_tangent="-2.38095727e-05 -0" right_tangent="2.38095727e-05 0"/>
+					</keys>
+				</curve_min>
+				<curve_max>
+					<keys>
+						<key point="0 1" left_tangent="0 0" right_tangent="-0 -0"/>
+						<key point="0.0142857144 0.951229453" left_tangent="-0.00238095247 0.00812842511" right_tangent="0.00238095247 -0.00812842511"/>
+						<key point="0.0285714287 0.90483743" left_tangent="-0.0023809527 0.00773200439" right_tangent="0.0023809527 -0.00773200439"/>
+						<key point="0.042857144 0.860707998" left_tangent="-0.0023809527 0.00735490536" right_tangent="0.0023809527 -0.00735490536"/>
+						<key point="0.0571428575 0.818730772" left_tangent="-0.00238095247 0.00699620461" right_tangent="0.00238095247 -0.00699620461"/>
+						<key point="0.0714285746 0.778800786" left_tangent="-0.00238095317 0.00665499829" right_tangent="0.00238095317 -0.00665499829"/>
+						<key point="0.0857142881 0.740818202" left_tangent="-0.00238095224 0.00633043051" right_tangent="0.00238095224 -0.00633043051"/>
+						<key point="0.100000001 0.704688072" left_tangent="-0.00238095224 0.00602168869" right_tangent="0.00238095224 -0.00602168869"/>
+						<key point="0.114285715 0.670320034" left_tangent="-0.00238095247 0.00572800636" right_tangent="0.00238095247 -0.00572800636"/>
+						<key point="0.128571421 0.637628138" left_tangent="-0.00238095084 0.00544864964" right_tangent="0.00238095084 -0.00544864964"/>
+						<key point="0.142714292 0.606833994" left_tangent="-0.00235714531 0.0051323548" right_tangent="0.00235714531 -0.0051323548"/>
+						<key point="0.142857149 0" left_tangent="-2.38095727e-05 0.101139002" right_tangent="2.38095727e-05 -0.101139002"/>
+					</keys>
+				</curve_max>
+			</rotation_modifier>
+			<radius_modifier value="0.9192388664542" value_min="0.7778174762757651" value_max="0.9192388664542" mode="1"/>
+			<growth_modifier value="0.07071067910860425" value_min="0.07071067910860425" value_max="0.07071067910860425" mode="2" curve_scale="0.0500000007">
+				<curve_min>
+					<keys>
+						<key point="0 -nan(ind)" left_tangent="0 0" right_tangent="-0 -0"/>
+						<key point="0.0142857144 -nan(ind)" left_tangent="-0.00238095247 0" right_tangent="0.00238095247 -0"/>
+						<key point="0.0285714287 -nan(ind)" left_tangent="-0.0023809527 0" right_tangent="0.0023809527 -0"/>
+						<key point="0.042857144 -nan(ind)" left_tangent="-0.0023809527 0" right_tangent="0.0023809527 -0"/>
+						<key point="0.0571428575 -nan(ind)" left_tangent="-0.00238095247 0" right_tangent="0.00238095247 -0"/>
+						<key point="0.0714285746 -nan(ind)" left_tangent="-0.00238095317 0" right_tangent="0.00238095317 -0"/>
+						<key point="0.0857142881 -nan(ind)" left_tangent="-0.00238095224 0" right_tangent="0.00238095224 -0"/>
+						<key point="0.100000001 -nan(ind)" left_tangent="-0.00238095224 0" right_tangent="0.00238095224 -0"/>
+						<key point="0.114285715 -nan(ind)" left_tangent="-0.00238095247 0" right_tangent="0.00238095247 -0"/>
+						<key point="0.128571421 -nan(ind)" left_tangent="-0.00238095084 0" right_tangent="0.00238095084 -0"/>
+						<key point="0.142714292 -nan(ind)" left_tangent="-0.00235714531 0" right_tangent="0.00235714531 -0"/>
+						<key point="0.142857149 0" left_tangent="-2.38095727e-05 -0" right_tangent="2.38095727e-05 0"/>
+					</keys>
+				</curve_min>
+				<curve_max>
+					<keys>
+						<key point="0 1" left_tangent="0 0" right_tangent="-0 -0"/>
+						<key point="0.0142857144 0.990049839" left_tangent="-0.00238095247 0.00165836012" right_tangent="0.00238095247 -0.00165836012"/>
+						<key point="0.0285714287 0.980198681" left_tangent="-0.0023809527 0.00164185965" right_tangent="0.0023809527 -0.00164185965"/>
+						<key point="0.042857144 0.970445514" left_tangent="-0.0023809527 0.00162552798" right_tangent="0.0023809527 -0.00162552798"/>
+						<key point="0.0571428575 0.960789442" left_tangent="-0.00238095247 0.0016093452" right_tangent="0.00238095247 -0.0016093452"/>
+						<key point="0.0714285746 0.951229453" left_tangent="-0.00238095317 0.00159333146" right_tangent="0.00238095317 -0.00159333146"/>
+						<key point="0.0857142881 0.941764534" left_tangent="-0.00238095224 0.00157748663" right_tangent="0.00238095224 -0.00157748663"/>
+						<key point="0.100000001 0.932393849" left_tangent="-0.00238095224 0.00156178081" right_tangent="0.00238095224 -0.00156178081"/>
+						<key point="0.114285715 0.923116326" left_tangent="-0.00238095247 0.00154625392" right_tangent="0.00238095247 -0.00154625392"/>
+						<key point="0.128571421 0.913931191" left_tangent="-0.00238095084 0.00153085589" right_tangent="0.00238095084 -0.00153085589"/>
+						<key point="0.142714292 0.904927909" left_tangent="-0.00235714531 0.00150054693" right_tangent="0.00235714531 -0.00150054693"/>
+						<key point="0.142857149 0" left_tangent="-2.38095727e-05 0.150821328" right_tangent="2.38095727e-05 -0.150821328"/>
+					</keys>
+				</curve_max>
+			</growth_modifier>
+			<velocity_modifier value="4.5" value_min="3.5" value_max="4.5" mode="1"/>
+			<direction_modifier value="0.300000012 0.300000012 1" value_min="-0.300000012 -0.300000012 1" value_max="0.300000012 0.300000012 1" mode="1"/>
+			<gravity_modifier value="0 0 2" value_min="0 0 2" value_max="0 0 2" curve_scale="2" mode="0"/>
+			<physical_mass>0</physical_mass>
+			<linear_damping_modifier value="3" value_min="3" value_max="3" curve_scale="3" mode="0"/>
+		</node>
+		<node type="ObjectParticles" id="755166869" name="fire_smoke_light">
+			<warming>0</warming>
+			<variation_x>1</variation_x>
+			<clear_on_enable>1</clear_on_enable>
+			<number_per_spawn>1</number_per_spawn>
+			<spawn_rate>16</spawn_rate>
+			<emitter_type>1</emitter_type>
+			<emitter_enabled>1</emitter_enabled>
+			<emitter_sync>0</emitter_sync>
+			<emitter_size>0.200000003 0.5 0</emitter_size>
+			<life_mean>2</life_mean>
+			<life_spread>1</life_spread>
+			<surface name="particles" material="98ae09e0ac377229b30a47e7f687e109f5a9ce6b" lighting_mode="0"/>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0.052764893 -0.0035400391 -0.38533309 1.0</transform>
+			<rotation_modifier value="50" value_min="-50" value_max="50" mode="2" curve_scale="50">
+				<curve_min>
+					<keys>
+						<key point="0 -nan(ind)" left_tangent="0 0" right_tangent="-0 -0"/>
+						<key point="0.0333333351 -nan(ind)" left_tangent="-0.00555555616 0" right_tangent="0.00555555616 -0"/>
+						<key point="0.0666666701 -nan(ind)" left_tangent="-0.00555555522 0" right_tangent="0.00555555522 -0"/>
+						<key point="0.100000001 -nan(ind)" left_tangent="-0.00555555569 0" right_tangent="0.00555555569 -0"/>
+						<key point="0.13333334 -nan(ind)" left_tangent="-0.00555555709 0" right_tangent="0.00555555709 -0"/>
+						<key point="0.166666672 -nan(ind)" left_tangent="-0.00555555522 0" right_tangent="0.00555555522 -0"/>
+						<key point="0.200000003 -nan(ind)" left_tangent="-0.00555555522 0" right_tangent="0.00555555522 -0"/>
+						<key point="0.233333334 -nan(ind)" left_tangent="-0.00555555522 0" right_tangent="0.00555555522 -0"/>
+						<key point="0.266666681 -nan(ind)" left_tangent="-0.00555555802 0" right_tangent="0.00555555802 -0"/>
+						<key point="0.299999982 -nan(ind)" left_tangent="-0.00555555057 0" right_tangent="0.00555555057 -0"/>
+						<key point="0.333000004 -nan(ind)" left_tangent="-0.0055000037 0" right_tangent="0.0055000037 -0"/>
+						<key point="0.333333343 0" left_tangent="-5.55564984e-05 -0" right_tangent="5.55564984e-05 0"/>
+					</keys>
+				</curve_min>
+				<curve_max>
+					<keys>
+						<key point="0 1" left_tangent="0 0" right_tangent="-0 -0"/>
+						<key point="0.0333333351 0.951229453" left_tangent="-0.00555555616 0.00812842511" right_tangent="0.00555555616 -0.00812842511"/>
+						<key point="0.0666666701 0.90483743" left_tangent="-0.00555555522 0.00773200439" right_tangent="0.00555555522 -0.00773200439"/>
+						<key point="0.100000001 0.860707998" left_tangent="-0.00555555569 0.00735490536" right_tangent="0.00555555569 -0.00735490536"/>
+						<key point="0.13333334 0.818730772" left_tangent="-0.00555555709 0.00699620461" right_tangent="0.00555555709 -0.00699620461"/>
+						<key point="0.166666672 0.778800786" left_tangent="-0.00555555522 0.00665499829" right_tangent="0.00555555522 -0.00665499829"/>
+						<key point="0.200000003 0.740818202" left_tangent="-0.00555555522 0.00633043051" right_tangent="0.00555555522 -0.00633043051"/>
+						<key point="0.233333334 0.704688072" left_tangent="-0.00555555522 0.00602168869" right_tangent="0.00555555522 -0.00602168869"/>
+						<key point="0.266666681 0.670320034" left_tangent="-0.00555555802 0.00572800636" right_tangent="0.00555555802 -0.00572800636"/>
+						<key point="0.299999982 0.637628138" left_tangent="-0.00555555057 0.00544864964" right_tangent="0.00555555057 -0.00544864964"/>
+						<key point="0.333000004 0.606833994" left_tangent="-0.0055000037 0.0051323548" right_tangent="0.0055000037 -0.0051323548"/>
+						<key point="0.333333343 0" left_tangent="-5.55564984e-05 0.101139002" right_tangent="5.55564984e-05 -0.101139002"/>
+					</keys>
+				</curve_max>
+			</rotation_modifier>
+			<radius_modifier value="0.636396128523737" value_min="0.4949747383453019" value_max="0.636396128523737" mode="1"/>
+			<growth_modifier value="0.07071067910860425" value_min="0.07071067910860425" value_max="0.07071067910860425" mode="2" curve_scale="0.0500000007">
+				<curve_min>
+					<keys>
+						<key point="0 -nan(ind)" left_tangent="0 0" right_tangent="-0 -0"/>
+						<key point="0.0333333351 -nan(ind)" left_tangent="-0.00555555616 0" right_tangent="0.00555555616 -0"/>
+						<key point="0.0666666701 -nan(ind)" left_tangent="-0.00555555522 0" right_tangent="0.00555555522 -0"/>
+						<key point="0.100000001 -nan(ind)" left_tangent="-0.00555555569 0" right_tangent="0.00555555569 -0"/>
+						<key point="0.13333334 -nan(ind)" left_tangent="-0.00555555709 0" right_tangent="0.00555555709 -0"/>
+						<key point="0.166666672 -nan(ind)" left_tangent="-0.00555555522 0" right_tangent="0.00555555522 -0"/>
+						<key point="0.200000003 -nan(ind)" left_tangent="-0.00555555522 0" right_tangent="0.00555555522 -0"/>
+						<key point="0.233333334 -nan(ind)" left_tangent="-0.00555555522 0" right_tangent="0.00555555522 -0"/>
+						<key point="0.266666681 -nan(ind)" left_tangent="-0.00555555802 0" right_tangent="0.00555555802 -0"/>
+						<key point="0.299999982 -nan(ind)" left_tangent="-0.00555555057 0" right_tangent="0.00555555057 -0"/>
+						<key point="0.333000004 -nan(ind)" left_tangent="-0.0055000037 0" right_tangent="0.0055000037 -0"/>
+						<key point="0.333333343 0" left_tangent="-5.55564984e-05 -0" right_tangent="5.55564984e-05 0"/>
+					</keys>
+				</curve_min>
+				<curve_max>
+					<keys>
+						<key point="0 1" left_tangent="0 0" right_tangent="-0 -0"/>
+						<key point="0.0333333351 0.990049839" left_tangent="-0.00555555616 0.00165836012" right_tangent="0.00555555616 -0.00165836012"/>
+						<key point="0.0666666701 0.980198681" left_tangent="-0.00555555522 0.00164185965" right_tangent="0.00555555522 -0.00164185965"/>
+						<key point="0.100000001 0.970445514" left_tangent="-0.00555555569 0.00162552798" right_tangent="0.00555555569 -0.00162552798"/>
+						<key point="0.13333334 0.960789442" left_tangent="-0.00555555709 0.0016093452" right_tangent="0.00555555709 -0.0016093452"/>
+						<key point="0.166666672 0.951229453" left_tangent="-0.00555555522 0.00159333146" right_tangent="0.00555555522 -0.00159333146"/>
+						<key point="0.200000003 0.941764534" left_tangent="-0.00555555522 0.00157748663" right_tangent="0.00555555522 -0.00157748663"/>
+						<key point="0.233333334 0.932393849" left_tangent="-0.00555555522 0.00156178081" right_tangent="0.00555555522 -0.00156178081"/>
+						<key point="0.266666681 0.923116326" left_tangent="-0.00555555802 0.00154625392" right_tangent="0.00555555802 -0.00154625392"/>
+						<key point="0.299999982 0.913931191" left_tangent="-0.00555555057 0.00153085589" right_tangent="0.00555555057 -0.00153085589"/>
+						<key point="0.333000004 0.904927909" left_tangent="-0.0055000037 0.00150054693" right_tangent="0.0055000037 -0.00150054693"/>
+						<key point="0.333333343 0" left_tangent="-5.55564984e-05 0.150821328" right_tangent="5.55564984e-05 -0.150821328"/>
+					</keys>
+				</curve_max>
+			</growth_modifier>
+			<velocity_modifier value="4.5" value_min="3.5" value_max="4.5" mode="1"/>
+			<direction_modifier value="0.400000006 0.400000006 1" value_min="-0.400000006 -0.400000006 1" value_max="0.400000006 0.400000006 1" mode="1"/>
+			<gravity_modifier value="0 0 2" value_min="0 0 2" value_max="0 0 2" curve_scale="2" mode="0"/>
+			<physical_mass>0</physical_mass>
+			<linear_damping_modifier value="3" value_min="3" value_max="3" curve_scale="3" mode="0"/>
+		</node>
+	</node>
+</nodes>

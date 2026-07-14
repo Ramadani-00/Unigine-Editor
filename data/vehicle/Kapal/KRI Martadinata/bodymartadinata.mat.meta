@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>de514828dbd59790755e053d2f95a3d4502f7219</guid>
+	<type>material</type>
+	<hash>73222e45</hash>
+	<runtimes>
+		<runtime id="de514828dbd59790755e053d2f95a3d4502f7219" name="bodymartadinata" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

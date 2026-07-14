@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>8cc107cadbecd67d5e0ea2bf16e1793578bf5ca6</guid>
+	<type>material</type>
+	<hash>f6151797</hash>
+	<runtimes>
+		<runtime id="8cc107cadbecd67d5e0ea2bf16e1793578bf5ca6" name="library_rocket_smoke_billow_light" link="0" type="5"/>
+	</runtimes>
+</asset>

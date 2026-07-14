@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="a97232ef820f641566fed696e17e2e09a776cf48" parent="912af80f474679e4b9c149c9c1196081544cd1ac" base_material="b7c07dfd4ce80edac55fcbfdd0befa02ccd20b88">
+	<options blend_src="5" blend_dest="6" depth_test="1" cast_shadow="0" cast_world_shadow="1" overlap="0"/>
+	<state name="albedo_color_type">1</state>
+	<state name="normal_map">1</state>
+	<state name="ambient">1</state>
+	<state name="world_shadow">1</state>
+	<state name="lerp_cascades">1</state>
+	<state name="transparent_scene_depth">0</state>
+	<texture name="albedo">guid://859a9c54e3c65ba3c8ef8ca69ed93bcdb24faac8</texture>
+	<texture name="albedo_color">
+		<curve2d>
+			<keys>
+				<key point="0 0.200000003" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1 0.200000003" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0 0.200000003" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1 0.200000003" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0 0.200000003" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1 0.200000003" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="-0.000857142266 -0.158571646" left_tangent="0 0" right_tangent="0.310857236 2.09828305"/>
+				<key point="1 -0.0500000007" left_tangent="-0.573142588 0.526284814" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+	</texture>
+	<texture name="normal">guid://8b90810e808f1515d526637010f0a00f99e40e22</texture>
+	<parameter name="albedo_color" expression="0">0.325490206 0.325490206 0.325490206 1</parameter>
+	<parameter name="animation_size" expression="0">8 4</parameter>
+	<parameter name="animation_scale" expression="0">1</parameter>
+	<parameter name="normal_scale" expression="0">1.39999998</parameter>
+	<parameter name="transparent_blur" expression="0">0.0028299999</parameter>
+	<parameter name="soft_interaction_scale" expression="0">0.419730008</parameter>
+	<parameter name="environment_scale" expression="0">1</parameter>
+	<parameter name="diffuse_scale" expression="0">1</parameter>
+	<parameter name="emission_scale" expression="0">0.865999997</parameter>
+	<parameter name="translucent" expression="0">0.654389977</parameter>
+	<parameter name="translucent_depth" expression="0">7.84700012</parameter>
+	<parameter name="shadow_threshold" expression="0">0.100000001</parameter>
+</material>

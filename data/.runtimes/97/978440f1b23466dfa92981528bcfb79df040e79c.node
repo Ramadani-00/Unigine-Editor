@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.19.0.3">
+	<node type="NodeDummy" id="288933225" name="KRI 405">
+		<transform>1 1.74845560007e-07 0 0.0 -1.74845560007e-07 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="37343156" immovable="1" name="Bodi_NagapasaClass">
+			<mesh_name>guid://e794f2b9c51c03f78e237aacbbc90e95ea3ede4b</mesh_name>
+			<surface name="405" intersection="1" material="7d8a806109b70a551bdd3a8229250e6ec324f04c"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 0.000560760498047 -4.90232416555e-11 0 1.0</transform>
+			<node type="NodeDummy" id="716453763" name="Camera_View">
+				<transform>9.9347685368e-08 1 -2.78181352283e-08 0.0 2.82129971669e-07 -2.78181632573e-08 -1 0.0 -1 9.93476775197e-08 -2.82129974432e-07 0.0 -0.154763808988 5.56672053596 7.01003222324 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="561968902" name="Propeller">
+				<transform>9.9347685368e-08 1 -2.78181352283e-08 0.0 2.82129971669e-07 -2.78181632573e-08 -1 0.0 -1 9.93476775197e-08 -2.82129974432e-07 0.0 -0.000560085233678 -33.9986536362 -2.69819404476 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="635691693" immovable="1" name="Propeller">
+				<mesh_name>guid://039b658b756c009ac2acfad497048a1ae3851f2e</mesh_name>
+				<surface name="405" intersection="1" material="7d8a806109b70a551bdd3a8229250e6ec324f04c"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -0.0148839664369 -32.3977968434 -2.72708894622 1.0</transform>
+			</node>
+		</node>
+	</node>
+</nodes>

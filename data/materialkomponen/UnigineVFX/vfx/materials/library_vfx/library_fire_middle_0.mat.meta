@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>11ea1d49491e8614345bba63a505dc667981c88d</guid>
+	<type>material</type>
+	<hash>eccdf2da</hash>
+	<runtimes>
+		<runtime id="11ea1d49491e8614345bba63a505dc667981c88d" name="library_fire_middle_0" link="0" type="5"/>
+	</runtimes>
+</asset>

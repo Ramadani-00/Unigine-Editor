@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>692329d24a76f00fcc809854444787a23218f6d0</guid>
+	<type>component</type>
+	<hash>988d7293</hash>
+	<runtimes>
+		<runtime id="692329d24a76f00fcc809854444787a23218f6d0" name="Ombak.cs" link="0"/>
+		<runtime id="47fdd3a09e1c46d1ce0a42d28fd498422592356e" name="Ombak.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

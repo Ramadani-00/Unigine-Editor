@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.19.0.3" name="ShipDoorController" guid="3090db8d15bc49f49fc6d86e38673f5d7dd2c6de" parent="657ecdbbfc83135a26777f86012da3587b67be0c" editable="0">
+	<parameter name="doorNode" type="node"/>
+	<parameter name="openSpeed" type="float">45</parameter>
+	<parameter name="openAngle" type="float">90</parameter>
+	<parameter name="doorType" type="int">0</parameter>
+	<parameter name="startAngle" type="float">0</parameter>
+</property>

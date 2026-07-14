@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net8.0</TargetFramework>
+		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+		<GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+		<GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
+		<GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+		<GenerateAssemblyFileVersionAttribute>false</GenerateAssemblyFileVersionAttribute>
+		<GenerateAssemblyTitleAttribute>false</GenerateAssemblyTitleAttribute>
+		<GenerateAssemblyVersionAttribute>false</GenerateAssemblyVersionAttribute>
+		<RootNamespace>UnigineApp</RootNamespace>
+		<StartupObject>UnigineApp.UnigineApp</StartupObject>
+		<WarningLevel>4</WarningLevel>
+		<OutputPath>bin</OutputPath>
+		<EnableDefaultItems>false</EnableDefaultItems>
+		<SkipPostBuild>false</SkipPostBuild>
+		<Platforms>x64</Platforms>
+		<PlatformTarget>x64</PlatformTarget>
+		<DebugType>portable</DebugType>
+		<DOTNET_HOST_PATH Condition="&apos;$(DOTNET_HOST_PATH)&apos; == &apos;&apos;">dotnet</DOTNET_HOST_PATH>
+	</PropertyGroup>
+	<PropertyGroup Condition="&apos;$(Configuration)&apos;==&apos;Debug&apos;">
+		<AssemblyName>smallboat_x64d</AssemblyName>
+		<DebugSymbols>true</DebugSymbols>
+		<Optimize>false</Optimize>
+		<DefineConstants>TRACE;DEBUG;UNIGINE_DOUBLE;</DefineConstants>
+	</PropertyGroup>
+	<ItemGroup Condition="&apos;$(Configuration)&apos;==&apos;Debug&apos;">
+		<Reference Include="UnigineSharp_double_x64d">
+			<SpecificVersion>false</SpecificVersion>
+			<HintPath>bin\UnigineSharp_double_x64d.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+	<PropertyGroup Condition="&apos;$(Configuration)&apos;==&apos;Release&apos;">
+		<AssemblyName>smallboat_x64</AssemblyName>
+		<Optimize>true</Optimize>
+		<DefineConstants>TRACE;NDEBUG;UNIGINE_DOUBLE;</DefineConstants>
+	</PropertyGroup>
+	<ItemGroup Condition="&apos;$(Configuration)&apos;==&apos;Release&apos;">
+		<Reference Include="UnigineSharp_double_x64">
+			<SpecificVersion>false</SpecificVersion>
+			<HintPath>bin\UnigineSharp_double_x64.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+	<ItemGroup>
+		<Compile Include="data/Componets/ngapung.cs"/>
+		<Compile Include="data/Componets/foam.cs"/>
+		<Compile Include="data/Componets/radar.cs"/>
+		<Compile Include="data/Componets/door.cs"/>
+		<Compile Include="data/Componets/Ombak.cs"/>
+		<Compile Include="data/Componets/AircratController.cs"/>
+		<Compile Include="data/Componets/cameracontroller.cs"/>
+		<Compile Include="data/Componets/GunBaseController.cs"/>
+		<Compile Include="data/Componets/GunLauncher.cs"/>
+		<Compile Include="data/Componets/pagartengah.cs"/>
+		<Compile Include="data/ObjekBenda/kode/controller.cs"/>
+		<Compile Include="data/Componets/pagarkanan.cs"/>
+		<Compile Include="data/Componets/pagarkiri.cs"/>
+		<Compile Include="data/Componets/move.cs"/>
+		<Compile Include="data/Componets/ShipUI.cs"/>
+		<Compile Include="data/Componets/frontdoor.cs"/>
+		<Compile Include="data/codingancoba/Turet Bearing_Elevasi/bearing.cs"/>
+		<Compile Include="data/codingancoba/Turet Bearing_Elevasi/elevasi.cs"/>
+		<Compile Include="data/codingancoba/Turet Bearing_Elevasi/misileexocet.cs"/>
+		<Compile Include="data/Componets/majumanual.cs"/>
+		<Compile Include="data/Componets/ShipRemoteControl.cs"/>
+		<Compile Include="data/Componets/ShipTCPManager.cs"/>
+		<Compile Include="data/Componets/MissileVLMICA.cs"/>
+		<Compile Include="data/Componets/ShipDamageHandler.cs"/>
+		<Compile Include="data/Componets/buoyancy.cs"/>
+		<Compile Include="data/Componets/TorpedoLauncher.cs"/>
+		<Compile Include="data/Componets/TorpedoBlackShark.cs"/>
+		<Compile Include="data/Componets/SubmarineSonar.cs"/>
+		<Compile Include="data/Componets/MissileExocetMM38.cs"/>
+		<Compile Include="data/Componets/helicontroller.cs"/>
+		<Compile Include="data/Componets/HlicopterSwitchManager.cs"/>
+		<Compile Include="data/Componets/Gun76mmController.cs"/>
+		<Compile Include="data/Componets/Clws35mmController.cs"/>
+		<Compile Include="data/Componets/TorpedoA244s.cs"/>
+		<Compile Include="data/Componets/Gun127mmController.cs"/>
+	</ItemGroup>
+	<ItemGroup>
+		<Compile Include="data\csharp_template\FP_controller\components\FirstPersonController.cs"/>
+		<Compile Include="source\AppEditorLogic.cs"/>
+		<Compile Include="source\AppSystemLogic.cs"/>
+		<Compile Include="source\AppWorldLogic.cs"/>
+		<Compile Include="source\main.cs"/>
+	</ItemGroup>
+	<Target Name="PostBuild" AfterTargets="PostBuildEvent">
+		<Exec Command="&quot;$(DOTNET_HOST_PATH)&quot; &quot;$(OutputPath)cspropgen_double_x64d.dll&quot; -p &quot;$(OutputPath)$(AssemblyName).dll&quot; -data_path ../data/" Condition="&apos;$(Configuration)&apos;==&apos;Debug&apos; And $(SkipPostBuild)==&apos;false&apos;"/>
+		<Exec Command="&quot;$(DOTNET_HOST_PATH)&quot; &quot;$(OutputPath)cspropgen_double_x64.dll&quot; -p &quot;$(OutputPath)$(AssemblyName).dll&quot; -data_path ../data/" Condition="&apos;$(Configuration)&apos;==&apos;Release&apos; And $(SkipPostBuild)==&apos;false&apos;"/>
+	</Target>
+</Project>

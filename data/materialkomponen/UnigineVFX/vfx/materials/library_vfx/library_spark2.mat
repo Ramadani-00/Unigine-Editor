@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="4251f9623ab1f80323e61ff80155ddd019187112" parent="cb3efb53459273a5337bfc1eaff041a5fd342807" base_material="b7c07dfd4ce80edac55fcbfdd0befa02ccd20b88">
+	<options blend_src="2" blend_dest="2"/>
+	<state name="emission">1</state>
+	<texture name="albedo">guid://f468af265a40d87f40d09178260f004ad551cf91</texture>
+	<texture name="emission">guid://f468af265a40d87f40d09178260f004ad551cf91</texture>
+	<parameter name="soft_interaction_scale" expression="0">0.619539976</parameter>
+	<parameter name="diffuse_scale" expression="0">1.21000004</parameter>
+	<parameter name="emission_scale" expression="0">52.6990013</parameter>
+	<parameter name="translucent" expression="0">0.375319988</parameter>
+	<parameter name="translucent_depth" expression="0">5.09000015</parameter>
+</material>

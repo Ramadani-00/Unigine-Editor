@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.19.0.3">
+	<node type="NodeDummy" id="588404640" name="Exocet MM40 B3">
+		<transform>1 1.74845560007e-07 0 0.0 -1.74845560007e-07 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="1642538623" immovable="1" name="Exocet MM40 B3">
+			<mesh_name>guid://e7384a49b8cdb97e9fd9801dc2dc0550d63abcf6</mesh_name>
+			<surface name="ExocetMM40" intersection="1" material="658d0c4c81494291ee85bec82ad1e21fe446cdd1"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 1.78813934326e-07 -1.56324112422e-14 0 1.0</transform>
+		</node>
+	</node>
+</nodes>

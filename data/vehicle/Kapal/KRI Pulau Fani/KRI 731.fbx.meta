@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>b38cd02de83aa8d9a81046a6b60d8b44b5598dc5</guid>
+	<type>fbx</type>
+	<hash>a468327d</hash>
+	<runtimes>
+		<runtime id="b38cd02de83aa8d9a81046a6b60d8b44b5598dc5" name="KRI 731.fbx" link="0"/>
+		<runtime id="b2f98ae9bbb4500dffa3543408c7ddfcdd095a5c" name="KRI 731.node" link="1" type="3">
+			<parameters>
+				<parameter type="string" name="id">76218a4d</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="6027227334d907dd3ecb83448986192102e5320b" name="bodi_mcmv.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">91934895</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="8de0504331743edd794ea486f5914f349715dfee" name="propeller_l.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">54f45121</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="d7d6eedd667266f1caa5da16f7d794fc7e022675" name="propeller_r.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">b5d34eb2</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="548dc12d9f19919b2b502928e469fdd13f4a8550" name="radar.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">e47aa07d</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="2d319d576b259b88f258c938278947822925986f" name="anchor.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">9e2cc83b</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="5a6da827c4e72bffedd15a9a6fae5d9b30eaeb02" name="20mm_base.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">a56d42fc</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="14c8dc61ed59f194b5cc692acfd6cfd74531ae79" name="20mm_launcher.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">9bd21e7d</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="01f3d3b1afde0b2e547f655c2715b418954a0584" name="12.7mm_base_r.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">bc7dcd9b</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="53a0fe7bb98a16fa074d866ce096b56dd947d313" name="12.7mm_launcher_r.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">03596244</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="0293b64b1e104b4c2a8a49eed3fd84bc80093d56" name="12.7mm_base_l.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">69217706</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="bbe99a25b5a930d21074c17e89b04e6968bd54bd" name="12.7mm_launcher_l.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">03596244</parameter>
+			</parameters>
+		</runtime>
+	</runtimes>
+	<parameters>
+		<parameter type="float" name="angular_deflection">0.699999988</parameter>
+		<parameter type="bool" name="asset_name_as_prefix">0</parameter>
+		<parameter type="string" name="base_material_mode">unique_material_graph</parameter>
+		<parameter type="float" name="bound_size">10000</parameter>
+		<parameter type="bool" name="create_transform_bones_for_joints">0</parameter>
+		<parameter type="float" name="fps">30</parameter>
+		<parameter type="string" name="front_axis">default</parameter>
+		<parameter type="bool" name="import_animations">1</parameter>
+		<parameter type="bool" name="import_bones_without_skin">1</parameter>
+		<parameter type="bool" name="import_cameras">1</parameter>
+		<parameter type="bool" name="import_lights">1</parameter>
+		<parameter type="bool" name="import_materials">1</parameter>
+		<parameter type="string" name="import_materials_mode">take_by_name_or_create</parameter>
+		<parameter type="bool" name="import_meshes">1</parameter>
+		<parameter type="bool" name="import_morph_targets">0</parameter>
+		<parameter type="bool" name="import_tangent_space">0</parameter>
+		<parameter type="bool" name="import_textures">1</parameter>
+		<parameter type="bool" name="invert_gchannel_for_normal_maps">0</parameter>
+		<parameter type="bool" name="joints_reorientation">0</parameter>
+		<parameter type="string" name="lightmaps">{&quot;guid://0293b64b1e104b4c2a8a49eed3fd84bc80093d56&quot;:{&quot;Material #0&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://01f3d3b1afde0b2e547f655c2715b418954a0584&quot;:{&quot;Material #0&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://bbe99a25b5a930d21074c17e89b04e6968bd54bd&quot;:{&quot;Material #0&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://53a0fe7bb98a16fa074d866ce096b56dd947d313&quot;:{&quot;Material #0&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://5a6da827c4e72bffedd15a9a6fae5d9b30eaeb02&quot;:{&quot;Material #0&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://14c8dc61ed59f194b5cc692acfd6cfd74531ae79&quot;:{&quot;Material #0&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://2d319d576b259b88f258c938278947822925986f&quot;:{&quot;Material #0&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://6027227334d907dd3ecb83448986192102e5320b&quot;:{&quot;Material #0&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://8de0504331743edd794ea486f5914f349715dfee&quot;:{&quot;Material #0&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://d7d6eedd667266f1caa5da16f7d794fc7e022675&quot;:{&quot;Material #0&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://548dc12d9f19919b2b502928e469fdd13f4a8550&quot;:{&quot;Material #0&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}}}</parameter>
+		<parameter type="float" name="linear_deflection">0.200000003</parameter>
+		<parameter type="string" name="lods">_lod_0,-1e+09,3,0,0,100,0,0,60;_lod_1,3,9,0,0,60,0,1,60;_lod_2,9,1e+09,0,0,30,0,1,60</parameter>
+		<parameter type="string" name="lods_mode">off</parameter>
+		<parameter type="string" name="material_guids">material #0,cc678dbf736508613eb3464084d45c16926c35d7</parameter>
+		<parameter type="bool" name="merge_similar_materials">0</parameter>
+		<parameter type="bool" name="merge_static_meshes">0</parameter>
+		<parameter type="bool" name="merge_surfaces_by_materials">0</parameter>
+		<parameter type="float" name="morph_targets_normals_angle">180</parameter>
+		<parameter type="string" name="morph_targets_normals_mode">import</parameter>
+		<parameter type="bool" name="need_repivot">0</parameter>
+		<parameter type="bool" name="need_split">0</parameter>
+		<parameter type="bool" name="need_triagulate">1</parameter>
+		<parameter type="int" name="num_lods">3</parameter>
+		<parameter type="string" name="prefix_materials"/>
+		<parameter type="string" name="resolution">256</parameter>
+		<parameter type="float" name="scale">1</parameter>
+		<parameter type="bool" name="skip_empty_nodes">0</parameter>
+		<parameter type="int" name="smooth_animation_size">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_0">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_1">0</parameter>
+		<parameter type="string" name="up_axis">default</parameter>
+		<parameter type="bool" name="use_instances">1</parameter>
+		<parameter type="int" name="uv_ch">1</parameter>
+		<parameter type="bool" name="vertex_cache">1</parameter>
+		<parameter type="string" name="workflow">metalness</parameter>
+	</parameters>
+</asset>

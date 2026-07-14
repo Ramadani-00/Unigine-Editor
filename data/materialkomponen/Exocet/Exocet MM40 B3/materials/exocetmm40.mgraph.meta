@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>07a6c40a3dfff5817a85d926050148417f60bc07</guid>
+	<type>material_graph</type>
+	<hash>81527731</hash>
+	<runtimes>
+		<runtime id="07a6c40a3dfff5817a85d926050148417f60bc07" name="exocetmm40.mgraph" link="0"/>
+		<runtime id="658d0c4c81494291ee85bec82ad1e21fe446cdd1" name="exocetmm40" link="1" type="5"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>5c39370c009c7576ec6b2cc6d9ae743a6f6572a1</guid>
+	<type>render_settings</type>
+	<hash>680249c</hash>
+	<runtimes>
+		<runtime id="5c39370c009c7576ec6b2cc6d9ae743a6f6572a1" name="render_settings_nature.render" link="0"/>
+	</runtimes>
+</asset>

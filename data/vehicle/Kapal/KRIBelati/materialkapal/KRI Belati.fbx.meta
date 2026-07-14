@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>e9751e60ef8ac9ab2bd17cf7beb8bb79661dd5d6</guid>
+	<type>fbx</type>
+	<hash>c30938b3</hash>
+	<runtimes>
+		<runtime id="e9751e60ef8ac9ab2bd17cf7beb8bb79661dd5d6" name="KRI Belati.fbx" link="0"/>
+		<runtime id="3199f2ceca1427bd97bb3d0dea79192804a5ef54" name="KRI Belati.node" link="1" type="3">
+			<parameters>
+				<parameter type="string" name="id">e9dc53f3</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="eb2bb798f9ad702a88d16185fbc8ec41f56b92a3" name="body_belati.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">e6d9c07e</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="21ffa0b02b243916f9a337075fb7de3fe13d57a6" name="20mm_base_r.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">2da2bdb6</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="ec77ae8ab94cc205887e103f64762badacae8acd" name="20mm_launcher_r.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">73e47ed5</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="a84a9d623e9004fb7659ad91b57a46741a9eadc8" name="20mm_base_l.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">2da2bdb6</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="53aafacc40763cc442a2c989515f6099c8437687" name="20mm_launcher_l.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">73e47ed5</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="68bce56426be9c27079cd32bdcb3ea38dc44c23a" name="40mm_base.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">43db3036</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="c6c1fcde7c27ea85499c6fe371822801c8f9ec51" name="40mm_launcher.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">8c21a902</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="0687c936be50776939291e55109bc37d1931397c" name="anchor_r001.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">89224bb9</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="4d27094046452a9e9e85a9cded348674bdf246ab" name="propeller_l.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">0b5c112c</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="d4740d582b1827e0471ae98f3b4b00305097ac0e" name="radar_1.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">2d82a522</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="353b887259189145c6a481c705f15b63900e4415" name="radar_2.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">4d7a5196</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="1b870a4ada67fbd61de913597a140624e255c670" name="anchor_r002.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">35eb06c</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="88c616f4e20faf9ac15106516ffb6b7248caa70f" name="propeller_l001.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">39e9a84</parameter>
+			</parameters>
+		</runtime>
+	</runtimes>
+	<parameters>
+		<parameter type="float" name="angular_deflection">0.699999988</parameter>
+		<parameter type="bool" name="asset_name_as_prefix">0</parameter>
+		<parameter type="string" name="base_material_mode">inherit_mesh_base</parameter>
+		<parameter type="float" name="bound_size">10000</parameter>
+		<parameter type="bool" name="create_transform_bones_for_joints">0</parameter>
+		<parameter type="float" name="fps">30</parameter>
+		<parameter type="string" name="front_axis">default</parameter>
+		<parameter type="bool" name="import_animations">1</parameter>
+		<parameter type="bool" name="import_bones_without_skin">1</parameter>
+		<parameter type="bool" name="import_cameras">1</parameter>
+		<parameter type="bool" name="import_lights">1</parameter>
+		<parameter type="bool" name="import_materials">1</parameter>
+		<parameter type="string" name="import_materials_mode">take_by_name_or_create</parameter>
+		<parameter type="bool" name="import_meshes">1</parameter>
+		<parameter type="bool" name="import_morph_targets">0</parameter>
+		<parameter type="bool" name="import_tangent_space">0</parameter>
+		<parameter type="bool" name="import_textures">1</parameter>
+		<parameter type="bool" name="invert_gchannel_for_normal_maps">0</parameter>
+		<parameter type="bool" name="joints_reorientation">1</parameter>
+		<parameter type="string" name="lightmaps">{&quot;guid://a84a9d623e9004fb7659ad91b57a46741a9eadc8&quot;:{&quot;Belati&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://21ffa0b02b243916f9a337075fb7de3fe13d57a6&quot;:{&quot;Belati&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://53aafacc40763cc442a2c989515f6099c8437687&quot;:{&quot;Belati&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://ec77ae8ab94cc205887e103f64762badacae8acd&quot;:{&quot;Belati&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://68bce56426be9c27079cd32bdcb3ea38dc44c23a&quot;:{&quot;Belati&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://c6c1fcde7c27ea85499c6fe371822801c8f9ec51&quot;:{&quot;Belati&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://0687c936be50776939291e55109bc37d1931397c&quot;:{&quot;Belati&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://1b870a4ada67fbd61de913597a140624e255c670&quot;:{&quot;Belati&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://eb2bb798f9ad702a88d16185fbc8ec41f56b92a3&quot;:{&quot;Belati&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://4d27094046452a9e9e85a9cded348674bdf246ab&quot;:{&quot;Belati&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://88c616f4e20faf9ac15106516ffb6b7248caa70f&quot;:{&quot;Belati&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://d4740d582b1827e0471ae98f3b4b00305097ac0e&quot;:{&quot;Belati&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://353b887259189145c6a481c705f15b63900e4415&quot;:{&quot;Belati&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}}}</parameter>
+		<parameter type="float" name="linear_deflection">0.200000003</parameter>
+		<parameter type="string" name="lods">_lod_0,-1e+09,3,0,0,100,0,0,60;_lod_1,3,9,0,0,60,0,1,60;_lod_2,9,1e+09,0,0,30,0,1,60</parameter>
+		<parameter type="string" name="lods_mode">off</parameter>
+		<parameter type="string" name="material_guids">belati,9235b9a20184c3bd7ef717b7be2551f8040cda85</parameter>
+		<parameter type="bool" name="merge_similar_materials">0</parameter>
+		<parameter type="bool" name="merge_static_meshes">0</parameter>
+		<parameter type="bool" name="merge_surfaces_by_materials">0</parameter>
+		<parameter type="float" name="morph_targets_normals_angle">180</parameter>
+		<parameter type="string" name="morph_targets_normals_mode">import</parameter>
+		<parameter type="bool" name="need_repivot">0</parameter>
+		<parameter type="bool" name="need_split">0</parameter>
+		<parameter type="bool" name="need_triagulate">1</parameter>
+		<parameter type="int" name="num_lods">3</parameter>
+		<parameter type="string" name="prefix_materials"/>
+		<parameter type="string" name="resolution">256</parameter>
+		<parameter type="float" name="scale">1</parameter>
+		<parameter type="bool" name="skip_empty_nodes">0</parameter>
+		<parameter type="int" name="smooth_animation_size">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_0">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_1">0</parameter>
+		<parameter type="string" name="up_axis">default</parameter>
+		<parameter type="bool" name="use_instances">1</parameter>
+		<parameter type="int" name="uv_ch">1</parameter>
+		<parameter type="bool" name="vertex_cache">1</parameter>
+		<parameter type="string" name="workflow">specular</parameter>
+	</parameters>
+</asset>

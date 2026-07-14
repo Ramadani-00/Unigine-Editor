@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="3e74e643a854e1ead7bf6ea0afe70beff37ef248" parent="9b2045c9a50c80962f5e0d794eac15deb396260e" base_material="b7c07dfd4ce80edac55fcbfdd0befa02ccd20b88">
+	<options blend_src="8" blend_dest="6"/>
+	<state name="soft_interaction">0</state>
+	<parameter name="albedo_color" expression="0">0.722500026 0.850850999 1 0.813534021</parameter>
+	<parameter name="soft_interaction_scale" expression="0">1.5</parameter>
+	<parameter name="diffuse_scale" expression="0">1.96000004</parameter>
+</material>

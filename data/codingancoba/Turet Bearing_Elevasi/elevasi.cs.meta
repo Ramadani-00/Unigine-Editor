@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>45634f0c874c4f19c1e82160152e7cb13a25916a</guid>
+	<type>component</type>
+	<hash>65cfeed1</hash>
+	<runtimes>
+		<runtime id="45634f0c874c4f19c1e82160152e7cb13a25916a" name="elevasi.cs" link="0"/>
+		<runtime id="9cab68ca670977959b529ffe4c431fd4fd24d178" name="elevasi.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

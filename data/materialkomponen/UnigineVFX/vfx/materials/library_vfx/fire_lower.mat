@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="21d83350171691e1588b2dd7c55c9c40d2d0128b" parent="6b84ef14433c9f2a46f8a79ea1ec2987fff7802c" base_material="b7c07dfd4ce80edac55fcbfdd0befa02ccd20b88">
+	<options blend_src="5" blend_dest="6"/>
+	<state name="albedo_color_type">1</state>
+	<state name="soft_interaction">0</state>
+	<state name="emission">1</state>
+	<texture name="albedo">guid://a7ec4509e7b359138306feca6838f526e4a7eaf5</texture>
+	<texture name="albedo_color">
+		<curve2d>
+			<keys>
+				<key point="0 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1 1" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1 1" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1 1" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="-0.00400003791 -0.00400036573" left_tangent="0 0" right_tangent="0.293714672 1.14114261"/>
+				<key point="0.995999932 -0.00400036573" left_tangent="-0.5200001 0.0159988403" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+	</texture>
+	<texture name="emission">guid://a7ec4509e7b359138306feca6838f526e4a7eaf5</texture>
+	<parameter name="albedo_color" expression="0">1 1 1 0.458824009</parameter>
+	<parameter name="animation_size" expression="0">8 8</parameter>
+	<parameter name="animation_scale" expression="0">1</parameter>
+	<parameter name="soft_interaction_scale" expression="0">1</parameter>
+	<parameter name="diffuse_scale" expression="0">3</parameter>
+	<parameter name="emission_scale" expression="0">5.42600012</parameter>
+</material>

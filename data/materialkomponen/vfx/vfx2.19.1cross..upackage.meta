@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>84655912e05623445c5ad994e46a5d1550fbfc10</guid>
+	<type>package</type>
+	<hash>dae38ac6</hash>
+	<runtimes>
+		<runtime id="84655912e05623445c5ad994e46a5d1550fbfc10" name="vfx2.19.1cross..upackage" link="0"/>
+	</runtimes>
+</asset>

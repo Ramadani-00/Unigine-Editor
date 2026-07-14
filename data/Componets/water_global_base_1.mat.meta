@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>2716e5283d45cc5a295db5bf19ad58784bae6c03</guid>
+	<type>material</type>
+	<hash>b7508bb</hash>
+	<runtimes>
+		<runtime id="2716e5283d45cc5a295db5bf19ad58784bae6c03" name="water_global_base_1" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

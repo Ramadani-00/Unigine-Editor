@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>d008d79727af52f7b5f5f88a49ee4e94a96fe32d</guid>
+	<type>material</type>
+	<hash>5932d7e</hash>
+	<runtimes>
+		<runtime id="d008d79727af52f7b5f5f88a49ee4e94a96fe32d" name="library_snow_flake" link="0" type="5"/>
+	</runtimes>
+</asset>

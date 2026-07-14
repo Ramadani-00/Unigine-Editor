@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>f1a5d792cf4d4b8422bf0ba874ba43ef93993583</guid>
+	<type>component</type>
+	<hash>5af3c7ae</hash>
+	<runtimes>
+		<runtime id="f1a5d792cf4d4b8422bf0ba874ba43ef93993583" name="TorpedoLauncher.cs" link="0"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>6d3e6460c0cd8edb3c949b35d28196ff262cfe24</guid>
+	<type>material_graph</type>
+	<hash>24a5658d</hash>
+	<runtimes>
+		<runtime id="6d3e6460c0cd8edb3c949b35d28196ff262cfe24" name="as365n3.mgraph" link="0"/>
+		<runtime id="8df8a892935e0599a872f16f0054b81c7a38def6" name="as365n3" link="1" type="5"/>
+	</runtimes>
+</asset>

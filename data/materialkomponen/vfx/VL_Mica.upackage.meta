@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>90c0edc72799a4c48241b1842410a4c509dc6e3a</guid>
+	<type>package</type>
+	<hash>31d49c1a</hash>
+	<runtimes>
+		<runtime id="90c0edc72799a4c48241b1842410a4c509dc6e3a" name="VL_Mica.upackage" link="0"/>
+	</runtimes>
+</asset>

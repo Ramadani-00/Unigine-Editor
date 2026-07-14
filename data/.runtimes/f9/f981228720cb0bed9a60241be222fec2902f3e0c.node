@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.19.0.3">
+	<node type="NodeDummy" id="1525208443" name="t50i">
+		<transform>1 1.74845560007e-07 0 0.0 -1.74845560007e-07 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="2018757790" immovable="1" name="Body_T50i">
+			<mesh_name>guid://d3ee470eb582a7950fce8c0a6f88ef3f70b9e1fb</mesh_name>
+			<surface name="t50igoldeagle" intersection="1" material="a29ec74874f12572268c05243e0a045a8ce3189d"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 0 0 0 1.0</transform>
+			<node type="ObjectMeshStatic" id="933579621" immovable="1" name="Wheel_Fr">
+				<mesh_name>guid://b0011511fa1f7cf8f0aff8c578499115176c6f1e</mesh_name>
+				<surface name="t50igoldeagle" intersection="1" material="a29ec74874f12572268c05243e0a045a8ce3189d"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -0.000299215322057 3.40895035135 1.31149984272 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="1220216192" immovable="1" name="Hatch2">
+				<mesh_name>guid://d968fef021871188bff0a44cb6327d657b248be5</mesh_name>
+				<surface name="t50igoldeagle" intersection="1" material="a29ec74874f12572268c05243e0a045a8ce3189d"/>
+				<transform>0.342019924455 5.75224473912e-08 -0.939692700448 0.0 5.75224473912e-08 1 8.21505482224e-08 0.0 0.939692700448 -8.21505482224e-08 0.342019924455 0.0 -0.766288493978 -1.02060681516 1.43518341535 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="2074032863" immovable="1" name="Hatch3">
+				<mesh_name>guid://467216ab8e4079cce705697f420a1a43b6644c00</mesh_name>
+				<surface name="t50igoldeagle" intersection="1" material="a29ec74874f12572268c05243e0a045a8ce3189d"/>
+				<transform>0.34202015414 5.75224273115e-08 0.93969261685 0.0 5.75224273115e-08 1 -8.2150540914e-08 0.0 -0.93969261685 8.2150540914e-08 0.34202015414 0.0 0.763304030155 -1.02060694889 1.43303359501 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="885050034" immovable="1" name="Wheel_R">
+				<mesh_name>guid://5d9c15a2f09ed1b5e83b525eae5a128ae1cecf5f</mesh_name>
+				<surface name="t50igoldeagle" intersection="1" material="a29ec74874f12572268c05243e0a045a8ce3189d"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 0.25904676628 -1.68860772651 1.25458014839 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="106834537" immovable="1" name="Wheel_L">
+				<mesh_name>guid://10679dd52d8580a089dcb4c9cfa3b96f5ad65532</mesh_name>
+				<surface name="t50igoldeagle" intersection="1" material="a29ec74874f12572268c05243e0a045a8ce3189d"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -0.224898487425 -1.6886076842 1.25469745034 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="945680564" name="Light_R">
+				<transform>-2.50343479128e-07 -1 -8.74227800037e-08 0.0 -1.62920662996e-07 8.74228207899e-08 -1 0.0 1 -2.50343464885e-07 -1.62920684882e-07 0.0 4.52492887968 -2.25131481207 1.891488803 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="145745027" name="Light_L">
+				<transform>-2.50343479128e-07 -1 -8.74227800037e-08 0.0 -1.62920662996e-07 8.74228207899e-08 -1 0.0 1 -2.50343464885e-07 -1.62920684882e-07 0.0 -4.527609575 -2.25131402067 1.89543391525 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="322224134" name="Light_C">
+				<transform>-2.50343479128e-07 -1 -8.74227800037e-08 0.0 -1.62920662996e-07 8.74228207899e-08 -1 0.0 1 -2.50343464885e-07 -1.62920684882e-07 0.0 -2.47765183243e-07 -1.88940216358 2.78855087213 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="2067077037" name="Camera_View">
+				<transform>-2.50343479128e-07 -1 -8.74227800037e-08 0.0 -1.62920662996e-07 8.74228207899e-08 -1 0.0 1 -2.50343464885e-07 -1.62920684882e-07 0.0 4.13291112473e-07 3.1516661852 2.70937563777 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="1970607400" immovable="1" name="Hatch1">
+				<mesh_name>guid://95e007a4b958e7d459e3eac07e5f9160912532e9</mesh_name>
+				<surface name="t50igoldeagle" intersection="1" material="a29ec74874f12572268c05243e0a045a8ce3189d"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -0.213660953988 3.95295099921 1.20561815104 1.0</transform>
+			</node>
+		</node>
+	</node>
+</nodes>

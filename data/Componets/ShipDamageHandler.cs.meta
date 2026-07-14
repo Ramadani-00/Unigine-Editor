@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>edeed77841ce72f0499105d923b0d49b62a0f8c2</guid>
+	<type>component</type>
+	<hash>dcc450b</hash>
+	<runtimes>
+		<runtime id="edeed77841ce72f0499105d923b0d49b62a0f8c2" name="ShipDamageHandler.cs" link="0"/>
+		<runtime id="057b4e56598fc953d4cf380fef7c9ed57d78fd10" name="ShipDamageHandler.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

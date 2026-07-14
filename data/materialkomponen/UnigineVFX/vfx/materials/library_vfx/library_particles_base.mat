@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="cb3efb53459273a5337bfc1eaff041a5fd342807" base_material="b7c07dfd4ce80edac55fcbfdd0befa02ccd20b88">
+	<options blend_src="2" blend_dest="2"/>
+	<state name="transparent_opacity_depth">1</state>
+	<state name="transparent_velocity">1</state>
+	<state name="transparent_material_mask">1</state>
+</material>

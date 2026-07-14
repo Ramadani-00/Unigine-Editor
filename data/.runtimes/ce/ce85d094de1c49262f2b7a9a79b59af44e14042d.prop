@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.19.0.3" name="BuoyancyKapal" guid="ce85d094de1c49262f2b7a9a79b59af44e14042d" parent="657ecdbbfc83135a26777f86012da3587b67be0c" editable="0">
+	<parameter name="mass" type="float" min="0">1</parameter>
+	<parameter name="pointFrontCenter" type="node"/>
+	<parameter name="pointBackLeft" type="node"/>
+	<parameter name="pointBackRight" type="node"/>
+	<parameter name="waterHeightOffset" type="float">0</parameter>
+</property>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>0c94571bcb9aad1b0d23f45de7e7716d5c5ecd3a</guid>
+	<type>material_graph</type>
+	<hash>5c38a694</hash>
+	<runtimes>
+		<runtime id="0c94571bcb9aad1b0d23f45de7e7716d5c5ecd3a" name="nala.mgraph" link="0"/>
+		<runtime id="f9aff3c5129085794f831ed72d4af6bc6e567c7c" name="nala" link="1" type="5"/>
+	</runtimes>
+</asset>

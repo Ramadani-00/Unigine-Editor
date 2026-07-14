@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>9dc26001e76037737a38b72bc1346840e47050b8</guid>
+	<type>component</type>
+	<hash>8177d4cc</hash>
+	<runtimes>
+		<runtime id="9dc26001e76037737a38b72bc1346840e47050b8" name="Clws35mmController.cs" link="0"/>
+		<runtime id="17f28ff7980ce8192733f191ea643e099a7c4916" name="Clws35mmController.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

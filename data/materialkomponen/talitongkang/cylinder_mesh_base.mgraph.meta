@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>9fafbef53b91ba35e41f31e0fd2c8b874d67e6f1</guid>
+	<type>material_graph</type>
+	<hash>69124b32</hash>
+	<runtimes>
+		<runtime id="9fafbef53b91ba35e41f31e0fd2c8b874d67e6f1" name="cylinder_mesh_base.mgraph" link="0"/>
+		<runtime id="eb8f3b2f823b9c62f5f332127e25de47e39e3a4b" name="cylinder_mesh_base" link="1" type="5"/>
+	</runtimes>
+</asset>

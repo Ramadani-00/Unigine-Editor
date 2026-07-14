@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>80cb0b9259e841a1b725db06eaf92797e03a5a5f</guid>
+	<type>texture</type>
+	<hash>5e18faff</hash>
+	<runtimes>
+		<runtime id="80cb0b9259e841a1b725db06eaf92797e03a5a5f" name="fh_engines.png" link="0" type="6"/>
+		<runtime id="b1bb459131fb804c62f240b3e5a652d0347a6efd" name="fh_engines.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="int" name="blur_radius">1</parameter>
+		<parameter type="string" name="height">Original</parameter>
+		<parameter type="string" name="image_format">RGB8</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="bool" name="mipmap_sharp_only_lightness">1</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">custom</parameter>
+		<parameter type="float" name="sharpness_intensity">0.25</parameter>
+		<parameter type="float" name="sharpness_radius">1</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">Original</parameter>
+	</parameters>
+</asset>

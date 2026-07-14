@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="17c9e8b35f68748ef7e29b97e5ad24845cbde40a" parent="4abefb138719cc83b946a1a0484fe441c471fd38" base_material="b7c07dfd4ce80edac55fcbfdd0befa02ccd20b88">
+	<options blend_src="5" blend_dest="6"/>
+	<state name="transparent_opacity_depth">1</state>
+	<state name="transparent_velocity">1</state>
+	<state name="transparent_material_mask">1</state>
+	<texture name="albedo">guid://c0f7750cd1fb99dd339f4aa3b69509bf3980fd41</texture>
+	<parameter name="albedo_color" expression="0">1 1 1 1</parameter>
+	<parameter name="animation_size" expression="0">8 8</parameter>
+	<parameter name="animation_scale" expression="0">1</parameter>
+	<parameter name="environment_scale" expression="0">10</parameter>
+	<parameter name="diffuse_scale" expression="0">2</parameter>
+</material>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>e0694290125cb4afc038da42f6ba54b947b7f6c4</guid>
+	<type>mesh</type>
+	<hash>17dadf73</hash>
+	<runtimes>
+		<runtime id="e0694290125cb4afc038da42f6ba54b947b7f6c4" name="plane.mesh" link="0" type="1"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="animation">1</parameter>
+		<parameter type="bool" name="need_create_uv">0</parameter>
+		<parameter type="float" name="scale">1</parameter>
+		<parameter type="int" name="smooth_animation_size">0</parameter>
+		<parameter type="bool" name="unchanged">1</parameter>
+		<parameter type="int" name="uv_channel">1</parameter>
+		<parameter type="bool" name="uv_high_quality">0</parameter>
+		<parameter type="int" name="uv_padding">0</parameter>
+		<parameter type="int" name="uv_resolution">512</parameter>
+		<parameter type="bool" name="vertex_cache">1</parameter>
+	</parameters>
+</asset>

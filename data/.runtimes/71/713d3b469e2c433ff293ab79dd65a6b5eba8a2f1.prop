@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.19.0.3" name="TorpedoBlackShark" guid="713d3b469e2c433ff293ab79dd65a6b5eba8a2f1" parent="657ecdbbfc83135a26777f86012da3587b67be0c" editable="0">
+	<parameter name="launchPushSpeed" type="float">50</parameter>
+	<parameter name="cruiseSpeed" type="float">35</parameter>
+	<parameter name="accelerationRate" type="float">5</parameter>
+	<parameter name="turnSpeed" type="float">2.5</parameter>
+	<parameter name="torpedoDepth" type="float">-10</parameter>
+	<parameter name="targetNode" type="node" title="Target Node"/>
+	<parameter name="keyBinding" type="string" title="Tombol Tembak">0</parameter>
+	<parameter name="hitMask" type="int" title="Mask Tabrakan">1</parameter>
+	<parameter name="explosionShipPrefab" type="node" title="Ledakan Target (explosion1)"/>
+	<parameter name="waterTrailVFX" type="node" title="Efek Buih Bawah Air (Trail)"/>
+	<parameter name="launchSound" type="node" title="Sound Meluncur (Snd_meluncur)" filter="SoundSource"/>
+	<parameter name="explosionSound" type="node" title="Sound Ledakan (Snd_ledakan)" filter="SoundSource"/>
+</property>

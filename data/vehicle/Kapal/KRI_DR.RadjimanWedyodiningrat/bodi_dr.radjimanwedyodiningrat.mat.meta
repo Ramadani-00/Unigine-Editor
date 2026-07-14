@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>eb2139875cdb536db8aff33cc2f1a97074a5c912</guid>
+	<type>material</type>
+	<hash>2614683b</hash>
+	<runtimes>
+		<runtime id="eb2139875cdb536db8aff33cc2f1a97074a5c912" name="bodi_dr.radjimanwedyodiningrat" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>44f7df15c065abfe6c41ad840f5ce5bf86893e4d</guid>
+	<type>component</type>
+	<hash>82cf9c8</hash>
+	<runtimes>
+		<runtime id="44f7df15c065abfe6c41ad840f5ce5bf86893e4d" name="pagarkanan.cs" link="0"/>
+		<runtime id="e1f955eb5e4f78a288c37082601c289d00095a23" name="pagarkanan.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

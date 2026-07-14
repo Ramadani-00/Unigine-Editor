@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>e01eb0e4be9a8d7bb57228011448aea37f938f3f</guid>
+	<type>material</type>
+	<hash>8d47fc38</hash>
+	<runtimes>
+		<runtime id="e01eb0e4be9a8d7bb57228011448aea37f938f3f" name="bodikribelati" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

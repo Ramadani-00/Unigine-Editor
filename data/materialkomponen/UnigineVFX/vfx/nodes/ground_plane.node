@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.19.0.3">
+	<node type="ObjectMeshStatic" id="483852960" name="ground_plane">
+		<mesh_name>guid://e0694290125cb4afc038da42f6ba54b947b7f6c4</mesh_name>
+		<surface name="plane" physics_friction="1" physics_restitution="1" material="98a592984617f517468c8f8ad73d396129e0834c" lighting_mode="0" intersection="1"/>
+		<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+	</node>
+</nodes>

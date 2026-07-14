@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>8ebbb7c5971f0edf1ead0d8f3c60c1430665136c</guid>
+	<type>sound</type>
+	<hash>5ed78cac</hash>
+	<runtimes>
+		<runtime id="8ebbb7c5971f0edf1ead0d8f3c60c1430665136c" name="milleniumgun35mm-burst.wav" link="0" type="7"/>
+	</runtimes>
+</asset>

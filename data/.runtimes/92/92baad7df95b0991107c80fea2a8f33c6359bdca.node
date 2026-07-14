@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.19.0.3">
+	<node type="NodeDummy" id="1200734825" name="VL MICA">
+		<transform>1 1.74845560007e-07 0 0.0 -1.74845560007e-07 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="1854711988" immovable="1" name="SAM VL MICA">
+			<mesh_name>guid://1d1e37f59270bc84740a034870c7d701925612a1</mesh_name>
+			<surface name="VL MICA" intersection="1" material="049aa1ed2ed706380785672e505ac113355a62fa"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 0 0 0 1.0</transform>
+		</node>
+	</node>
+</nodes>

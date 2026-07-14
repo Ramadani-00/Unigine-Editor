@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>5ff4ec6624b64e1272ed25dcb0a83e090443d567</guid>
+	<type>fbx</type>
+	<hash>47cf604d</hash>
+	<runtimes>
+		<runtime id="5ff4ec6624b64e1272ed25dcb0a83e090443d567" name="361.fbx" link="0"/>
+		<runtime id="bb7b689fd348d183dde37f01ff7f1dd596017aae" name="361.node" link="1" type="3">
+			<parameters>
+				<parameter type="string" name="id">b92538fa</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="0bfb5b7c43e029553d8ac642bbcf5b7f6c618235" name="propeller_r.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">994439b1</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="9d9118e97e6e769fd425221bc39a2d844e70ae10" name="propeller_l.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">994439b1</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="8b90ed0e9f92fb7250e179447fefc2861d122a2f" name="bodi_363.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">fc06ce5f</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="cec68e437896736a86a126c5e08d26ee11c0d1c2" name="meriam120_base.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">5abcb294</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="a0a014f0498ed00581e0c0166ff8eb6d72bee639" name="meriam120_launcher.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">b976d07d</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="a0022f2d2b6a3de10d9e477f8851a89f9b6c5a44" name="bofors375_base.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">2b5c53f9</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="329d1ba26fcbeec2fe621f3804ce40b81d8aa0d3" name="bofors375_launcher.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">e55437f</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="27bbc627334caf6ffb04c2c9949587bcad283016" name="radar_1.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">01edee4c</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="7edc7da4dd3fcd0c0369af2a4e3c56b8bcc8287d" name="20mm_bodi_r.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">e9c0840a</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="6a5321b10e95326e76f1fb23404bcaf686efcfb8" name="20mm_launcher_r.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">85d749cf</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="7ae60b764fc560400dc03c6c37d35027ec57cfb7" name="crane_r.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">60c7cec6</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="fb07b44bda4b93fd6535170d3a2e12b6828669aa" name="crane_arm_r.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">d19c53d7</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="5ebd09985906bdab1dda677ec70010debcf60d01" name="exocet_launcher.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">77c17178</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="34793475527123571bdca10772a309162335026c" name="radar_2.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">e16034bb</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="1e25508a7ece1d8795d4c4e0b819378a61a31adb" name="40mm_bodi_r.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">ab907139</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="f1d93cafd81279d89f3d2791b27b63f6cdcd927e" name="40mm_launcher_r.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">5a689611</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="5f2d6cccb275c58c858cfd12792e3ed3e68b97c5" name="40mm_launcher_l.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">5a689611</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="0635eb79ccc3b0491e18dd2b17e9a9dc623b2660" name="40mm_bodi_l.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">ab907139</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="1585bede2730acafc81fec94046b09f88a1a263f" name="20mm_launcher_l.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">85d749cf</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="9d858353f3ec425618d038558e36725b6726fe92" name="20mm_bodi_l.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">e9c0840a</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="a56c9b408be6538cf754c3e68389a026df1a0cc9" name="crane_l.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">60c7cec6</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="cb5b0abd9228bcf748c3938f063e21b6317aaf94" name="crane_arm_l.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">d19c53d7</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="1e376a72c5a1dc493cbd27886a900b56c712d5e3" name="torpedosut_l.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">bde732e8</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="dd6bec37b1265685914dcd59068d421bbcc741e6" name="torpedosut_r.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">bde732e8</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="0bc0c8f43963bf313d924ffac4d8f57ba644f00d" name="tpddecoy_l.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">2715bb61</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="244e96414bff628d11ffe833c110c19496d95208" name="tpddecoy_r.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">2715bb61</parameter>
+			</parameters>
+		</runtime>
+	</runtimes>
+	<parameters>
+		<parameter type="float" name="angular_deflection">0.699999988</parameter>
+		<parameter type="bool" name="asset_name_as_prefix">0</parameter>
+		<parameter type="string" name="base_material_mode">unique_material_graph</parameter>
+		<parameter type="float" name="bound_size">10000</parameter>
+		<parameter type="bool" name="create_transform_bones_for_joints">0</parameter>
+		<parameter type="float" name="fps">30</parameter>
+		<parameter type="string" name="front_axis">default</parameter>
+		<parameter type="bool" name="import_animations">1</parameter>
+		<parameter type="bool" name="import_bones_without_skin">1</parameter>
+		<parameter type="bool" name="import_cameras">1</parameter>
+		<parameter type="bool" name="import_lights">1</parameter>
+		<parameter type="bool" name="import_materials">1</parameter>
+		<parameter type="string" name="import_materials_mode">take_by_name_or_create</parameter>
+		<parameter type="bool" name="import_meshes">1</parameter>
+		<parameter type="bool" name="import_morph_targets">0</parameter>
+		<parameter type="bool" name="import_tangent_space">0</parameter>
+		<parameter type="bool" name="import_textures">1</parameter>
+		<parameter type="bool" name="invert_gchannel_for_normal_maps">0</parameter>
+		<parameter type="bool" name="joints_reorientation">0</parameter>
+		<parameter type="string" name="lightmaps">{&quot;guid://9d858353f3ec425618d038558e36725b6726fe92&quot;:{&quot;Nala&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://7edc7da4dd3fcd0c0369af2a4e3c56b8bcc8287d&quot;:{&quot;Nala&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://1585bede2730acafc81fec94046b09f88a1a263f&quot;:{&quot;Nala&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://6a5321b10e95326e76f1fb23404bcaf686efcfb8&quot;:{&quot;Nala&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://0635eb79ccc3b0491e18dd2b17e9a9dc623b2660&quot;:{&quot;Nala&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://1e25508a7ece1d8795d4c4e0b819378a61a31adb&quot;:{&quot;Nala&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://5f2d6cccb275c58c858cfd12792e3ed3e68b97c5&quot;:{&quot;Nala&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://f1d93cafd81279d89f3d2791b27b63f6cdcd927e&quot;:{&quot;Nala&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://8b90ed0e9f92fb7250e179447fefc2861d122a2f&quot;:{&quot;Nala&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://a0022f2d2b6a3de10d9e477f8851a89f9b6c5a44&quot;:{&quot;Nala&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://329d1ba26fcbeec2fe621f3804ce40b81d8aa0d3&quot;:{&quot;Nala&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://cb5b0abd9228bcf748c3938f063e21b6317aaf94&quot;:{&quot;Nala&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://fb07b44bda4b93fd6535170d3a2e12b6828669aa&quot;:{&quot;Nala&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://a56c9b408be6538cf754c3e68389a026df1a0cc9&quot;:{&quot;Nala&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://7ae60b764fc560400dc03c6c37d35027ec57cfb7&quot;:{&quot;Nala&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://5ebd09985906bdab1dda677ec70010debcf60d01&quot;:{&quot;Nala&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://cec68e437896736a86a126c5e08d26ee11c0d1c2&quot;:{&quot;Nala&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://a0a014f0498ed00581e0c0166ff8eb6d72bee639&quot;:{&quot;Nala&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://9d9118e97e6e769fd425221bc39a2d844e70ae10&quot;:{&quot;Nala&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://0bfb5b7c43e029553d8ac642bbcf5b7f6c618235&quot;:{&quot;Nala&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://27bbc627334caf6ffb04c2c9949587bcad283016&quot;:{&quot;Nala&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://34793475527123571bdca10772a309162335026c&quot;:{&quot;Nala&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://1e376a72c5a1dc493cbd27886a900b56c712d5e3&quot;:{&quot;FTH&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://dd6bec37b1265685914dcd59068d421bbcc741e6&quot;:{&quot;FTH&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://0bc0c8f43963bf313d924ffac4d8f57ba644f00d&quot;:{&quot;Nala&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://244e96414bff628d11ffe833c110c19496d95208&quot;:{&quot;Nala&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}}}</parameter>
+		<parameter type="float" name="linear_deflection">0.200000003</parameter>
+		<parameter type="string" name="lods">_lod_0,-1e+09,3,0,0,100,0,0,60;_lod_1,3,9,0,0,60,0,1,60;_lod_2,9,1e+09,0,0,30,0,1,60</parameter>
+		<parameter type="string" name="lods_mode">off</parameter>
+		<parameter type="string" name="material_guids">fth,2e5bef3ea1686b302d1039f425fa25642278721f,nala,f9aff3c5129085794f831ed72d4af6bc6e567c7c</parameter>
+		<parameter type="bool" name="merge_similar_materials">0</parameter>
+		<parameter type="bool" name="merge_static_meshes">0</parameter>
+		<parameter type="bool" name="merge_surfaces_by_materials">0</parameter>
+		<parameter type="float" name="morph_targets_normals_angle">180</parameter>
+		<parameter type="string" name="morph_targets_normals_mode">import</parameter>
+		<parameter type="bool" name="need_repivot">0</parameter>
+		<parameter type="bool" name="need_split">0</parameter>
+		<parameter type="bool" name="need_triagulate">1</parameter>
+		<parameter type="int" name="num_lods">3</parameter>
+		<parameter type="string" name="prefix_materials"/>
+		<parameter type="string" name="resolution">256</parameter>
+		<parameter type="float" name="scale">1</parameter>
+		<parameter type="bool" name="skip_empty_nodes">0</parameter>
+		<parameter type="int" name="smooth_animation_size">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_0">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_1">0</parameter>
+		<parameter type="string" name="up_axis">default</parameter>
+		<parameter type="bool" name="use_instances">1</parameter>
+		<parameter type="int" name="uv_ch">1</parameter>
+		<parameter type="bool" name="vertex_cache">1</parameter>
+		<parameter type="string" name="workflow">metalness</parameter>
+	</parameters>
+</asset>

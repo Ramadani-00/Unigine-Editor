@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>1ddbfeeb508b4153f26250981cc1737ef9ba381d</guid>
+	<type>fbx</type>
+	<hash>2b83e514</hash>
+	<runtimes>
+		<runtime id="1ddbfeeb508b4153f26250981cc1737ef9ba381d" name="KRI Golok_rev2.fbx" link="0"/>
+		<runtime id="37cf5da9d635803aa9791eb8bfa3f273b90ec542" name="KRI Golok_rev2.node" link="1" type="3">
+			<parameters>
+				<parameter type="string" name="id">0c595fed</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="590737a7be8a39bc55aecf045faf7d9fc83943b9" name="bodikri_h.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">30f6e1f3</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="6d28e103edab93ea2a7b2aaa332b5bb9d56419c4" name="radar2.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">1ea994fa</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="d62a5f31baa2a93a49f68bd60a02dcfa78ec5a53" name="radar1.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">28a80689</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="32ab3fedfa1d48d0959893ec8813757e5e879b96" name="gun1.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">1e9196d4</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="1cf79dcb424c9d0a652950f89588068a42f59dfd" name="gun2.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">f76216e5</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="ff2dc4e7c4aa0aaf015cfafef209122bed8fc738" name="barrel2.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">3301ef5b</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="d319a9f50c00fee2b594b6eaa93690b90a946137" name="barrel1.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">2db834b4</parameter>
+			</parameters>
+		</runtime>
+	</runtimes>
+	<parameters>
+		<parameter type="float" name="angular_deflection">0.699999988</parameter>
+		<parameter type="bool" name="asset_name_as_prefix">0</parameter>
+		<parameter type="string" name="base_material_mode">inherit_mesh_base</parameter>
+		<parameter type="float" name="bound_size">10000</parameter>
+		<parameter type="bool" name="create_transform_bones_for_joints">0</parameter>
+		<parameter type="float" name="fps">30</parameter>
+		<parameter type="string" name="front_axis">default</parameter>
+		<parameter type="bool" name="import_animations">1</parameter>
+		<parameter type="bool" name="import_bones_without_skin">1</parameter>
+		<parameter type="bool" name="import_cameras">1</parameter>
+		<parameter type="bool" name="import_lights">1</parameter>
+		<parameter type="bool" name="import_materials">1</parameter>
+		<parameter type="string" name="import_materials_mode">take_by_name_or_create</parameter>
+		<parameter type="bool" name="import_meshes">1</parameter>
+		<parameter type="bool" name="import_morph_targets">0</parameter>
+		<parameter type="bool" name="import_tangent_space">0</parameter>
+		<parameter type="bool" name="import_textures">1</parameter>
+		<parameter type="bool" name="invert_gchannel_for_normal_maps">0</parameter>
+		<parameter type="bool" name="joints_reorientation">1</parameter>
+		<parameter type="string" name="lightmaps">{&quot;guid://d319a9f50c00fee2b594b6eaa93690b90a946137&quot;:{&quot;accessories&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://ff2dc4e7c4aa0aaf015cfafef209122bed8fc738&quot;:{&quot;body&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;accessories&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://590737a7be8a39bc55aecf045faf7d9fc83943b9&quot;:{&quot;body&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;accessories&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://32ab3fedfa1d48d0959893ec8813757e5e879b96&quot;:{&quot;accessories&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://1cf79dcb424c9d0a652950f89588068a42f59dfd&quot;:{&quot;accessories&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://d62a5f31baa2a93a49f68bd60a02dcfa78ec5a53&quot;:{&quot;Material #36&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://6d28e103edab93ea2a7b2aaa332b5bb9d56419c4&quot;:{&quot;Material #36&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}}}</parameter>
+		<parameter type="float" name="linear_deflection">0.200000003</parameter>
+		<parameter type="string" name="lods">_lod_0,-1e+09,3,0,0,100,0,0,60;_lod_1,3,9,0,0,60,0,1,60;_lod_2,9,1e+09,0,0,30,0,1,60</parameter>
+		<parameter type="string" name="lods_mode">off</parameter>
+		<parameter type="string" name="material_guids">accessories,5d32f217bedecb6a3a50c36e6f181546f38d2528,body,8968d59d6b89009959a6a2dcd4a0ed5198065006,material #35,baab3fb13d4a877b7b9230a02d01c995b2f9536a,material #36,6981024bc32331be3cfe3ed231438e5fcd12522c,material #59 slot #10,c5aa34270f3467a593166d3e7ae28acb0e01c378,material #59 slot #10_1,5bcae95bbfadeeece7def9a22f854017a4ce417c,material #59 slot #10_2,85ac746bcd212dcc12b4c87250cfe08932e344cc,material #59 slot #10_3,00c6a37b546c4243a79cab42050460a7d9e65c1c,material #59 slot #10_4,ccfa768b7ddaefd99df3a212b8658796f5ac876c,material #59 slot #3,178b4f21d5920fd170b91250676364868198109a,material #59 slot #3_1,4c973275b44a4d346ddcf4545ced24c42b90383e,material #59 slot #3_2,e4f050059deae210fcd58ba48ef5bd34aa21f40e,material #59 slot #3_3,2c21b19542e95f0ccc6156f4a7f86104ecb1e3de,material #59 slot #3_4,42b457257130360289e556446a98c485939d07ae,material #59 slot #4,6b6dbf3b39effd4b653598024047d253f25a76dc,material #59 slot #4_1,0bcb6aaf3b67501f4ed701a67092a045bd4b9220,material #59 slot #4_2,0151a2bf315b87df4309c9761aaf8569707f4e70,material #59 slot #4_3,3ba1becf36b24ac6835ae546418cb05041335ec0,material #59 slot #4_4,ec6cbedf8987b1b121b755166a3bb1ea78ccc310,material #59 slot #5,82cd58e5e011eab271529104bc109bce8bdfb06e,material #59 slot #5_1,feb7c979c99ba214d03b8b48bc17e4393db72052,material #59 slot #5_2,8ab3a009f0e7bf08d0aaf7988f3d4abe840b3122,material #59 slot #5_3,7d83fa9996448ae08378d7e8f0fbf5b9c246b5f2,material #59 slot #5_4,ae41d92988d49462625a2c38d1d94e41b816aec2,material #59 slot #6,e39e169fa9e143e626158dd632acc8687b7329d0,material #59 slot #6_1,90be91539fc4fa54093d49bae7d9ed6b44c1f754,material #59 slot #6_2,93642a632f665e3b8b88ee8a44f9d60d45cbd0a4,material #59 slot #6_3,86a9e773953f16bb0630275ab2f300907c513df4,material #59 slot #6_4,1550c8832e6b08388feff42a8b57a1aa9d873f44,material #59 slot #7,c6b776e9ac493f0b7bb592f87ff4a841fedd8382,material #59 slot #7_1,8abec8bd2ff7c264ed34a97c47de9c99069e9fa6,material #59 slot #7_2,6bd6e84dfc0848a9829e3acc36520a15f9b7d576,material #59 slot #7_3,a303cbddb5b5fa55b265801c6dee85fb0495bf46,material #59 slot #7_4,06ee736d92343353e78f796c08ebe3c9d3355d16,material #59 slot #8,b2381c4322d394778dd038ea364f27d9953eb204,material #59 slot #8_1,9899da3785a94c4bd46eeb0e5cfdd5a77db735c8,material #59 slot #8_2,f652e447ab3c5ad2a4673cdeb06c53447e327c18,material #59 slot #8_3,316652577ac3f1f1d24c62aeef497a4440389668,material #59 slot #8_4,dea52467858350f126ab5c7e01f455ec39ce84b8,material #59 slot #9,b1526d2dfba5624cae63cc2c611df82aa28d1dd6,material #59 slot #9_1,7cf2344150d70b98d95242f02b9cbac1d8568a3a,material #59 slot #9_2,85192cd1f27db0a974ce4940755f70ad087cb50a,material #59 slot #9_3,f619296141b8e281041b43908af004a14178d3da,material #59 slot #9_4,7f2b29f1d192423c588e31e0554c19983897e6aa</parameter>
+		<parameter type="bool" name="merge_similar_materials">0</parameter>
+		<parameter type="bool" name="merge_static_meshes">0</parameter>
+		<parameter type="bool" name="merge_surfaces_by_materials">0</parameter>
+		<parameter type="float" name="morph_targets_normals_angle">180</parameter>
+		<parameter type="string" name="morph_targets_normals_mode">import</parameter>
+		<parameter type="bool" name="need_repivot">0</parameter>
+		<parameter type="bool" name="need_split">0</parameter>
+		<parameter type="bool" name="need_triagulate">1</parameter>
+		<parameter type="int" name="num_lods">3</parameter>
+		<parameter type="string" name="prefix_materials"/>
+		<parameter type="string" name="resolution">256</parameter>
+		<parameter type="float" name="scale">1</parameter>
+		<parameter type="bool" name="skip_empty_nodes">0</parameter>
+		<parameter type="int" name="smooth_animation_size">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_0">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_1">0</parameter>
+		<parameter type="string" name="up_axis">default</parameter>
+		<parameter type="bool" name="use_instances">1</parameter>
+		<parameter type="int" name="uv_ch">1</parameter>
+		<parameter type="bool" name="vertex_cache">1</parameter>
+		<parameter type="string" name="workflow">specular</parameter>
+	</parameters>
+</asset>

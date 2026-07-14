@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>f89357b234e58d5bda121e05c8f4e16aec7b078c</guid>
+	<type>world</type>
+	<hash>f7325b8a</hash>
+	<runtimes>
+		<runtime id="f89357b234e58d5bda121e05c8f4e16aec7b078c" name="vfx_fire_5.world" link="0"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="physics_settings_path"/>
+		<parameter type="string" name="render_settings_path">guid://2047fd469129c2abb94403ec3b4681f99be8b021</parameter>
+		<parameter type="string" name="script_name">guid://57db76d28689eea0d4ff8056ea026528d4b62dc8</parameter>
+		<parameter type="string" name="sound_settings_path"/>
+		<parameter type="string" name="viewports_settings"/>
+	</parameters>
+</asset>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>9fdd40705c24f75d0de70d73462c1bb1c3a814a5</guid>
+	<type>sound</type>
+	<hash>fc8c548c</hash>
+	<runtimes>
+		<runtime id="9fdd40705c24f75d0de70d73462c1bb1c3a814a5" name="ledakan.mp3" link="0" type="7"/>
+	</runtimes>
+</asset>

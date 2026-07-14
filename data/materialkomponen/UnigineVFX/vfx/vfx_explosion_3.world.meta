@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>4481295a900a00c9f16476abb19a84b48e887860</guid>
+	<type>world</type>
+	<hash>1d6012c9</hash>
+	<runtimes>
+		<runtime id="4481295a900a00c9f16476abb19a84b48e887860" name="vfx_explosion_3.world" link="0"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="physics_settings_path"/>
+		<parameter type="string" name="render_settings_path">guid://2047fd469129c2abb94403ec3b4681f99be8b021</parameter>
+		<parameter type="string" name="script_name">guid://66ed68f8b59fb0f0f879b5d4c98329fdd1cef3e5</parameter>
+		<parameter type="string" name="sound_settings_path"/>
+		<parameter type="string" name="viewports_settings"/>
+	</parameters>
+</asset>

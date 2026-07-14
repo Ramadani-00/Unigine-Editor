@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.19.0.3" name="helicoptercontroller" guid="c1ff9081af909b4d49e9e250bbd093340fde981f" parent="657ecdbbfc83135a26777f86012da3587b67be0c" editable="0">
+	<parameter name="keyBinding" type="string" title="Nama Identitas Heli (AS365N3 / NB412S)" tooltip="Wajib sama dengan teks pilihan di cbPilihHeli Delphi agar tidak salah sasaran">AS365N3</parameter>
+	<parameter name="landing_speed" type="float" title="Kecepatan Auto Landing">3</parameter>
+	<parameter name="helicopterSound" type="node" title="Sound Heli (Snd_heli)" filter="SoundSource"/>
+	<parameter name="audioDuration" type="float" title="Durasi File Audio (Detik)">81</parameter>
+	<parameter name="cutOffOffset" type="float" title="Waktu Pemotongan Akhir">0.5</parameter>
+	<parameter name="idleVolume" type="float">0.200000003</parameter>
+	<parameter name="flyVolume" type="float">1.20000005</parameter>
+	<parameter name="idlePitch" type="float">0.600000024</parameter>
+	<parameter name="flyPitch" type="float">1.29999995</parameter>
+	<parameter name="audioResponseSpeed" type="float">2</parameter>
+	<parameter name="isControlled" type="toggle">1</parameter>
+	<parameter name="crashSmokeVFX" type="node" title="VFX Asap Kebakaran Heli" tooltip="Masukkan node asap smoke_test ke sini"/>
+</property>

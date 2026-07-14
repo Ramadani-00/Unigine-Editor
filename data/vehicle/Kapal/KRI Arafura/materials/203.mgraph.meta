@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>0ed52db0984a8d944a4145f9a92a6a37e06fc60e</guid>
+	<type>material_graph</type>
+	<hash>66f82d64</hash>
+	<runtimes>
+		<runtime id="0ed52db0984a8d944a4145f9a92a6a37e06fc60e" name="203.mgraph" link="0"/>
+		<runtime id="49f0f2622bab5f7bf17cd1d3d67b97843156f070" name="203" link="1" type="5"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.19.0.3" name="ShipRemoteControl" manual="1" parent_name="C# Components" editable="0">
+	<parameter name="shipID" type="string" title="ID Kapal">KRI_RADJIMAN</parameter>
+	<parameter name="maxMoveSpeed" type="float">15.5</parameter>
+	<parameter name="accelerationFactor" type="float">0.5</parameter>
+	<parameter name="maxTurnSpeed" type="float">15</parameter>
+	<parameter name="turnAccelerationFactor" type="float">1.5</parameter>
+	<parameter name="isSubmarine" type="toggle" title="Apakah Kapal Selam?" tooltip="Centang ini KHUSUS untuk KRI Alugoro">0</parameter>
+	<parameter name="diveSpeed" type="float">2</parameter>
+	<parameter name="maxDiveDepth" type="float">-15</parameter>
+	<parameter name="surfaceZPosition" type="float">0</parameter>
+	<parameter name="propellerLeft" type="node"/>
+	<parameter name="propellerRight" type="node"/>
+	<parameter name="propRotationMultiplier" type="float">600</parameter>
+	<parameter name="engineSound" type="node" title="Sound Mesin (Snd_Engine)" filter="SoundSource"/>
+	<parameter name="idleVolume" type="float">0.300000012</parameter>
+	<parameter name="maxGasVolume" type="float">1.20000005</parameter>
+	<parameter name="idlePitch" type="float">0.699999988</parameter>
+	<parameter name="maxGasPitch" type="float">1.29999995</parameter>
+	<parameter name="hornSound" type="node" title="Sound Klakson (Snd_horn)" filter="SoundSource"/>
+	<parameter name="submarineSonarSound" type="node" title="Sound Sonar (Snd_Alugoro)" filter="SoundSource"/>
+</property>

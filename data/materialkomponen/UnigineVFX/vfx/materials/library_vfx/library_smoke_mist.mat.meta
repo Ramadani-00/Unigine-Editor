@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>7c8e19bfe18de340da3104c7344a704e25f66a42</guid>
+	<type>material</type>
+	<hash>31ec476</hash>
+	<runtimes>
+		<runtime id="7c8e19bfe18de340da3104c7344a704e25f66a42" name="library_smoke_mist" link="0" type="5"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>63c2f8676389b92deb21b69bb3df413bc31a775b</guid>
+	<type>component</type>
+	<hash>84dd0778</hash>
+	<runtimes>
+		<runtime id="63c2f8676389b92deb21b69bb3df413bc31a775b" name="foam.cs" link="0"/>
+		<runtime id="2a3d376d452c371271500f81d2d852d6e4d3d581" name="Foam.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

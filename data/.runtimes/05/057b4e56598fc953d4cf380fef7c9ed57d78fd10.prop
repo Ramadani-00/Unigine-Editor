@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.19.0.3" name="ShipDamageHandler" guid="057b4e56598fc953d4cf380fef7c9ed57d78fd10" parent="657ecdbbfc83135a26777f86012da3587b67be0c" editable="0">
+	<parameter name="smokeVFXList" type="array" title="Daftar Efek Asap" array_type="node"/>
+	<parameter name="hitsToActivate" type="int" title="Jumlah Hit untuk Berasap &amp; Tenggelam">1</parameter>
+	<parameter name="sinkDepth" type="float" title="Jarak Tenggelam (Meter)">6</parameter>
+	<parameter name="sinkSpeed" type="float" title="Kecepatan Tenggelam">0.5</parameter>
+	<parameter name="sinkDelayDuration" type="float" title="Jeda Waktu Tenggelam (Detik)" tooltip="Berapa detik kapal menunggu setelah meledak sebelum mulai amblas tenggelam">3</parameter>
+</property>

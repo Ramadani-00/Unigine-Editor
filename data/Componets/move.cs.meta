@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>ac7d7f97a28807afdedf22a700df9e627bd5c329</guid>
+	<type>component</type>
+	<hash>5b888e21</hash>
+	<runtimes>
+		<runtime id="ac7d7f97a28807afdedf22a700df9e627bd5c329" name="move.cs" link="0"/>
+		<runtime id="19eb171dd23b50e3072257ad15a44ab85b46c59f" name="move.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

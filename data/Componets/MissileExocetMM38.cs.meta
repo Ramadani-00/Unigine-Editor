@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>a7aed5f772f03d3f8dc5ff1894190f788cd971b0</guid>
+	<type>component</type>
+	<hash>f5cd67b7</hash>
+	<runtimes>
+		<runtime id="a7aed5f772f03d3f8dc5ff1894190f788cd971b0" name="MissileExocetMM38.cs" link="0"/>
+		<runtime id="4323ce7db2d375c14f4264f62323cbcb8cf7c54e" name="MissileExocetMM40.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

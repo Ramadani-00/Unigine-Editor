@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>b1b6adbca4883e47f3b05310cfca8fba589cce9a</guid>
+	<type>component</type>
+	<hash>26981b95</hash>
+	<runtimes>
+		<runtime id="b1b6adbca4883e47f3b05310cfca8fba589cce9a" name="frontdoor.cs" link="0"/>
+		<runtime id="476f33fa9667c5418ec1c62ed8b0c75a8694b328" name="frontdoor.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

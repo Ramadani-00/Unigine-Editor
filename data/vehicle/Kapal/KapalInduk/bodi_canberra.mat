@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="10967a11e0824d32f96d2b941e7e5a81aa95a111" base_material="4dfec30f491f753f6e89094db6d3d695e89f9d6f">
+	<options transparent="1" two_sided="1"/>
+	<state name="material_shoreline_wetness">0</state>
+	<texture name="albedo">guid://d96dddbf70c7c54c5fc2faea9e0853adc7c8cd7f</texture>
+</material>

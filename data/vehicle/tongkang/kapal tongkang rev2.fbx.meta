@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>fc3c1525b0eb35412be908509c5bd00083c2ea21</guid>
+	<type>fbx</type>
+	<hash>6c559e9d</hash>
+	<runtimes>
+		<runtime id="fc3c1525b0eb35412be908509c5bd00083c2ea21" name="kapal tongkang rev2.fbx" link="0"/>
+		<runtime id="89b9969375922d898ddde054f2052fb7b0c561d0" name="kapal tongkang rev2.node" link="1" type="3">
+			<parameters>
+				<parameter type="string" name="id">c1faade8</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="7a95a413b7f33d848648e626dee58d8e68bdcaef" name="barge_body.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">142a4946</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="f882cffdcf9d8b99e329cda6d47f1d9dfe447b82" name="fookingpeople.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">b07ef54d</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="9c64097d80466261b5d593c8d5a595337ed104f9" name="charcoal.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">9727ac8e</parameter>
+			</parameters>
+		</runtime>
+	</runtimes>
+	<parameters>
+		<parameter type="float" name="angular_deflection">0.699999988</parameter>
+		<parameter type="bool" name="asset_name_as_prefix">0</parameter>
+		<parameter type="string" name="base_material_mode">inherit_mesh_base</parameter>
+		<parameter type="float" name="bound_size">10000</parameter>
+		<parameter type="bool" name="create_transform_bones_for_joints">0</parameter>
+		<parameter type="float" name="fps">30</parameter>
+		<parameter type="string" name="front_axis">default</parameter>
+		<parameter type="bool" name="import_animations">1</parameter>
+		<parameter type="bool" name="import_bones_without_skin">1</parameter>
+		<parameter type="bool" name="import_cameras">1</parameter>
+		<parameter type="bool" name="import_lights">1</parameter>
+		<parameter type="bool" name="import_materials">1</parameter>
+		<parameter type="string" name="import_materials_mode">take_by_name_or_create</parameter>
+		<parameter type="bool" name="import_meshes">1</parameter>
+		<parameter type="bool" name="import_morph_targets">0</parameter>
+		<parameter type="bool" name="import_tangent_space">0</parameter>
+		<parameter type="bool" name="import_textures">1</parameter>
+		<parameter type="bool" name="invert_gchannel_for_normal_maps">0</parameter>
+		<parameter type="bool" name="joints_reorientation">1</parameter>
+		<parameter type="string" name="lightmaps">{&quot;guid://7a95a413b7f33d848648e626dee58d8e68bdcaef&quot;:{&quot;barge&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;body&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3},&quot;charcoal&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://9c64097d80466261b5d593c8d5a595337ed104f9&quot;:{&quot;charcoal&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://f882cffdcf9d8b99e329cda6d47f1d9dfe447b82&quot;:{&quot;Material #27&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}}}</parameter>
+		<parameter type="float" name="linear_deflection">0.200000003</parameter>
+		<parameter type="string" name="lods">_lod_0,-1e+09,3,0,0,100,0,0,60;_lod_1,3,9,0,0,60,0,1,60;_lod_2,9,1e+09,0,0,30,0,1,60</parameter>
+		<parameter type="string" name="lods_mode">off</parameter>
+		<parameter type="string" name="material_guids">barge,9da4330d5d7bed99621686f6b5e335f7811fe1d2,body,fab5a39116abf3df7306840a882c2ac8b10eb926,charcoal,86efad07bbdcb78f09d2f118762f56f03e73b4d4,material #27,6294492b254e9c351472cc4cfa6ede5e5ee20b48,multi-barge slot #10,99b3cb17888474b3e8cc31681c97fd37a5e2ee24,multi-barge slot #10_1,db66a543636e9b0626a4f7c4b9df72e3e3b04440,multi-barge slot #10_2,9c28a3afe4d501529caf9b6067fbadfe634a899c,multi-barge slot #5,7d281455b196a89acbb32a5e04a1f12c16577bba,multi-barge slot #5_1,7275d0217b46402e11081cda5568ccfcab944ef6,multi-barge slot #5_2,26421e2d4d18faf502c4d29600f529b89d343772,multi-barge slot #6,346d5f8f67dc3083b2e8f2c0884795de3e37aefc,multi-barge slot #6_1,b30a283bd51d6e32245b719cb39cd93d3868b198,multi-barge slot #6_2,0d6f4d273de87393eff0e5b8100ca8bf31a5bb74,multi-barge slot #7,15bb0959b6bcd6e0cc048df266ff0fe048153d8e,multi-barge slot #7_1,0a1de9e5f085075f25d8b02eafbdec2ca580068a,multi-barge slot #7_2,35f400b1ba9d6a2467fa49aad58095730a7698c6,multi-barge slot #8,42fe14335e4f8f8a30f3987471e18e6cb884d3f0,multi-barge slot #8_1,7cef0f9f64019cf1a9ad4d10dcbd464e5f5e124c,multi-barge slot #8_2,9825ab4bf0f9a0cbc73ecaecbec752b003d22be8,multi-barge slot #9,ad1e469de4a57c75f93c02c6288d1555bfaa52a2,multi-barge slot #9_1,20af17e93780fa81d872d0c28e6a9233df9d8d5e,multi-barge slot #9_2,6daa03756a97ed5c3dd009fe8e4a8077c796855a</parameter>
+		<parameter type="bool" name="merge_similar_materials">0</parameter>
+		<parameter type="bool" name="merge_static_meshes">0</parameter>
+		<parameter type="bool" name="merge_surfaces_by_materials">0</parameter>
+		<parameter type="float" name="morph_targets_normals_angle">180</parameter>
+		<parameter type="string" name="morph_targets_normals_mode">import</parameter>
+		<parameter type="bool" name="need_repivot">0</parameter>
+		<parameter type="bool" name="need_split">0</parameter>
+		<parameter type="bool" name="need_triagulate">1</parameter>
+		<parameter type="int" name="num_lods">3</parameter>
+		<parameter type="string" name="prefix_materials"/>
+		<parameter type="string" name="resolution">256</parameter>
+		<parameter type="float" name="scale">1</parameter>
+		<parameter type="bool" name="skip_empty_nodes">0</parameter>
+		<parameter type="int" name="smooth_animation_size">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_0">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_1">0</parameter>
+		<parameter type="string" name="up_axis">default</parameter>
+		<parameter type="bool" name="use_instances">1</parameter>
+		<parameter type="int" name="uv_ch">1</parameter>
+		<parameter type="bool" name="vertex_cache">1</parameter>
+		<parameter type="string" name="workflow">specular</parameter>
+	</parameters>
+</asset>

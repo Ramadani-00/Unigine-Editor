@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>0d15f303c8e32d8f6d1d109c53522c7895f10088</guid>
+	<type>material_graph</type>
+	<hash>bb2dd81</hash>
+	<runtimes>
+		<runtime id="0d15f303c8e32d8f6d1d109c53522c7895f10088" name="vl mica.mgraph" link="0"/>
+		<runtime id="049aa1ed2ed706380785672e505ac113355a62fa" name="vl mica" link="1" type="5"/>
+	</runtimes>
+</asset>

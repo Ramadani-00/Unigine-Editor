@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>9d0640c0064cbd1f99b5e7f22bb826a99ab13ff4</guid>
+	<type>node</type>
+	<hash>8d76068a</hash>
+	<runtimes>
+		<runtime id="9d0640c0064cbd1f99b5e7f22bb826a99ab13ff4" name="sand_falling_particles.node" link="0" type="3"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="af25e3407d0c5ea4c746b113e9505917cfdf13e1" parent="caa8a12b333d882969e781d74be084797bf1c241" base_material="b7c07dfd4ce80edac55fcbfdd0befa02ccd20b88">
+	<options blend_src="2" blend_dest="2" depth_test="1" overlap="0"/>
+	<state name="albedo_color_type">1</state>
+	<state name="ambient">0</state>
+	<state name="light_world">0</state>
+	<state name="emission">1</state>
+	<state name="transparent_scene_depth">0</state>
+	<texture name="albedo">guid://245b9a17b8b8713aac56d65a89f6843ab6fc3a7a</texture>
+	<texture name="albedo_color">
+		<curve2d>
+			<keys>
+				<key point="0 0" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.0500000007 0.200000003" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.699999988 0.200000003" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1 0" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0 0" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.0500000007 0.200000003" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.699999988 0.200000003" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1 0" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0 0" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.0500000007 0.200000003" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.699999988 0.200000003" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1 0" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0.00200000009 0" left_tangent="0 0" right_tangent="0.267999858 0.579997838"/>
+				<key point="0.998000026 -0.0280000567" left_tangent="-0.636000633 0.235992014" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+	</texture>
+	<texture name="normal">guid://8b90810e808f1515d526637010f0a00f99e40e22</texture>
+	<texture name="emission">guid://245b9a17b8b8713aac56d65a89f6843ab6fc3a7a</texture>
+	<parameter name="albedo_color" expression="0">1 0.843137324 0.725490212 1</parameter>
+	<parameter name="animation_size" expression="0">4 4</parameter>
+	<parameter name="animation_scale" expression="0">1</parameter>
+	<parameter name="refraction_scale" expression="0">0.200000003</parameter>
+	<parameter name="soft_interaction_scale" expression="0">0.362470001</parameter>
+	<parameter name="diffuse_scale" expression="0">0.261000007</parameter>
+	<parameter name="emission_scale" expression="0">1.79900002</parameter>
+</material>

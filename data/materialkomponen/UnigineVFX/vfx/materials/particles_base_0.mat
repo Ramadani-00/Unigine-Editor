@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="67282ea50a2c0fc0d8b2401f860f8ef233cfa1a9" base_material="b7c07dfd4ce80edac55fcbfdd0befa02ccd20b88">
+	<options transparent="1" blend_src="0" blend_dest="0"/>
+	<state name="transparent_opacity_depth">1</state>
+	<state name="transparent_velocity">1</state>
+	<state name="transparent_material_mask">1</state>
+	<parameter name="albedo_color" expression="0">1 1 1 0</parameter>
+</material>

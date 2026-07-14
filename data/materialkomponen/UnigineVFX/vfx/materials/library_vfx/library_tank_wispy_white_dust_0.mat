@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="32b0f3110ced113c0832bb6b2b2219ce889056d5" parent="fd3c0fc1e245845be806ce4ece6100eee97c19c6" base_material="b7c07dfd4ce80edac55fcbfdd0befa02ccd20b88">
+	<texture name="albedo_color">
+		<curve2d>
+			<keys>
+				<key point="0.0500000007 0.620000005" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.699999988 0.620000005" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0 0.569999993" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.699999988 0.569999993" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0 0.56400001" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1 0.56400001" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0 0" left_tangent="0 0" right_tangent="0.147999778 0.241142869"/>
+				<key point="0.998000264 0" left_tangent="-0.215714097 1.22171569" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+	</texture>
+</material>

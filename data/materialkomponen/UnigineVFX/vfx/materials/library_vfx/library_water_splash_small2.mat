@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="b6819007c1c49c6aa771ea001856ccaf66ccdbcb" parent="cb3efb53459273a5337bfc1eaff041a5fd342807" base_material="b7c07dfd4ce80edac55fcbfdd0befa02ccd20b88">
+	<options blend_src="5" blend_dest="6" cast_world_shadow="1"/>
+	<state name="albedo_color_type">1</state>
+	<state name="animation">1</state>
+	<state name="world_shadow">1</state>
+	<state name="lerp_cascades">1</state>
+	<state name="shadow_filter_mode">3</state>
+	<state name="shadow_filter_noise">1</state>
+	<texture name="albedo">guid://226ba2ae13f24a1e61377ca1c058fcd6912952b1</texture>
+	<texture name="albedo_color">
+		<curve2d>
+			<keys>
+				<key point="0 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.0500000007 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.699999988 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1 1" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.0500000007 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.699999988 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1 1" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.0500000007 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.699999988 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1 1" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0 0" left_tangent="0 0" right_tangent="0.151428625 1.82857215"/>
+				<key point="1 0" left_tangent="-0.751428902 0.108571708" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+	</texture>
+	<parameter name="albedo_color" expression="0">0.913725555 0.968627512 1 0.588235319</parameter>
+	<parameter name="translucent" expression="0">0.159380004</parameter>
+	<parameter name="translucent_depth" expression="0">4.49870014</parameter>
+</material>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>d61a6dca7a9bfee71248c0d9e55398b18f4dddf0</guid>
+	<type>component</type>
+	<hash>16bc64f</hash>
+	<runtimes>
+		<runtime id="d61a6dca7a9bfee71248c0d9e55398b18f4dddf0" name="GunLauncher.cs" link="0"/>
+		<runtime id="ad5ca4d8c8e3d59cae4d3b0fac7f75ed7582378e" name="GunLauncher.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

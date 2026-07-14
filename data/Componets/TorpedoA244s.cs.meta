@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>9cbbf7969956286eb74d98741e951c574b0063cf</guid>
+	<type>component</type>
+	<hash>f9e2ca6</hash>
+	<runtimes>
+		<runtime id="9cbbf7969956286eb74d98741e951c574b0063cf" name="TorpedoA244s.cs" link="0"/>
+		<runtime id="82b2d4c4a514c5a556667df2954307e2e05552d5" name="TorpedoA244s.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

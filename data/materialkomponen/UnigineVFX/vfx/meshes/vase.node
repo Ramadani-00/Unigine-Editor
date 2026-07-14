@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.19.0.3">
+	<node type="ObjectMeshStatic" id="638624814" name="vase">
+		<mesh_name>guid://89c57cdf1cfe24b28d57bc69c5365ab4c3e94683</mesh_name>
+		<surface name="surface_0" physics_friction="1" physics_restitution="1" material="fd9752e580826700c7182e5f826a283214b8e9e9" lighting_mode="0" intersection="1"/>
+		<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+	</node>
+</nodes>

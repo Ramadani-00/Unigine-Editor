@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>c8be5cde87d26f1a7416e6e1dd57677f36623dff</guid>
+	<type>property</type>
+	<hash>deee0d41</hash>
+	<runtimes>
+		<runtime id="c8be5cde87d26f1a7416e6e1dd57677f36623dff" name="ShipUDPManager" link="0" type="4"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="3411c221e9e7f50c77052cfbbc213e1e19cd0ee5" base_material="b7c07dfd4ce80edac55fcbfdd0befa02ccd20b88">
+	<options blend_src="5" blend_dest="6"/>
+	<state name="albedo_color_type">1</state>
+	<state name="animation">1</state>
+	<state name="refraction">1</state>
+	<state name="motion_vectors">1</state>
+	<state name="motion_vectors_type">1</state>
+	<state name="emission">1</state>
+	<state name="transparent_opacity_depth">1</state>
+	<state name="transparent_velocity">1</state>
+	<state name="transparent_material_mask">1</state>
+	<texture name="albedo">guid://9658171038a87f2fab4122c247890339c63dd344</texture>
+	<texture name="albedo_color">
+		<curve2d>
+			<keys>
+				<key point="0 0.668569982" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.0500000007 0.668569982" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.699999988 0.668569982" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1 0.668569982" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0 0.668569982" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.0500000007 0.668569982" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.699999988 0.668569982" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1 0.668569982" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0 0.668569982" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.0500000007 0.668569982" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.699999988 0.668569982" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1 0.668569982" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="-0.00200000009 0" left_tangent="0 0" right_tangent="1.00267529 2.17891359"/>
+				<key point="1 -0.100000001" left_tangent="-0.693709493 0.0634218231" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+	</texture>
+	<texture name="normal">guid://188e68946fc93ae3d74862e6aaf99d0db5f41b08</texture>
+	<texture name="motion_vectors">guid://4bdea4c5e3a0cf601e99bb3f53ff8f9258df69c9</texture>
+	<texture name="emission">guid://bf1e479aff89f231d3b8c5dcee22a78b7f85d76e</texture>
+	<texture name="emission_color">
+		<curve2d>
+			<keys>
+				<key point="0.0139999995 1.25199902" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.483999997 0.671999097" left_tangent="-0.456 0.00799947977" right_tangent="0.00999999046 0"/>
+				<key point="1.01399994 1.25199902" left_tangent="-0.352000058 -0.00400042534" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1 0" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1 0" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+	</texture>
+	<parameter name="soft_interaction_scale" expression="0">0.200000003</parameter>
+	<parameter name="motion_vectors_scale" expression="0">16.434</parameter>
+	<parameter name="motion_vectors_jitter" expression="0">0.0573600009</parameter>
+	<parameter name="motion_vectors_motion_blur" expression="0">4</parameter>
+	<parameter name="emission_scale" expression="0">31.9379997</parameter>
+</material>

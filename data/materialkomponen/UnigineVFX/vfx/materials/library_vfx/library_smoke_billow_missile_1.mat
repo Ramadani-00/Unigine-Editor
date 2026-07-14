@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="275ba9a067bf85946dbb1ea0abab1db8a6b607a9" parent="4abefb138719cc83b946a1a0484fe441c471fd38" base_material="b7c07dfd4ce80edac55fcbfdd0befa02ccd20b88">
+	<options blend_src="5" blend_dest="6"/>
+	<state name="world_shadow">1</state>
+	<state name="lerp_cascades">1</state>
+	<texture name="albedo">guid://b42b56a65b80f5872a12c10954af39493d22b96f</texture>
+	<texture name="albedo_color">
+		<curve2d>
+			<keys>
+				<key point="-0.00199999963 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.0480000004 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.698000014 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.998000026 1" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="-0.00199999963 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.0480000004 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.698000014 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.998000026 1" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="-0.00199999963 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.0480000004 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.698000014 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.998000026 1" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0 0" left_tangent="0 0" right_tangent="0.261999995 0.739999175"/>
+				<key point="1 0" left_tangent="-1.12199974 -0.00800031424" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+	</texture>
+	<parameter name="albedo_color" expression="0">0.866666734 0.866666734 0.866666734 0.0274509825</parameter>
+	<parameter name="animation_size" expression="0">8 8</parameter>
+	<parameter name="animation_scale" expression="0">1</parameter>
+	<parameter name="environment_scale" expression="0">1</parameter>
+	<parameter name="diffuse_scale" expression="0">1</parameter>
+	<parameter name="translucent" expression="0">0.501290023</parameter>
+	<parameter name="translucent_depth" expression="0">4.47300005</parameter>
+	<parameter name="softness_multiplier" expression="0">5.55270004</parameter>
+</material>

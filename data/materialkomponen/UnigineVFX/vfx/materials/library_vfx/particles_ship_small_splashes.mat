@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="3d68c8ec298d4cac52769b1ff831634ee811358e" base_material="b7c07dfd4ce80edac55fcbfdd0befa02ccd20b88">
+	<options blend_src="5" blend_dest="6" depth_test="1" cast_world_shadow="1"/>
+	<state name="albedo_color_type">1</state>
+	<state name="animation">1</state>
+	<state name="disable_render_in_underwater">1</state>
+	<state name="shadow">1</state>
+	<state name="world_shadow">1</state>
+	<state name="lerp_cascades">1</state>
+	<state name="shadow_filter_mode">3</state>
+	<state name="shadow_filter_noise">1</state>
+	<state name="transparent_opacity_depth">1</state>
+	<state name="transparent_velocity">1</state>
+	<state name="transparent_material_mask">1</state>
+	<texture name="albedo">guid://226ba2ae13f24a1e61377ca1c058fcd6912952b1</texture>
+	<texture name="albedo_color">
+		<curve2d>
+			<keys>
+				<key point="0 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.0500000007 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.699999988 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1 1" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.0500000007 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.699999988 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1 1" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.0500000007 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.699999988 1" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1 1" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0 0" left_tangent="0 0" right_tangent="0.383142799 2.15314102"/>
+				<key point="1.00399995 -0.0280001163" left_tangent="-0.845999599 0.0239993334" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+	</texture>
+	<texture name="normal">guid://0dde8c90d11837001b3b9519194434a93d9f6e46</texture>
+	<parameter name="animation_size" expression="0">4 4</parameter>
+	<parameter name="animation_scale" expression="0">0.5</parameter>
+	<parameter name="refraction_scale" expression="0">0.284999996</parameter>
+	<parameter name="soft_interaction_scale" expression="0">0.200000003</parameter>
+	<parameter name="translucent" expression="0">0.290490001</parameter>
+	<parameter name="translucent_depth" expression="0">5.11569977</parameter>
+</material>

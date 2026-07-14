@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>0fa8695245e012bfcd882730d818b5e1e0f47dd7</guid>
+	<type>node</type>
+	<hash>6af2d7ce</hash>
+	<runtimes>
+		<runtime id="0fa8695245e012bfcd882730d818b5e1e0f47dd7" name="Out_Smoke_Torpedo.node" link="0" type="3"/>
+	</runtimes>
+</asset>

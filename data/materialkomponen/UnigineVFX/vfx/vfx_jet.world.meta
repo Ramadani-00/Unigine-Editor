@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>8b7bf37a5242c5bfae3a7c75af0e9eb8dee31701</guid>
+	<type>world</type>
+	<hash>bf51c06c</hash>
+	<runtimes>
+		<runtime id="8b7bf37a5242c5bfae3a7c75af0e9eb8dee31701" name="vfx_jet.world" link="0"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="physics_settings_path"/>
+		<parameter type="string" name="render_settings_path">guid://2047fd469129c2abb94403ec3b4681f99be8b021</parameter>
+		<parameter type="string" name="script_name">guid://99012fbc4291d3799b62c140a1deb41e7ffd7472</parameter>
+		<parameter type="string" name="sound_settings_path"/>
+		<parameter type="string" name="viewports_settings"/>
+	</parameters>
+</asset>

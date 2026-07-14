@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>3d68c8ec298d4cac52769b1ff831634ee811358e</guid>
+	<type>material</type>
+	<hash>58657287</hash>
+	<runtimes>
+		<runtime id="3d68c8ec298d4cac52769b1ff831634ee811358e" name="particles_ship_small_splashes" link="0" type="5"/>
+	</runtimes>
+</asset>

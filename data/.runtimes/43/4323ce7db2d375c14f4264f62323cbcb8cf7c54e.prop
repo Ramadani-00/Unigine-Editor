@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.19.0.3" name="MissileExocetMM40" guid="4323ce7db2d375c14f4264f62323cbcb8cf7c54e" parent="657ecdbbfc83135a26777f86012da3587b67be0c" editable="0">
+	<parameter name="ownerShipID" type="string" title="ID Kapal Pemilik" tooltip="Harus sama dengan ID Kapal di Delphi agar tidak tertukar saat menembak, misal KRI_RE_MARTADINATA">KRI_RE_MARTADINATA</parameter>
+	<parameter name="speed" type="float" title="Kecepatan (m/s)">315</parameter>
+	<parameter name="turnSpeed" type="float" title="Kecepatan Belok">3</parameter>
+	<parameter name="seaSkimmingHeight" type="float" title="Tinggi Sea Skimming (m)">2.5</parameter>
+	<parameter name="launchAscentHeight" type="float" title="Tinggi Melambung Awal (m)">15</parameter>
+	<parameter name="straightFlightDuration" type="float" title="Durasi Terbang Lurus (Detik)" tooltip="Berapa detik misil dipaksa lurus searah tabung sebelum mulai berbelok/menukik">1</parameter>
+	<parameter name="targetNode" type="node" title="Target (KRI Golok)"/>
+	<parameter name="selfShipNode" type="node" title="Kapal Sendiri (KRI Belati)"/>
+	<parameter name="keyBinding" type="string" title="Nomor Tabung Bind (1 sampai 8)">1</parameter>
+	<parameter name="explosionPrefab" type="node" title="Prefab Ledakan Target"/>
+	<parameter name="waterExplosionPrefab" type="node" title="Prefab Ledakan Air"/>
+	<parameter name="rocketMotorVFX" type="node" title="VFX Motor Roket (Terbang)"/>
+	<parameter name="smokeWisp" type="node" title="Asap Awal (Smoke Wisp)"/>
+	<parameter name="smokeMissile" type="node" title="Asap Ekor Terbang (Smoke Missile)"/>
+	<parameter name="fireGlow" type="node" title="Efek Cahaya Api (Fire Glow)"/>
+	<parameter name="sndMeluncurNode" type="node" title="Audio Meluncur (Snd_meluncur)"/>
+	<parameter name="sndMeledakNode" type="node" title="Audio Meledak (Snd_meledak)"/>
+	<parameter name="launchDelay" type="float" title="Jeda Luncur (Detik)">1</parameter>
+</property>

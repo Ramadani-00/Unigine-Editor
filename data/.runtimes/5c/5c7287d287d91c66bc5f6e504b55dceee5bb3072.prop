@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.19.0.3" name="majumanual" guid="5c7287d287d91c66bc5f6e504b55dceee5bb3072" parent="657ecdbbfc83135a26777f86012da3587b67be0c" editable="0">
+	<parameter name="movement_speed" type="float">18</parameter>
+	<parameter name="rotation_speed" type="float">30</parameter>
+</property>

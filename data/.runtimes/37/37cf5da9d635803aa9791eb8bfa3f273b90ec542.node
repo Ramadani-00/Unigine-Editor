@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.19.0.3">
+	<node type="NodeDummy" id="1167483361" name="KRI Golok_rev2">
+		<transform>1 1.74845560007e-07 0 0.0 -1.74845560007e-07 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="1057657292" immovable="1" name="BodiKRI_H">
+			<mesh_name>guid://590737a7be8a39bc55aecf045faf7d9fc83943b9</mesh_name>
+			<surface name="body" intersection="1" material="8968d59d6b89009959a6a2dcd4a0ed5198065006"/>
+			<surface name="accessories" intersection="1" material="5d32f217bedecb6a3a50c36e6f181546f38d2528"/>
+			<transform>0.9999999934 -1.74845551993e-07 0 0.0 1.74845551993e-07 0.9999999934 0 0.0 0 0 0.9999999934 0.0 0 0 0 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1660658363" immovable="1" name="Radar2">
+			<mesh_name>guid://6d28e103edab93ea2a7b2aaa332b5bb9d56419c4</mesh_name>
+			<surface name="Material #36" intersection="1" material="6981024bc32331be3cfe3ed231438e5fcd12522c"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 1.65118803332e-06 4.67111063004 6.75719690323 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1783609566" immovable="1" name="Radar1">
+			<mesh_name>guid://d62a5f31baa2a93a49f68bd60a02dcfa78ec5a53</mesh_name>
+			<surface name="Material #36" intersection="1" material="6981024bc32331be3cfe3ed231438e5fcd12522c"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 -2.28496361628e-06 -12.7275695801 16.1199188232 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1943128741" immovable="1" name="gun1">
+			<mesh_name>guid://32ab3fedfa1d48d0959893ec8813757e5e879b96</mesh_name>
+			<surface name="accessories" intersection="1" material="5d32f217bedecb6a3a50c36e6f181546f38d2528"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 -1.95453913651e-07 -2.23573207855 6.8229265213 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="2129722304" immovable="1" name="gun2">
+			<mesh_name>guid://1cf79dcb424c9d0a652950f89588068a42f59dfd</mesh_name>
+			<surface name="accessories" intersection="1" material="5d32f217bedecb6a3a50c36e6f181546f38d2528"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 -5.42456470628e-06 -21.3662242889 9.10974788666 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1220164639" immovable="1" name="barrel2">
+			<mesh_name>guid://ff2dc4e7c4aa0aaf015cfafef209122bed8fc738</mesh_name>
+			<surface name="body" intersection="1" material="8968d59d6b89009959a6a2dcd4a0ed5198065006"/>
+			<surface name="accessories" intersection="1" material="5d32f217bedecb6a3a50c36e6f181546f38d2528"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 -5.48700348431e-06 -21.8423690796 10.0030918121 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="14637810" immovable="1" name="barrel1">
+			<mesh_name>guid://d319a9f50c00fee2b594b6eaa93690b90a946137</mesh_name>
+			<surface name="accessories" intersection="1" material="5d32f217bedecb6a3a50c36e6f181546f38d2528"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 -6.68784713683e-07 -2.47801017761 8.37262821198 1.0</transform>
+		</node>
+	</node>
+</nodes>

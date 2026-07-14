@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="b6e5351587c0625c6c5503dab247c94de0c4e6ac" parent="cb3efb53459273a5337bfc1eaff041a5fd342807" base_material="b7c07dfd4ce80edac55fcbfdd0befa02ccd20b88">
+	<options transparent="2" blend_src="5" blend_dest="6" depth_test="1" two_sided="0" cast_world_shadow="1"/>
+	<state name="albedo_color_type">1</state>
+	<state name="animation">1</state>
+	<state name="normal_map">1</state>
+	<state name="motion_vectors">1</state>
+	<state name="motion_vectors_type">1</state>
+	<state name="world_shadow">1</state>
+	<state name="lerp_cascades">1</state>
+	<state name="shadow_filter_noise">1</state>
+	<texture name="albedo">guid://ea233851a892157c198572abe698e80e88065015</texture>
+	<texture name="albedo_color">
+		<curve2d>
+			<keys>
+				<key point="0.00285714143 1.01400006" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1.00285697 1.01400006" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0.00285714143 1.01400006" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1.00285697 1.01400006" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0.00285714143 1.01400006" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1.00285697 1.01400006" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0.00199997821 0" left_tangent="0 0" right_tangent="0.300618738 1.35054207"/>
+				<key point="1.00400019 0" left_tangent="-0.302629352 1.23736191" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+	</texture>
+	<texture name="normal">guid://1483509e78a6ff65d7892980e26f0edf6fc68eb2</texture>
+	<texture name="motion_vectors">guid://7706688b0afca46e838520f52d403dd02aa2f6ef</texture>
+	<parameter name="albedo_color" expression="0">0.0392156988 0.0352941006 0.0352941006 0.372548997</parameter>
+	<parameter name="animation_scale" expression="0">1</parameter>
+	<parameter name="normal_scale" expression="0">0.5</parameter>
+	<parameter name="transparent_blur" expression="0">0.01547</parameter>
+	<parameter name="soft_interaction_scale" expression="0">1</parameter>
+	<parameter name="motion_vectors_scale" expression="0">8</parameter>
+	<parameter name="motion_vectors_jitter" expression="0">0.148939997</parameter>
+	<parameter name="motion_vectors_motion_blur" expression="0">1.42359996</parameter>
+	<parameter name="translucent" expression="0">0.353969991</parameter>
+	<parameter name="translucent_depth" expression="0">8.08510017</parameter>
+	<parameter name="softness_multiplier" expression="0">6.32499981</parameter>
+	<parameter name="shadow_threshold" expression="0">0.500970006</parameter>
+	<parameter name="shadow_offset" expression="0">-0.164399996</parameter>
+</material>

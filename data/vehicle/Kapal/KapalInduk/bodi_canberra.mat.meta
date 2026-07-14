@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>10967a11e0824d32f96d2b941e7e5a81aa95a111</guid>
+	<type>material</type>
+	<hash>4f2e869e</hash>
+	<runtimes>
+		<runtime id="10967a11e0824d32f96d2b941e7e5a81aa95a111" name="bodi_canberra" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

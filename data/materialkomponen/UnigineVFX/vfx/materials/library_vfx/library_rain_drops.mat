@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="210883390f8cd9bf6e4f8d7cd314706abe1e6470" parent="cb3efb53459273a5337bfc1eaff041a5fd342807" base_material="b7c07dfd4ce80edac55fcbfdd0befa02ccd20b88">
+	<options order="8" blend_src="2" blend_dest="2"/>
+	<state name="refraction">1</state>
+	<state name="emission">1</state>
+	<texture name="albedo">guid://71a152bc84b555ecb9e42453e9f8854e08338a70</texture>
+	<texture name="normal">guid://9eae0096dfa3b5bc38c7334b8eb1c102949b0d84</texture>
+	<texture name="emission">guid://71a152bc84b555ecb9e42453e9f8854e08338a70</texture>
+	<parameter name="albedo_color" expression="0">1 1 1 0.392156899</parameter>
+	<parameter name="normal_scale" expression="0">0.42554</parameter>
+	<parameter name="refraction_scale" expression="0">2</parameter>
+	<parameter name="transparent_blur" expression="0">0.0773700029</parameter>
+	<parameter name="emission_scale" expression="0">1.54700005</parameter>
+	<parameter name="translucent" expression="0">0.723399997</parameter>
+	<parameter name="translucent_depth" expression="0">4.19729996</parameter>
+</material>

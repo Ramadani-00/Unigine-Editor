@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>f9e7ac4ca07c678ea8d6c286f6d7adc8f9e37126</guid>
+	<type>component</type>
+	<hash>b957e65a</hash>
+	<runtimes>
+		<runtime id="f9e7ac4ca07c678ea8d6c286f6d7adc8f9e37126" name="ngapung.cs" link="0"/>
+		<runtime id="6c80540a4eecae491541c234c9b7c2dc569dacd4" name="BuoyComponent.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

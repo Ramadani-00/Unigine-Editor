@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>a0d99631e40aca3666e7f62deaa371a6f33c122f</guid>
+	<type>fbx</type>
+	<hash>c763938f</hash>
+	<runtimes>
+		<runtime id="a0d99631e40aca3666e7f62deaa371a6f33c122f" name="KRI 369.fbx" link="0"/>
+		<runtime id="5b2a8bc8210302377c47897c3e6eb7daa41d01d2" name="KRI 369.node" link="1" type="3">
+			<parameters>
+				<parameter type="string" name="id">c51849c7</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="225b381bff9a7daed4a24b77a6ec38de4e23b709" name="bodi_kribungkarno.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">fcda9bb8</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="1ba1ce3ab5afa6efedfccb0e812202844f0dd4d4" name="leonardo_40mm_base.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">24c17ae7</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="8cb92cc568acd8ad57e98781917018d48ba33a23" name="leonardo_40mm_launcher.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">91024188</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="6fc251fcffc075421bd322f0f83d8e630a4dd926" name="gun_20mm_base_r.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">da4be272</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="2f89bd7f39c6d20b8ae7ee9be7e7635afb9e1e4d" name="gun_20mm_launcher_r.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">fb8b2de7</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="55c2578e98273e65a68ad9a2afce3eabf90e2b48" name="gun_20mm_base_l.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">fcbf298b</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="e31128c9e3cfd81091a6574583db10ebc16dd607" name="gun_20mm_launcher_l.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">9c54a604</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="5e19137031859503cda46ba443793769b8f89bba" name="anchor_r.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">276de0fd</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="0528d12305d6d27882a47bffdfb1b9d2e444f7d1" name="anchor_l.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">c9d2e8a7</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="673fce22d8894aae3cb3a976d02aa3068215cefc" name="propeller_r.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">54fab072</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="6dbbdd0da47a8833d6ab9b495dceceaebe9ede2b" name="propeller_l.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">81420dfb</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="e3180424e3ab5089f8a7d79811773319e9385d8e" name="crane_r.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">418fbc1a</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="8c54d707e0590cb4e5a217a3645263edac704795" name="crane_l.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">a0b1ab62</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="e47e85f6be4f5b3ef410ce8aa6ccfe2bb834f3f0" name="radar_2.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">95a50aa</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="63244d91c7aa3888e648178d626f4a8e82c0f68f" name="radar_1.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">a4eeca26</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="c6d3981885d7719798a91acc6bfec62cd66f72a2" name="railing_r.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">830b8454</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="da28732ba536052e89052587a85ce556b9965199" name="railing_l.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">b8a88c13</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="8680130a338e458c2dad1cdef59c392085850e24" name="railing_bc.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">25fcdef3</parameter>
+			</parameters>
+		</runtime>
+	</runtimes>
+	<parameters>
+		<parameter type="float" name="angular_deflection">0.699999988</parameter>
+		<parameter type="bool" name="asset_name_as_prefix">0</parameter>
+		<parameter type="string" name="base_material_mode">unique_material_graph</parameter>
+		<parameter type="float" name="bound_size">10000</parameter>
+		<parameter type="bool" name="create_transform_bones_for_joints">0</parameter>
+		<parameter type="float" name="fps">30</parameter>
+		<parameter type="string" name="front_axis">default</parameter>
+		<parameter type="bool" name="import_animations">1</parameter>
+		<parameter type="bool" name="import_bones_without_skin">1</parameter>
+		<parameter type="bool" name="import_cameras">1</parameter>
+		<parameter type="bool" name="import_lights">1</parameter>
+		<parameter type="bool" name="import_materials">1</parameter>
+		<parameter type="string" name="import_materials_mode">take_by_name_or_create</parameter>
+		<parameter type="bool" name="import_meshes">1</parameter>
+		<parameter type="bool" name="import_morph_targets">0</parameter>
+		<parameter type="bool" name="import_tangent_space">0</parameter>
+		<parameter type="bool" name="import_textures">1</parameter>
+		<parameter type="bool" name="invert_gchannel_for_normal_maps">0</parameter>
+		<parameter type="bool" name="joints_reorientation">0</parameter>
+		<parameter type="string" name="lightmaps">{&quot;guid://0528d12305d6d27882a47bffdfb1b9d2e444f7d1&quot;:{&quot;Material #47&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://5e19137031859503cda46ba443793769b8f89bba&quot;:{&quot;Material #47&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://225b381bff9a7daed4a24b77a6ec38de4e23b709&quot;:{&quot;Material #46&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://8c54d707e0590cb4e5a217a3645263edac704795&quot;:{&quot;Material #47&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://e3180424e3ab5089f8a7d79811773319e9385d8e&quot;:{&quot;Material #47&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://55c2578e98273e65a68ad9a2afce3eabf90e2b48&quot;:{&quot;Material #47&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://6fc251fcffc075421bd322f0f83d8e630a4dd926&quot;:{&quot;Material #47&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://e31128c9e3cfd81091a6574583db10ebc16dd607&quot;:{&quot;Material #47&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://2f89bd7f39c6d20b8ae7ee9be7e7635afb9e1e4d&quot;:{&quot;Material #47&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://1ba1ce3ab5afa6efedfccb0e812202844f0dd4d4&quot;:{&quot;Material #47&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://8cb92cc568acd8ad57e98781917018d48ba33a23&quot;:{&quot;Material #47&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://6dbbdd0da47a8833d6ab9b495dceceaebe9ede2b&quot;:{&quot;Material #47&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://673fce22d8894aae3cb3a976d02aa3068215cefc&quot;:{&quot;Material #47&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://63244d91c7aa3888e648178d626f4a8e82c0f68f&quot;:{&quot;Material #47&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://e47e85f6be4f5b3ef410ce8aa6ccfe2bb834f3f0&quot;:{&quot;Material #47&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://8680130a338e458c2dad1cdef59c392085850e24&quot;:{&quot;Material #46&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://da28732ba536052e89052587a85ce556b9965199&quot;:{&quot;Material #46&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://c6d3981885d7719798a91acc6bfec62cd66f72a2&quot;:{&quot;Material #46&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}}}</parameter>
+		<parameter type="float" name="linear_deflection">0.200000003</parameter>
+		<parameter type="string" name="lods">_lod_0,-1e+09,3,0,0,100,0,0,60;_lod_1,3,9,0,0,60,0,1,60;_lod_2,9,1e+09,0,0,30,0,1,60</parameter>
+		<parameter type="string" name="lods_mode">off</parameter>
+		<parameter type="string" name="material_guids">material #46,4dfa3a5d6727058099e0b3993d9398578b2834fb,material #47,7492f378b0a0eb83047eac2c1338901b0c5d0502</parameter>
+		<parameter type="bool" name="merge_similar_materials">0</parameter>
+		<parameter type="bool" name="merge_static_meshes">0</parameter>
+		<parameter type="bool" name="merge_surfaces_by_materials">0</parameter>
+		<parameter type="float" name="morph_targets_normals_angle">180</parameter>
+		<parameter type="string" name="morph_targets_normals_mode">import</parameter>
+		<parameter type="bool" name="need_repivot">0</parameter>
+		<parameter type="bool" name="need_split">0</parameter>
+		<parameter type="bool" name="need_triagulate">1</parameter>
+		<parameter type="int" name="num_lods">3</parameter>
+		<parameter type="string" name="prefix_materials"/>
+		<parameter type="string" name="resolution">256</parameter>
+		<parameter type="float" name="scale">1</parameter>
+		<parameter type="bool" name="skip_empty_nodes">0</parameter>
+		<parameter type="int" name="smooth_animation_size">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_0">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_1">0</parameter>
+		<parameter type="string" name="up_axis">default</parameter>
+		<parameter type="bool" name="use_instances">1</parameter>
+		<parameter type="int" name="uv_ch">1</parameter>
+		<parameter type="bool" name="vertex_cache">1</parameter>
+		<parameter type="string" name="workflow">metalness</parameter>
+	</parameters>
+</asset>

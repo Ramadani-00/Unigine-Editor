@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.19.0.3" name="MissileVLMICA" guid="aae6640deda0d23634032280141c9c49773d6b39" parent="657ecdbbfc83135a26777f86012da3587b67be0c" editable="0">
+	<parameter name="ownerShipID" type="string" title="ID Kapal Pemilik" tooltip="Atur ke KRI_RE_MARTADINATA (12 Silo) atau KRI_BRAWIJAYA (16 Silo) sesuai dropdown Delphi">KRI_RE_MARTADINATA</parameter>
+	<parameter name="siloCap" type="node" title="Node Penutup (Cap)"/>
+	<parameter name="capOpenSpeed" type="float">120</parameter>
+	<parameter name="capTargetAngle" type="float">-90</parameter>
+	<parameter name="postCapOpenDelay" type="float" title="Jeda Setelah Tutup Buka (Detik)">1.29999995</parameter>
+	<parameter name="exitSiloSpeed" type="float">0.5</parameter>
+	<parameter name="midAscentSpeed" type="float">50</parameter>
+	<parameter name="maxSpeed" type="float">350</parameter>
+	<parameter name="accelerationRate" type="float">120</parameter>
+	<parameter name="popUpDuration" type="float">2.5</parameter>
+	<parameter name="verticalOnlyDuration" type="float">0.5</parameter>
+	<parameter name="armingDelay" type="float" title="Jarak Aman (Detik)">0.5</parameter>
+	<parameter name="hitMask" type="int" title="Mask Tabrakan">1</parameter>
+	<parameter name="targetNode" type="node" title="Target Node"/>
+	<parameter name="keyBinding" type="string" title="Nomor Silo Bind (1 sampai 16 / F1-F8)">1</parameter>
+	<parameter name="tiltFactor" type="float">0.5</parameter>
+	<parameter name="turnSmoothingRate" type="float">3.5</parameter>
+	<parameter name="maxTurnSpeed" type="float">8</parameter>
+	<parameter name="explosionPrefab" type="node"/>
+	<parameter name="smokeTrail" type="node"/>
+	<parameter name="vfx_jet_engine" type="node"/>
+	<parameter name="launchSound" type="node" title="Sound Meluncur (Snd_Meluncur)" filter="SoundSource"/>
+	<parameter name="explosionSound" type="node" title="Sound Ledakan (Snd_Ledakan)" filter="SoundSource"/>
+</property>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>6fd627e23f6f4c0ce9d72d744b877b7da5e9239d</guid>
+	<type>world</type>
+	<hash>851fa724</hash>
+	<runtimes>
+		<runtime id="6fd627e23f6f4c0ce9d72d744b877b7da5e9239d" name="vfx_snow_flakes.world" link="0"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="physics_settings_path"/>
+		<parameter type="string" name="render_settings_path">guid://2047fd469129c2abb94403ec3b4681f99be8b021</parameter>
+		<parameter type="string" name="script_name">guid://6234b435e5168bdcc87a8ac52e1c40092adb6be3</parameter>
+		<parameter type="string" name="sound_settings_path"/>
+		<parameter type="string" name="viewports_settings"/>
+	</parameters>
+</asset>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>315436a9f268603bb8f6916c6ddbe1b658bf7815</guid>
+	<type>material</type>
+	<hash>b5c733c7</hash>
+	<runtimes>
+		<runtime id="315436a9f268603bb8f6916c6ddbe1b658bf7815" name="sam_vl_mica" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

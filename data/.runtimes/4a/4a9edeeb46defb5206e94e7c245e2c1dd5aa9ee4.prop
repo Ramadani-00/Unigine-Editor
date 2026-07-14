@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.19.0.3" name="SubmarineSonar" guid="4a9edeeb46defb5206e94e7c245e2c1dd5aa9ee4" parent="657ecdbbfc83135a26777f86012da3587b67be0c" editable="0">
+	<parameter name="sonarSound" type="node" title="Sound Sonar (Snd_Alugoro)" filter="SoundSource"/>
+	<parameter name="pingInterval" type="float" title="Jeda Ping Sonar (Detik)" tooltip="Berapa detik sekali suara sonar akan berbunyi Ping">4</parameter>
+</property>

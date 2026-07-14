@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>bf0ef554f26bad1a0fcb540207ca04a90c3c1c74</guid>
+	<type>component</type>
+	<hash>fd426a5f</hash>
+	<runtimes>
+		<runtime id="bf0ef554f26bad1a0fcb540207ca04a90c3c1c74" name="majumanual.cs" link="0"/>
+		<runtime id="5c7287d287d91c66bc5f6e504b55dceee5bb3072" name="majumanual.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

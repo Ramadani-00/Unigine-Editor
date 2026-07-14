@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>64f36b5d3116f120887d07707cce0115c660755d</guid>
+	<type>component</type>
+	<hash>35925b38</hash>
+	<runtimes>
+		<runtime id="64f36b5d3116f120887d07707cce0115c660755d" name="radar.cs" link="0"/>
+		<runtime id="54236af33b1875083aca2b8e3f1b306e7aaab2b3" name="radar.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

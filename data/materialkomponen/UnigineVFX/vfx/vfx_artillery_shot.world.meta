@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>aed85ddaff514494578c2ef0b0dfc74b5d6c0d78</guid>
+	<type>world</type>
+	<hash>1e78218e</hash>
+	<runtimes>
+		<runtime id="aed85ddaff514494578c2ef0b0dfc74b5d6c0d78" name="vfx_artillery_shot.world" link="0"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="physics_settings_path"/>
+		<parameter type="string" name="render_settings_path">guid://2047fd469129c2abb94403ec3b4681f99be8b021</parameter>
+		<parameter type="string" name="script_name">guid://ace0ba34d407f94815c4b4e76207ea90ac8de3a0</parameter>
+		<parameter type="string" name="sound_settings_path"/>
+		<parameter type="string" name="viewports_settings"/>
+	</parameters>
+</asset>

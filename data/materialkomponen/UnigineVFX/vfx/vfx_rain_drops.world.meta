@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>e75ae7e167f7cfcb6c387b917b57af319eacf0ab</guid>
+	<type>world</type>
+	<hash>4e1f46db</hash>
+	<runtimes>
+		<runtime id="e75ae7e167f7cfcb6c387b917b57af319eacf0ab" name="vfx_rain_drops.world" link="0"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="physics_settings_path"/>
+		<parameter type="string" name="render_settings_path">guid://5c39370c009c7576ec6b2cc6d9ae743a6f6572a1</parameter>
+		<parameter type="string" name="script_name">guid://8f0d05a3bc2336d1c789bb5218ad84c985da78f1</parameter>
+		<parameter type="string" name="sound_settings_path"/>
+		<parameter type="string" name="viewports_settings"/>
+	</parameters>
+</asset>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="fd3c0fc1e245845be806ce4ece6100eee97c19c6" parent="912af80f474679e4b9c149c9c1196081544cd1ac" base_material="b7c07dfd4ce80edac55fcbfdd0befa02ccd20b88">
+	<options blend_src="5" blend_dest="6" cast_world_shadow="1"/>
+	<state name="albedo_color_type">1</state>
+	<state name="normal_map">1</state>
+	<state name="ambient">1</state>
+	<state name="world_shadow">1</state>
+	<state name="lerp_cascades">1</state>
+	<state name="shadow_filter_mode">3</state>
+	<state name="shadow_penumbra_mode">0</state>
+	<state name="shadow_filter_noise">1</state>
+	<texture name="albedo">guid://859a9c54e3c65ba3c8ef8ca69ed93bcdb24faac8</texture>
+	<texture name="albedo_color">
+		<curve2d>
+			<keys>
+				<key point="0.0500000007 0.620000005" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.699999988 0.620000005" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0 0.569999993" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="0.699999988 0.569999993" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0 0.56400001" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1 0.56400001" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0 0" left_tangent="0 0" right_tangent="0.121713996 0.376572549"/>
+				<key point="1.00000024 0" left_tangent="-0.259999931 0.422858775" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+	</texture>
+	<texture name="normal">guid://8b90810e808f1515d526637010f0a00f99e40e22</texture>
+	<parameter name="albedo_color" expression="0">0.623529434 0.596078455 0.564705908 0.0980392247</parameter>
+	<parameter name="animation_size" expression="0">8 4</parameter>
+	<parameter name="normal_scale" expression="0">1.68449998</parameter>
+	<parameter name="soft_interaction_scale" expression="0">0.284509987</parameter>
+	<parameter name="environment_scale" expression="0">1</parameter>
+	<parameter name="diffuse_scale" expression="0">1</parameter>
+	<parameter name="translucent" expression="0">0.419719994</parameter>
+	<parameter name="translucent_depth" expression="0">5.3520999</parameter>
+	<parameter name="softness_multiplier" expression="0">5.49300003</parameter>
+	<parameter name="shadow_threshold" expression="0">0.0591499992</parameter>
+</material>

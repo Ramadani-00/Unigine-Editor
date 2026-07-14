@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>ce6459f27bfff0a902d281f4f1bac4c3245ba346</guid>
+	<type>material</type>
+	<hash>08540097</hash>
+	<runtimes>
+		<runtime id="ce6459f27bfff0a902d281f4f1bac4c3245ba346" name="smoke_wispy_dark_2" link="0" type="5"/>
+	</runtimes>
+</asset>

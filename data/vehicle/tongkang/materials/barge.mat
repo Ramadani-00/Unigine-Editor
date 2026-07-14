@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="9da4330d5d7bed99621686f6b5e335f7811fe1d2" base_material="4dfec30f491f753f6e89094db6d3d695e89f9d6f">
+	<state name="workflow">1</state>
+	<texture name="diffuse">guid://c7499ce711ca8c1878cecc781f5170bdf5fbfe34</texture>
+	<texture name="normal">guid://1fd1feb5ac4d035eb76e26a011f4fcfe597eaab1</texture>
+	<parameter name="diffuse_color" expression="0">0.588 0.588 0.588 1</parameter>
+</material>

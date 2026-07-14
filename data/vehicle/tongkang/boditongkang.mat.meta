@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>435b4fc1e712b14cbe4891bc33c7500a56e5b5fd</guid>
+	<type>material</type>
+	<hash>a6409be7</hash>
+	<runtimes>
+		<runtime id="435b4fc1e712b14cbe4891bc33c7500a56e5b5fd" name="boditongkang" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

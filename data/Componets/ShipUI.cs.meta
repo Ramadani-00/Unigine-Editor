@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>00947e6679885b8ab55e25969c7b541844814f90</guid>
+	<type>component</type>
+	<hash>ce2425c4</hash>
+	<runtimes>
+		<runtime id="00947e6679885b8ab55e25969c7b541844814f90" name="ShipUI.cs" link="0"/>
+		<runtime id="d0e8c314dc6c7e150600d2c45b413d4e665c802e" name="ShipUI.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

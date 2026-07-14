@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>16a11663c1338866e65b848d57a9dc88e7355647</guid>
+	<type>material</type>
+	<hash>b1f8f294</hash>
+	<runtimes>
+		<runtime id="16a11663c1338866e65b848d57a9dc88e7355647" name="library_smoke_light_0" link="0" type="5"/>
+	</runtimes>
+</asset>

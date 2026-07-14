@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>867cfb43cb6a76be4f13c112e4feb85bbca0cea4</guid>
+	<type>package</type>
+	<hash>31e98ba1</hash>
+	<runtimes>
+		<runtime id="867cfb43cb6a76be4f13c112e4feb85bbca0cea4" name="exo.upackage" link="0"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.19.0.3">
+	<node type="NodeDummy" id="907989395" name="mk46_torpedo">
+		<transform>1 1.74845560007e-07 0 0.0 -1.74845560007e-07 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="987441622" immovable="1" name="Object001">
+			<mesh_name>guid://b0262dcba7820eee9af23c8d4f121db37de01d2a</mesh_name>
+			<surface name="Material #12" intersection="1" material="6f300f2631f32a333c64729c3c63fb4ea07bd727"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 0 0 0 1.0</transform>
+		</node>
+	</node>
+</nodes>

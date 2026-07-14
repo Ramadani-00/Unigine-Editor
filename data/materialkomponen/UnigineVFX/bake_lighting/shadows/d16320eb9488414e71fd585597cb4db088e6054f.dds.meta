@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>d16320eb9488414e71fd585597cb4db088e6054f</guid>
+	<type>texture</type>
+	<hash>a56b30e7</hash>
+	<runtimes>
+		<runtime id="0fd54e66e157cbba760c45c3c08ab522dd3cffc7" name="d16320eb9488414e71fd585597cb4db088e6054f.dds" link="0" type="6"/>
+		<runtime id="d16320eb9488414e71fd585597cb4db088e6054f" name="d16320eb9488414e71fd585597cb4db088e6054f.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="int" name="blur_radius">1</parameter>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="string" name="image_format">R16F</parameter>
+		<parameter type="string" name="image_type">2d array</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="bool" name="mipmap_sharp_only_lightness">1</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">custom</parameter>
+		<parameter type="float" name="sharpness_intensity">0.25</parameter>
+		<parameter type="float" name="sharpness_radius">1</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">auto</parameter>
+	</parameters>
+</asset>

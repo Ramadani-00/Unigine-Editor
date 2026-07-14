@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="918868f0feed31c0fc15c3060d54f62bfc59053c" parent="6cad3b01867f9f78deb35e0bc27e7210f19f7dc1" base_material="b7c07dfd4ce80edac55fcbfdd0befa02ccd20b88">
+	<options blend_src="2" blend_dest="6"/>
+	<state name="soft_interaction">0</state>
+	<parameter name="albedo_color" expression="0">1 0.984140992 0.922752023 0.678195</parameter>
+</material>

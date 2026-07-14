@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>28ea7ee145906406ed460520258810b5f4477199</guid>
+	<type>component</type>
+	<hash>436f12e</hash>
+	<runtimes>
+		<runtime id="28ea7ee145906406ed460520258810b5f4477199" name="pagarkiri.cs" link="0"/>
+		<runtime id="b3141bd76e1c924b64b83dbe2d9b51b46e7d168f" name="pagarkiri.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>335933cf0378704e037310621b1943a8691b3397</guid>
+	<type>node</type>
+	<hash>1eb535be</hash>
+	<runtimes>
+		<runtime id="335933cf0378704e037310621b1943a8691b3397" name="Out_Smoke_SSM.node" link="0" type="3"/>
+	</runtimes>
+</asset>

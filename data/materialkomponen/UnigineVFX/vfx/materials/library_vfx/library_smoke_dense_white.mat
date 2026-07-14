@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="6cad3b01867f9f78deb35e0bc27e7210f19f7dc1" parent="cb3efb53459273a5337bfc1eaff041a5fd342807" base_material="b7c07dfd4ce80edac55fcbfdd0befa02ccd20b88">
+	<options blend_src="2" blend_dest="6"/>
+	<state name="animation">1</state>
+	<texture name="albedo">guid://bf95fd7da282de7d2480fb3fd276c14dd914c990</texture>
+	<parameter name="albedo_color" expression="0">0.741989017 0.861751974 1 0.708263993</parameter>
+	<parameter name="animation_size" expression="0">1 16</parameter>
+	<parameter name="animation_scale" expression="0">1</parameter>
+	<parameter name="soft_interaction_scale" expression="0">1.10000002</parameter>
+</material>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>531e4ad45f1572f42431baee766974ff18a81920</guid>
+	<type>world</type>
+	<hash>1128594c</hash>
+	<runtimes>
+		<runtime id="531e4ad45f1572f42431baee766974ff18a81920" name="vfx_turbulence_flow_dust.world" link="0"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="physics_settings_path"/>
+		<parameter type="string" name="render_settings_path">guid://2047fd469129c2abb94403ec3b4681f99be8b021</parameter>
+		<parameter type="string" name="script_name">guid://01d544645a625273512ee52b91d9661d2a325736</parameter>
+		<parameter type="string" name="sound_settings_path"/>
+		<parameter type="string" name="viewports_settings"/>
+	</parameters>
+</asset>

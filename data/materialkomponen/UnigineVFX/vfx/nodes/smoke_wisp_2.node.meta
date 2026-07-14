@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>1a0e37f9b0c6010434489893b74444d67739b63d</guid>
+	<type>node</type>
+	<hash>ea4a6861</hash>
+	<runtimes>
+		<runtime id="1a0e37f9b0c6010434489893b74444d67739b63d" name="smoke_wisp_2.node" link="0" type="3"/>
+	</runtimes>
+</asset>

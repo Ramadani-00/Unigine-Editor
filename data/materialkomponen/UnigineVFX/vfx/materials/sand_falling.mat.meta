@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>06ac87eb974c7c4e88765755d88a40b0a26a5c4f</guid>
+	<type>material</type>
+	<hash>5a84899</hash>
+	<runtimes>
+		<runtime id="06ac87eb974c7c4e88765755d88a40b0a26a5c4f" name="sand_falling" link="0" type="5"/>
+	</runtimes>
+</asset>

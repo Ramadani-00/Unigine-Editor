@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="676222796f7cd8ff2a610f3e74150d428664dc74" parent="912af80f474679e4b9c149c9c1196081544cd1ac" base_material="b7c07dfd4ce80edac55fcbfdd0befa02ccd20b88">
+	<options blend_src="5" blend_dest="6" cast_world_shadow="1"/>
+	<state name="ambient">1</state>
+	<state name="world_shadow">1</state>
+	<state name="lerp_cascades">1</state>
+	<state name="shadow_filter_mode">3</state>
+	<state name="shadow_filter_noise">1</state>
+	<texture name="albedo">guid://f4bd1902e2520eeca2c1d07a89a0c0d17e948965</texture>
+	<parameter name="albedo_color" expression="0">1 1 1 0.298039228</parameter>
+	<parameter name="environment_scale" expression="0">1</parameter>
+	<parameter name="diffuse_scale" expression="0">1</parameter>
+	<parameter name="translucent" expression="0">0.151669994</parameter>
+	<parameter name="translucent_depth" expression="0">3.1105001</parameter>
+	<parameter name="softness_multiplier" expression="0">5.39849997</parameter>
+	<parameter name="shadow_offset" expression="0">0.115699999</parameter>
+</material>

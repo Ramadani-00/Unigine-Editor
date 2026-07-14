@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>6b89b3c2a8dbdc13a0a5d6580e593bf8c098e773</guid>
+	<type>material</type>
+	<hash>1f10c5ac</hash>
+	<runtimes>
+		<runtime id="6b89b3c2a8dbdc13a0a5d6580e593bf8c098e773" name="bodi_kri_fatahillah" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

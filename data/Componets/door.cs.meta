@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>cdb38987e3539b2350632f50d68af06d897d39c0</guid>
+	<type>component</type>
+	<hash>8ede98aa</hash>
+	<runtimes>
+		<runtime id="cdb38987e3539b2350632f50d68af06d897d39c0" name="door.cs" link="0"/>
+		<runtime id="3090db8d15bc49f49fc6d86e38673f5d7dd2c6de" name="ShipDoorController.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

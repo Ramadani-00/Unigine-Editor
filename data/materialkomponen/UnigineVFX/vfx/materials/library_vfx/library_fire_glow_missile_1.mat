@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="200868d29ee82804a10d0844f90b4b27ed206aa7" parent="5c6a953e991c10cc92db10b3287b27a7a1a0939e" base_material="b7c07dfd4ce80edac55fcbfdd0befa02ccd20b88">
+	<options blend_src="2" blend_dest="2"/>
+	<state name="emission">1</state>
+	<parameter name="albedo_color" expression="0">1 0.890196145 0.490196109 0.392156899</parameter>
+	<parameter name="diffuse_scale" expression="0">35</parameter>
+	<parameter name="emission_scale" expression="0">10</parameter>
+	<parameter name="emission_color" expression="0">1 0.890196145 0.490196109 0.392156899</parameter>
+</material>

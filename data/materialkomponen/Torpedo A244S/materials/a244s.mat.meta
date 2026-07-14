@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>77de343a6763abc3ce10ec788973360de04ce543</guid>
+	<type>material</type>
+	<hash>9f4eac76</hash>
+	<runtimes>
+		<runtime id="77de343a6763abc3ce10ec788973360de04ce543" name="a244s" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

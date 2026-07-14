@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>ad1eb7e6bec740d0eb2d155cd6148468f8df16e7</guid>
+	<type>component</type>
+	<hash>086ad007</hash>
+	<runtimes>
+		<runtime id="ad1eb7e6bec740d0eb2d155cd6148468f8df16e7" name="buoyancy.cs" link="0"/>
+		<runtime id="ce85d094de1c49262f2b7a9a79b59af44e14042d" name="BuoyancyKapal.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.19.0.3">
+	<node type="NodeDummy" id="721831976" name="A244S">
+		<transform>1 1.74845560007e-07 0 0.0 -1.74845560007e-07 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="2020117863" immovable="1" name="A244s">
+			<mesh_name>guid://d520ef7980007ff6d161216381ddaed80cefe850</mesh_name>
+			<surface name="A244" intersection="1" material="abb8e8faa135a148d76c133813c25edda6a1c903"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 0 0 -0.000301198713714 1.0</transform>
+		</node>
+	</node>
+</nodes>

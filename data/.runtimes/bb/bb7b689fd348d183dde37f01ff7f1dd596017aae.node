@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.19.0.3">
+	<node type="NodeDummy" id="227221345" name="361">
+		<transform>1 1.74845560007e-07 0 0.0 -1.74845560007e-07 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="1803104588" immovable="1" name="Propeller_R">
+			<mesh_name>guid://0bfb5b7c43e029553d8ac642bbcf5b7f6c618235</mesh_name>
+			<surface name="Nala" intersection="1" material="f9aff3c5129085794f831ed72d4af6bc6e567c7c"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 2.65937101916 -44.9900820196 -3.74586677551 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1269218363" immovable="1" name="Propeller_L">
+			<mesh_name>guid://9d9118e97e6e769fd425221bc39a2d844e70ae10</mesh_name>
+			<surface name="Nala" intersection="1" material="f9aff3c5129085794f831ed72d4af6bc6e567c7c"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 -2.33079564497 -44.9900815833 -3.74586677551 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1688798302" immovable="1" name="Bodi_363">
+			<mesh_name>guid://8b90ed0e9f92fb7250e179447fefc2861d122a2f</mesh_name>
+			<surface name="Nala" intersection="1" material="f9aff3c5129085794f831ed72d4af6bc6e567c7c"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 0 0 0 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="502243365" immovable="1" name="Meriam120_Base">
+			<mesh_name>guid://cec68e437896736a86a126c5e08d26ee11c0d1c2</mesh_name>
+			<surface name="Nala" intersection="1" material="f9aff3c5129085794f831ed72d4af6bc6e567c7c"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 0.00106589454506 37.4035568236 4.16361570358 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1594217280" immovable="1" name="Meriam120_Launcher">
+			<mesh_name>guid://a0a014f0498ed00581e0c0166ff8eb6d72bee639</mesh_name>
+			<surface name="Nala" intersection="1" material="f9aff3c5129085794f831ed72d4af6bc6e567c7c"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 3.15286740495e-06 36.9428939819 5.72439575195 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="52833695" immovable="1" name="Bofors375_Base">
+			<mesh_name>guid://a0022f2d2b6a3de10d9e477f8851a89f9b6c5a44</mesh_name>
+			<surface name="Nala" intersection="1" material="f9aff3c5129085794f831ed72d4af6bc6e567c7c"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 -0.0082014424575 26.8800449379 7.56578350067 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="269721202" immovable="1" name="Bofors375_Launcher">
+			<mesh_name>guid://329d1ba26fcbeec2fe621f3804ce40b81d8aa0d3</mesh_name>
+			<surface name="Nala" intersection="1" material="f9aff3c5129085794f831ed72d4af6bc6e567c7c"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 0.122043814372 26.8868102921 9.0030632019 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1471245097" immovable="1" name="Radar_1">
+			<mesh_name>guid://27bbc627334caf6ffb04c2c9949587bcad283016</mesh_name>
+			<surface name="Nala" intersection="1" material="f9aff3c5129085794f831ed72d4af6bc6e567c7c"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 2.00322305062e-06 22.9141998291 13.6428861618 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1478802036" immovable="1" name="20mm_Bodi_R">
+			<mesh_name>guid://7edc7da4dd3fcd0c0369af2a4e3c56b8bcc8287d</mesh_name>
+			<surface name="Nala" intersection="1" material="f9aff3c5129085794f831ed72d4af6bc6e567c7c"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 5.54437388111 9.67339085746 9.46849727631 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="233481027" immovable="1" name="20mm_Launcher_R">
+			<mesh_name>guid://6a5321b10e95326e76f1fb23404bcaf686efcfb8</mesh_name>
+			<surface name="Nala" intersection="1" material="f9aff3c5129085794f831ed72d4af6bc6e567c7c"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 5.50835598916 9.70543050294 10.5550012589 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1609625542" immovable="1" name="Crane_R">
+			<mesh_name>guid://7ae60b764fc560400dc03c6c37d35027ec57cfb7</mesh_name>
+			<surface name="Nala" intersection="1" material="f9aff3c5129085794f831ed72d4af6bc6e567c7c"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 3.02603435206 -0.0355456136654 6.0190486908 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="92931181" immovable="1" name="Crane_arm_R">
+			<mesh_name>guid://fb07b44bda4b93fd6535170d3a2e12b6828669aa</mesh_name>
+			<surface name="Nala" intersection="1" material="f9aff3c5129085794f831ed72d4af6bc6e567c7c"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 3.02603434457 -0.121206086178 9.00328350067 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1893309160" immovable="1" name="Exocet_Launcher">
+			<mesh_name>guid://5ebd09985906bdab1dda677ec70010debcf60d01</mesh_name>
+			<surface name="Nala" intersection="1" material="f9aff3c5129085794f831ed72d4af6bc6e567c7c"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 -0.0164599978136 -13.1254081712 6.49687862396 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1272725799" immovable="1" name="Radar_2">
+			<mesh_name>guid://34793475527123571bdca10772a309162335026c</mesh_name>
+			<surface name="Nala" intersection="1" material="f9aff3c5129085794f831ed72d4af6bc6e567c7c"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 -0.0290053025173 -19.3292884801 12.6617279053 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="895667290" immovable="1" name="40mm_Bodi_R">
+			<mesh_name>guid://1e25508a7ece1d8795d4c4e0b819378a61a31adb</mesh_name>
+			<surface name="Nala" intersection="1" material="f9aff3c5129085794f831ed72d4af6bc6e567c7c"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 5.41516734741 -21.6377911533 6.44796800613 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1151938545" immovable="1" name="40mm_Launcher_R">
+			<mesh_name>guid://f1d93cafd81279d89f3d2791b27b63f6cdcd927e</mesh_name>
+			<surface name="Nala" intersection="1" material="f9aff3c5129085794f831ed72d4af6bc6e567c7c"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 5.41516734741 -21.6377911533 8.10340309143 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1353279644" immovable="1" name="40mm_Launcher_L">
+			<mesh_name>guid://5f2d6cccb275c58c858cfd12792e3ed3e68b97c5</mesh_name>
+			<surface name="Nala" intersection="1" material="f9aff3c5129085794f831ed72d4af6bc6e567c7c"/>
+			<transform>-0.9999999934 -8.7422776119e-08 0 0.0 8.7422776119e-08 -0.9999999934 0 0.0 0 0 0.9999999934 0.0 -5.32975098909 -21.5244517435 8.10340309143 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="200502091" immovable="1" name="40mm_Bodi_L">
+			<mesh_name>guid://0635eb79ccc3b0491e18dd2b17e9a9dc623b2660</mesh_name>
+			<surface name="Nala" intersection="1" material="f9aff3c5129085794f831ed72d4af6bc6e567c7c"/>
+			<transform>-0.9999999934 -8.7422776119e-08 0 0.0 8.7422776119e-08 -0.9999999934 0 0.0 0 0 0.9999999934 0.0 -5.32975098909 -21.5244517435 6.44796800613 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1323190318" immovable="1" name="20mm_Launcher_L">
+			<mesh_name>guid://1585bede2730acafc81fec94046b09f88a1a263f</mesh_name>
+			<surface name="Nala" intersection="1" material="f9aff3c5129085794f831ed72d4af6bc6e567c7c"/>
+			<transform>-0.9999999934 8.7422776119e-08 0 0.0 -8.7422776119e-08 -0.9999999934 0 0.0 0 0 0.9999999934 0.0 -5.53299485499 9.67537928315 10.5550012589 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1526264245" immovable="1" name="20mm_Bodi_L">
+			<mesh_name>guid://9d858353f3ec425618d038558e36725b6726fe92</mesh_name>
+			<surface name="Nala" intersection="1" material="f9aff3c5129085794f831ed72d4af6bc6e567c7c"/>
+			<transform>-0.9999999934 8.7422776119e-08 0 0.0 -8.7422776119e-08 -0.9999999934 0 0.0 0 0 0.9999999934 0.0 -5.56901274693 9.70741892863 9.46849727631 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="638474128" immovable="1" name="Crane_L">
+			<mesh_name>guid://a56c9b408be6538cf754c3e68389a026df1a0cc9</mesh_name>
+			<surface name="Nala" intersection="1" material="f9aff3c5129085794f831ed72d4af6bc6e567c7c"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 -3.06463194204 -0.0355450812024 6.0190486908 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1864156591" immovable="1" name="Crane_arm_L">
+			<mesh_name>guid://cb5b0abd9228bcf748c3938f063e21b6317aaf94</mesh_name>
+			<surface name="Nala" intersection="1" material="f9aff3c5129085794f831ed72d4af6bc6e567c7c"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 -3.06463194953 -0.121205553715 9.00328350067 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="633321282" immovable="1" name="TorpedoSut_L">
+			<mesh_name>guid://1e376a72c5a1dc493cbd27886a900b56c712d5e3</mesh_name>
+			<surface name="FTH" intersection="1" material="2e5bef3ea1686b302d1039f425fa25642278721f"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 -5.43091548923 -28.7995276472 6.41853952408 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1872858553" immovable="1" name="TorpedoSut_R">
+			<mesh_name>guid://dd6bec37b1265685914dcd59068d421bbcc741e6</mesh_name>
+			<surface name="FTH" intersection="1" material="2e5bef3ea1686b302d1039f425fa25642278721f"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 5.47658668515 -28.7995286007 6.41853952408 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="489413572" immovable="1" name="TpdDecoy_L">
+			<mesh_name>guid://0bc0c8f43963bf313d924ffac4d8f57ba644f00d</mesh_name>
+			<surface name="Nala" intersection="1" material="f9aff3c5129085794f831ed72d4af6bc6e567c7c"/>
+			<transform>0.866025394183 0.500000003431 0 0.0 -0.500000003431 0.866025394183 0 0.0 0 0 0.9999999934 0.0 -5.34610270794 5.52983521469 6.50287103653 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="660419667" immovable="1" name="TpdDecoy_R">
+			<mesh_name>guid://244e96414bff628d11ffe833c110c19496d95208</mesh_name>
+			<surface name="Nala" intersection="1" material="f9aff3c5129085794f831ed72d4af6bc6e567c7c"/>
+			<transform>-0.866025368373 0.500000048134 0 0.0 -0.500000048134 -0.866025368373 0 0.0 0 0 0.9999999934 0.0 5.28520107929 5.52983428527 6.50287103653 1.0</transform>
+		</node>
+	</node>
+</nodes>

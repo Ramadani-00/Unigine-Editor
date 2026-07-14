@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>70102d75759a059e18892b4db9c7fad0d714cf17</guid>
+	<type>material_graph</type>
+	<hash>25a9c23</hash>
+	<runtimes>
+		<runtime id="70102d75759a059e18892b4db9c7fad0d714cf17" name="sphere_mesh_base.mgraph" link="0"/>
+		<runtime id="f7804daf973cc6e508d8df4791f732911c812361" name="sphere_mesh_base" link="1" type="5"/>
+	</runtimes>
+</asset>

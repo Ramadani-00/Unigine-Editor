@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>5e44b607bd545d45bf6553b2e7c08abaa4dc6dd3</guid>
+	<type>component</type>
+	<hash>82b3c8a2</hash>
+	<runtimes>
+		<runtime id="5e44b607bd545d45bf6553b2e7c08abaa4dc6dd3" name="MissileVLMICA.cs" link="0"/>
+		<runtime id="aae6640deda0d23634032280141c9c49773d6b39" name="MissileVLMICA.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

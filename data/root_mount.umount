@@ -1,0 +1,7 @@
+{
+	"ignore_filters": [
+		".svn/*",
+		".git/*",
+		".teamcity/*"
+	]
+}

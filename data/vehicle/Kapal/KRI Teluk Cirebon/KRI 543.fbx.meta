@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>99267bc1be1662e041c388ddff38dd5fcc865fa3</guid>
+	<type>fbx</type>
+	<hash>f96311fb</hash>
+	<runtimes>
+		<runtime id="99267bc1be1662e041c388ddff38dd5fcc865fa3" name="KRI 543.fbx" link="0"/>
+		<runtime id="956628247db5982c07f01ff80fb81012bfffffc2" name="KRI 543.node" link="1" type="3">
+			<parameters>
+				<parameter type="string" name="id">a5b5bdf7</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="b7d12fe77b598752f53a6ba3c6580026f6483c39" name="bodi_telukcirebonclass.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">5e10a9b2</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="17f149f6217a309c83638deabe205cae67a9b844" name="anchor_stn.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">5fa58331</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="848091719f11ba6ff4b08b8d5d5180721e1c66d3" name="anchor_r.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">4c4653f9</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="a4bbfc18b546d70f3ced292c23d982941f733e16" name="anchor_l.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">18abf891</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="5b209a0b314164a5087ab9870c16ec71d02bde7d" name="propeller_1.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">5472080b</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="6697170a51c5c5cf14f5123e73c6dc4903840db8" name="propeller_2.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">5472080b</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="409e8035561a16915536841109c54a625e92f5b7" name="radar_1.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">831a7e52</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="e766274cb9f889fa4fb75da09e5b999796ab57aa" name="radar_2.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">32fbd7d7</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="f0355e6f1225b628c1171dab76598fe0b7aa2301" name="radar_3.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">831a7e52</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="68b68d5eebb9b81d953d33d245ab3c57c51e206c" name="front_door.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">19bc1888</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="1118d33989ef35b91f55fcd5fbc8055b6a6da0db" name="37mm_base.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">a9a1faf6</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="85eb9dc06aaada9b25baf1544a3be38f077a607e" name="37mm_launcher.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">e4abf43d</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="bce0a113d169d07735d47c0f054daffdcc660dc5" name="40mm_base.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">f6b4e0bc</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="8007c0f28cae8cd9fedb46a60dd3f2049f572460" name="40mm_launcher.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">fbb4c61f</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="f29d4e7d3450f275765679d91503889399ba0c3f" name="25mm_base_l.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">b6104fc9</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="025a93742a5a70c671bf5848f138d64b5de9ac92" name="25mm_launcher_l.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">26e5ace3</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="a4bdc5f7d8901b4b92fdf8b315fa475af650e2c9" name="25mm_base_r.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">95bef718</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="b09c05c6a6173c749ebbdeba5a06a0091e878d94" name="25mm_launcher_r.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">26e5ace3</parameter>
+			</parameters>
+		</runtime>
+	</runtimes>
+	<parameters>
+		<parameter type="float" name="angular_deflection">0.699999988</parameter>
+		<parameter type="bool" name="asset_name_as_prefix">0</parameter>
+		<parameter type="string" name="base_material_mode">unique_material_graph</parameter>
+		<parameter type="float" name="bound_size">10000</parameter>
+		<parameter type="bool" name="create_transform_bones_for_joints">0</parameter>
+		<parameter type="float" name="fps">30</parameter>
+		<parameter type="string" name="front_axis">default</parameter>
+		<parameter type="bool" name="import_animations">1</parameter>
+		<parameter type="bool" name="import_bones_without_skin">1</parameter>
+		<parameter type="bool" name="import_cameras">1</parameter>
+		<parameter type="bool" name="import_lights">1</parameter>
+		<parameter type="bool" name="import_materials">1</parameter>
+		<parameter type="string" name="import_materials_mode">take_by_name_or_create</parameter>
+		<parameter type="bool" name="import_meshes">1</parameter>
+		<parameter type="bool" name="import_morph_targets">0</parameter>
+		<parameter type="bool" name="import_tangent_space">0</parameter>
+		<parameter type="bool" name="import_textures">1</parameter>
+		<parameter type="bool" name="invert_gchannel_for_normal_maps">0</parameter>
+		<parameter type="bool" name="joints_reorientation">0</parameter>
+		<parameter type="string" name="lightmaps">{&quot;guid://f29d4e7d3450f275765679d91503889399ba0c3f&quot;:{&quot;543&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://a4bdc5f7d8901b4b92fdf8b315fa475af650e2c9&quot;:{&quot;543&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://025a93742a5a70c671bf5848f138d64b5de9ac92&quot;:{&quot;543&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://b09c05c6a6173c749ebbdeba5a06a0091e878d94&quot;:{&quot;543&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://1118d33989ef35b91f55fcd5fbc8055b6a6da0db&quot;:{&quot;543&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://85eb9dc06aaada9b25baf1544a3be38f077a607e&quot;:{&quot;543&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://bce0a113d169d07735d47c0f054daffdcc660dc5&quot;:{&quot;543&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://8007c0f28cae8cd9fedb46a60dd3f2049f572460&quot;:{&quot;543&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://a4bbfc18b546d70f3ced292c23d982941f733e16&quot;:{&quot;543&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://848091719f11ba6ff4b08b8d5d5180721e1c66d3&quot;:{&quot;543&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://17f149f6217a309c83638deabe205cae67a9b844&quot;:{&quot;543&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://b7d12fe77b598752f53a6ba3c6580026f6483c39&quot;:{&quot;543&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://68b68d5eebb9b81d953d33d245ab3c57c51e206c&quot;:{&quot;543&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://5b209a0b314164a5087ab9870c16ec71d02bde7d&quot;:{&quot;543&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://6697170a51c5c5cf14f5123e73c6dc4903840db8&quot;:{&quot;543&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://409e8035561a16915536841109c54a625e92f5b7&quot;:{&quot;543&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://e766274cb9f889fa4fb75da09e5b999796ab57aa&quot;:{&quot;543&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://f0355e6f1225b628c1171dab76598fe0b7aa2301&quot;:{&quot;543&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}}}</parameter>
+		<parameter type="float" name="linear_deflection">0.200000003</parameter>
+		<parameter type="string" name="lods">_lod_0,-1e+09,3,0,0,100,0,0,60;_lod_1,3,9,0,0,60,0,1,60;_lod_2,9,1e+09,0,0,30,0,1,60</parameter>
+		<parameter type="string" name="lods_mode">off</parameter>
+		<parameter type="string" name="material_guids">543,4a51faf3b09ce5f7e97087efec69e34b810986a5</parameter>
+		<parameter type="bool" name="merge_similar_materials">0</parameter>
+		<parameter type="bool" name="merge_static_meshes">0</parameter>
+		<parameter type="bool" name="merge_surfaces_by_materials">0</parameter>
+		<parameter type="float" name="morph_targets_normals_angle">180</parameter>
+		<parameter type="string" name="morph_targets_normals_mode">import</parameter>
+		<parameter type="bool" name="need_repivot">0</parameter>
+		<parameter type="bool" name="need_split">0</parameter>
+		<parameter type="bool" name="need_triagulate">1</parameter>
+		<parameter type="int" name="num_lods">3</parameter>
+		<parameter type="string" name="prefix_materials"/>
+		<parameter type="string" name="resolution">256</parameter>
+		<parameter type="float" name="scale">1</parameter>
+		<parameter type="bool" name="skip_empty_nodes">0</parameter>
+		<parameter type="int" name="smooth_animation_size">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_0">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_1">0</parameter>
+		<parameter type="string" name="up_axis">default</parameter>
+		<parameter type="bool" name="use_instances">1</parameter>
+		<parameter type="int" name="uv_ch">1</parameter>
+		<parameter type="bool" name="vertex_cache">1</parameter>
+		<parameter type="string" name="workflow">metalness</parameter>
+	</parameters>
+</asset>

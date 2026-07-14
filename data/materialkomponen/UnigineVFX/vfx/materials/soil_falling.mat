@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="ca39251de5f463d809b8155728c7b2ca558983a1" base_material="b7c07dfd4ce80edac55fcbfdd0befa02ccd20b88">
+	<options transparent="1" blend_src="0" blend_dest="0" depth_test="0" two_sided="0" cast_shadow="0" cast_world_shadow="1"/>
+	<state name="normal_map">1</state>
+	<state name="use_voxel_probe">1</state>
+	<state name="world_shadow">1</state>
+	<state name="lerp_cascades">1</state>
+	<state name="transparent_opacity_depth">1</state>
+	<state name="transparent_velocity">1</state>
+	<state name="transparent_material_mask">1</state>
+	<texture name="albedo">guid://4fb4549064589eaf233fbc42ce1fceb9907b28c4</texture>
+	<texture name="normal">guid://9fc97ea2fff0ed996e46fa248b37ff3389f03af6</texture>
+	<parameter name="alpha_test_threshold" expression="0">0.443980008</parameter>
+	<parameter name="transparent_blur" expression="0">0.0414899997</parameter>
+	<parameter name="translucent" expression="0">0</parameter>
+	<parameter name="translucent_depth" expression="0">0</parameter>
+	<parameter name="softness_multiplier" expression="0">1.86720002</parameter>
+	<parameter name="shadow_offset" expression="0">-0.0621999986</parameter>
+</material>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>1da449ea72d8b956bec1fa08d6e33dd2501524cf</guid>
+	<type>sound</type>
+	<hash>f6ce3f98</hash>
+	<runtimes>
+		<runtime id="1da449ea72d8b956bec1fa08d6e33dd2501524cf" name="enginetanksoundmono.wav" link="0" type="7"/>
+	</runtimes>
+</asset>

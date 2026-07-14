@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>98a592984617f517468c8f8ad73d396129e0834c</guid>
+	<type>material</type>
+	<hash>7a2f1028</hash>
+	<runtimes>
+		<runtime id="98a592984617f517468c8f8ad73d396129e0834c" name="grid_for_world_creation_0" link="0" type="5"/>
+	</runtimes>
+</asset>

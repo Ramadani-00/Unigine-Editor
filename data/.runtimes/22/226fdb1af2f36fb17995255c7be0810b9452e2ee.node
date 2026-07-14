@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.19.0.3">
+	<node type="NodeDummy" id="233985741" name="Aero Exocet">
+		<transform>1 1.74845560007e-07 0 0.0 -1.74845560007e-07 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="2052590024" immovable="1" name="Exocet">
+			<mesh_name>guid://f44d4d7501a58050cac6576f192e9e0284f3c579</mesh_name>
+			<surface name="Exocet" intersection="1" material="7d163fd6afe5753d0ac13578fc447a774a53956a"/>
+			<transform>0.9999999934 0 0 0.0 0 0.9999999934 0 0.0 0 0 0.9999999934 0.0 4.76837158203e-07 -4.16864299792e-14 2.08616256714e-07 1.0</transform>
+		</node>
+	</node>
+</nodes>

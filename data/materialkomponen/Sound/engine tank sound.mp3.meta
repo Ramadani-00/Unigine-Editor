@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>3192ea04a5ffa310480bc392355fc03a55067811</guid>
+	<type>sound</type>
+	<hash>6eaeb8df</hash>
+	<runtimes>
+		<runtime id="3192ea04a5ffa310480bc392355fc03a55067811" name="engine tank sound.mp3" link="0" type="7"/>
+	</runtimes>
+</asset>

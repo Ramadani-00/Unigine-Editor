@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>4b234395cfa06060a0ab93c43d5b2b507749fa20</guid>
+	<type>property</type>
+	<hash>e32a93</hash>
+	<runtimes>
+		<runtime id="4b234395cfa06060a0ab93c43d5b2b507749fa20" name="ShipRemoteControl" link="0" type="4"/>
+	</runtimes>
+</asset>

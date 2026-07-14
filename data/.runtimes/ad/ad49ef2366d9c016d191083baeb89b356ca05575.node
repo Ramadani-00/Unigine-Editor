@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.19.0.3">
+	<node type="NodeDummy" id="1253881079" name="NB412S">
+		<transform>1 1.74845560007e-07 0 0.0 -1.74845560007e-07 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="1681755626" immovable="1" name="Body">
+			<mesh_name>guid://0f5238aea5042d26ae67ef76553c1380fb0ce850</mesh_name>
+			<surface name="nb412s_1" intersection="1" material="064b2de895c5f4ca1cf818f0decd8c0c2f3e831a"/>
+			<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+			<node type="ObjectMeshStatic" id="905208897" immovable="1" name="RearRotor">
+				<mesh_name>guid://97262b0d75c60cd6183fc9e58a626f0ed0769f6f</mesh_name>
+				<surface name="nb412s_1" intersection="1" material="064b2de895c5f4ca1cf818f0decd8c0c2f3e831a"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 0.345826654996 -7.73879763766 4.14799377441 1.0</transform>
+			</node>
+			<node type="ObjectMeshStatic" id="606269612" immovable="1" name="MainRotor">
+				<mesh_name>guid://5e0f9990b7ebcd5263098d983dd4d55ba7d24602</mesh_name>
+				<surface name="nb412s_1" intersection="1" material="064b2de895c5f4ca1cf818f0decd8c0c2f3e831a"/>
+				<transform>1 -2.64697796017e-23 0 0.0 2.64697796017e-23 1 0 0.0 0 0 1 0.0 -2.64534560989e-05 1.10768463135 3.70752258301 1.0</transform>
+			</node>
+			<node type="NodeDummy" id="2128983067" name="Camera">
+				<transform>-2.50343479128e-07 -1 -8.74227800037e-08 0.0 -1.62920662996e-07 8.74228207899e-08 -1 0.0 1 -2.50343464885e-07 -1.62920684882e-07 0.0 5.26619246787e-07 4.01588134766 2.0901272583 1.0</transform>
+			</node>
+		</node>
+	</node>
+</nodes>

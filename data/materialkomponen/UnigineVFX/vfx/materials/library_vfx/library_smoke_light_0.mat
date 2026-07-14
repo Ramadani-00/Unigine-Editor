@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="16a11663c1338866e65b848d57a9dc88e7355647" parent="b6e5351587c0625c6c5503dab247c94de0c4e6ac" base_material="b7c07dfd4ce80edac55fcbfdd0befa02ccd20b88">
+	<options depth_test="1" overlap="0"/>
+	<state name="shadow_penumbra_mode">0</state>
+	<state name="transparent_scene_depth">0</state>
+	<texture name="albedo_color">
+		<curve2d>
+			<keys>
+				<key point="0.00285714143 0.513999999" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1.00285697 0.513999999" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0.00285714143 0.513999999" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1.00285697 0.513999999" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0.00285714143 0.513999999" left_tangent="0 0" right_tangent="0 0"/>
+				<key point="1.00285697 0.513999999" left_tangent="0 0" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+		<curve2d>
+			<keys>
+				<key point="0.00199997821 -0.0742871165" left_tangent="0 0" right_tangent="0.426856369 3.35199618"/>
+				<key point="1.00400019 -0.120002985" left_tangent="-0.0899991393 0.932000279" right_tangent="0 0"/>
+			</keys>
+		</curve2d>
+	</texture>
+	<parameter name="normal_scale" expression="0">1.13110006</parameter>
+	<parameter name="translucent" expression="0">0.48585999</parameter>
+	<parameter name="translucent_depth" expression="0">8.45759964</parameter>
+	<parameter name="softness_multiplier" expression="0">10</parameter>
+	<parameter name="shadow_threshold" expression="0">0.598969996</parameter>
+	<parameter name="shadow_offset" expression="0">-0.0386000015</parameter>
+</material>

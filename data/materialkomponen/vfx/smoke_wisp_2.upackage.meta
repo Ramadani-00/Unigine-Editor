@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>dedd96771d54f2dc6d24b198a00e8f3bcf85a430</guid>
+	<type>package</type>
+	<hash>798d9cb</hash>
+	<runtimes>
+		<runtime id="dedd96771d54f2dc6d24b198a00e8f3bcf85a430" name="smoke_wisp_2.upackage" link="0"/>
+	</runtimes>
+</asset>

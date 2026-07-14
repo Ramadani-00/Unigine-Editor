@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>7cea10e22119ad88aa422b112e241f20c1b1d548</guid>
+	<type>component</type>
+	<hash>99304d8f</hash>
+	<runtimes>
+		<runtime id="7cea10e22119ad88aa422b112e241f20c1b1d548" name="GunBaseController.cs" link="0"/>
+		<runtime id="c0b9c83046465fe34285d8872b436157bdc47326" name="GunBaseController.prop" link="1" type="4"/>
+	</runtimes>
+</asset>
